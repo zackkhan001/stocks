@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Portfolio</title>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#0c0f14;--card:#141922;--line:#232b38;--tx:#e8edf4;--mu:#8793a5;--up:#34d399;--dn:#fb7185;--ac:#5aa9ff}
+*{box-sizing:border-box}
+body{margin:0 auto;max-width:1300px;padding:14px;background:var(--bg);color:var(--tx);font:14px/1.45 Manrope,system-ui,sans-serif;font-variant-numeric:tabular-nums}
+header{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+h1{font-size:24px;font-weight:800;margin:0;letter-spacing:-.5px}
+small,.mu{color:var(--mu)}
+button,select,input{background:var(--card);color:var(--tx);border:1px solid var(--line);border-radius:6px;padding:7px 12px;font:inherit}
+button{cursor:pointer}button:hover,button.on{border-color:var(--ac);color:var(--ac)}
+:focus-visible{outline:2px solid var(--ac);outline-offset:1px}
+.row{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;align-items:center}
+.kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px;margin-top:12px}
+.box,.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px}
+.box b{display:block;color:var(--mu);font-weight:600;margin-bottom:4px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.up{color:var(--up)}.dn{color:var(--dn)}
+.top{display:flex;justify-content:space-between;gap:8px}
+.sym{font-size:18px;font-weight:800}
+.price{font-size:22px;font-weight:600;text-align:right}
+.sp{height:70px;margin:8px 0}
+.st{display:grid;grid-template-columns:auto 1fr auto 1fr;gap:2px 10px;font-size:12px;margin:8px 0}
+.st span:nth-child(odd){color:var(--mu)}
+a{color:var(--ac);text-decoration:none;font-size:12px;display:block;margin-top:4px}
+.card .row{margin:10px 0 0}.card button{font-size:12px;padding:4px 9px}
+dialog{background:var(--card);color:var(--tx);border:1px solid var(--line);border-radius:10px;max-width:360px;width:92%}
+dialog::backdrop{background:#000b}
+dialog label{display:block;margin:10px 0 3px;color:var(--mu);font-size:12px}
+dialog input,dialog select{width:100%}
+summary{cursor:pointer;font-weight:600}
+</style></head><body>
+<header>
+<div><h1>Portfolio</h1><small id="up">Loading</small></div>
+<div class="row" style="margin:0">
+<button id="bp" onclick="P=!P;S('pf_p',P);draw()"></button>
+<button onclick="ed(-1)">Add holding</button>
+<button onclick="oa()">Auto-invest</button>
+<button onclick="imp.click()">Import</button>
+<button onclick="ex()">Export</button>
+<input id="imp" type="file" accept=".json" hidden>
+</div></header>
+<div class="kpi" id="kpi"></div>
+<div class="row" id="tabs"></div>
+<details open id="sm" class="box"><summary>Sector mix</summary><div style="height:250px;max-width:340px;margin:10px auto 0"><canvas id="dn"></canvas></div></details>
+<div class="row" id="pills"></div>
+<div class="row"><input id="sq" placeholder="Search" oninput="draw()">
+<select id="sort" onchange="draw()"><option value="w">Sort: weight</option><option value="d">Sort: day change</option><option value="r">Sort: return</option><option value="p">Sort: price</option><option value="a">Sort: A to Z</option></select></div>
+<div class="grid" id="g"></div>
+
+<dialog id="dh"><b>Holding</b>
+<label>Account</label><select id="hacc"><option>Fidelity<option>Cash App</select>
+<label>Ticker (must be listed in tickers.json for live prices)</label><input id="hsym">
+<label>Shares</label><input id="hsh" type="number" step="any">
+<label>Average cost per share (optional)</label><input id="hcost" type="number" step="any">
+<label>Manual value in dollars (only for holdings with no price)</label><input id="hval" type="number" step="any">
+<label>Sector</label><select id="hsec"></select>
+<p class="mu">Auto-invest shares are added on top of the shares entered here.</p>
+<div class="row"><button onclick="sv()">Save</button><button id="hdel" onclick="rm()">Remove</button><button onclick="dh.close()">Cancel</button></div></dialog>
+
+<dialog id="da"><b>Auto-invest</b>
+<label><input id="aon" type="checkbox" style="width:auto"> Turned on</label>
+<label>Ticker</label><input id="asym">
+<label>Account</label><select id="aacc"><option>Fidelity<option>Cash App</select>
+<label>Amount per purchase ($)</label><input id="aamt" type="number" step="any">
+<label>First purchase date (repeats every 14 days)</label><input id="ast" type="date">
+<div class="row"><button onclick="sa()">Save</button><button onclick="da.close()">Cancel</button></div></dialog>
+
+<script>
+const SEC=['Tech','Financials','ETFs','Consumer','Travel','Healthcare'];
+const DS={AAPL:'Tech',MSFT:'Tech',NVDA:'Tech',GOOGL:'Tech',CSCO:'Tech',SBAY:'Tech',COF:'Financials',SCHD:'ETFs',KO:'Consumer',CCL:'Travel',UAL:'Travel',SCLX:'Healthcare'};
+const L=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch{return d}},S=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
+let H=L('pf_h',[]),AI=L('pf_ai',{on:true,sym:'NVDA',acct:'Cash App',amt:10,start:'2026-11-16'}),P=L('pf_p',true),M={quotes:{},hist:{}},acct='All',sec='All',ch,spark={},ei=-1;
+const $=s=>document.querySelector(s),q=s=>M.quotes[s]||{};
+const n2=(v,d=2)=>v==null?'-':v.toLocaleString(undefined,{minimumFractionDigits:d,maximumFractionDigits:d});
+const usd=v=>P?'****':v==null?'-':'$'+n2(v);
+const pc=v=>v==null||v!==v?'-':`<span class="${v>=0?'up':'dn'}">${v>=0?'+':''}${n2(v)}%</span>`;
+const big=v=>!v?'-':v>=1e12?n2(v/1e12)+'T':v>=1e9?n2(v/1e9)+'B':n2(v/1e6)+'M';
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const dd=d=>d?new Date(d+'T12:00:00').toLocaleDateString(undefined,{month:'short',day:'numeric'}):'-';
+const SO={w:(a,b)=>b.w-a.w,d:(a,b)=>(b.chg??-1e9)-(a.chg??-1e9),r:(a,b)=>(b.ret??-1e9)-(a.ret??-1e9),p:(a,b)=>(b.price??0)-(a.price??0),a:(a,b)=>a.sym.localeCompare(b.sym)};
+hsec.innerHTML=SEC.map(s=>`<option>${s}`).join('');
+
+function adj(h){ // applies estimated auto-invest purchases
+ if(!AI.on||h.sym!==AI.sym||h.acct!==AI.acct||!AI.amt)return h;
+ let sh=h.sh,tot=h.cost?h.sh*h.cost:null,c=h.cost,hi=M.hist[h.sym]||{},ks=Object.keys(hi).sort(),today=new Date().toISOString().slice(0,10);
+ for(let d=new Date(AI.start+'T12:00:00');d.toISOString().slice(0,10)<=today;d.setDate(d.getDate()+14)){
+  const ds=d.toISOString().slice(0,10),k=ks.find(x=>x>=ds),p=k?hi[k]:q(h.sym).price;
+  if(!p)continue;sh+=AI.amt/p;if(tot!=null){tot+=AI.amt;c=tot/sh}
+ }
+ return{...h,sh,cost:c};
+}
+
+function draw(){
+ $('#bp').textContent='Privacy: '+(P?'on':'off');
+ $('#up').textContent=M.updated?'Prices updated '+new Date(M.updated).toLocaleString():'No market data yet';
+ const all=Object.values(H.map((h,i)=>({...adj(h),i})).filter(h=>acct=='All'||h.acct==acct).reduce((m,h)=>{
+  const r=m[h.sym]||(m[h.sym]={sym:h.sym,sec:h.sec||DS[h.sym]||'Tech',sh:0,v0:0,csh:0,ct:0,ac:[],ids:[]});
+  r.sh+=h.sh;r.v0+=h.val||0;if(h.cost){r.csh+=h.sh;r.ct+=h.sh*h.cost}r.ac.push(h.acct);r.ids.push(h.i);return m},{}));
+ let tot=0,dc=0,cv=0,ct=0;
+ all.forEach(r=>{const Q=q(r.sym);r.name=Q.name||r.sym;r.price=Q.price;r.chg=Q.chg;r.val=r.price!=null?r.sh*r.price:r.v0;
+  r.cost=r.csh?r.ct/r.csh:null;r.ret=r.cost&&r.price!=null?(r.price/r.cost-1)*100:null;
+  tot+=r.val;if(r.chg!=null)dc+=r.val-r.val/(1+r.chg/100);if(r.ret!=null){cv+=r.csh*r.price;ct+=r.ct}});
+ all.forEach(r=>r.w=tot?r.val/tot*100:0);
+
+ const mv=all.filter(r=>r.chg!=null).sort((a,b)=>b.chg-a.chg),td=new Date().toISOString().slice(0,10);
+ const e=all.filter(r=>q(r.sym).earn&&q(r.sym).earn>=td).sort((a,b)=>q(a.sym).earn<q(b.sym).earn?-1:1)[0];
+ const p=all.filter(r=>q(r.sym).ep).sort((a,b)=>q(a.sym).ep<q(b.sym).ep?1:-1)[0];
+ $('#kpi').innerHTML=`<div class="box"><b>Portfolio status</b>Today ${pc(tot-dc>0?dc/(tot-dc)*100:null)} ${P?'':'('+(dc>=0?'+':'-')+'$'+n2(Math.abs(dc))+')'}<br>Return vs cost ${pc(ct?(cv/ct-1)*100:null)}<br>Total value ${usd(tot)}</div>
+ <div class="box"><b>Top movers</b>${mv.length?`Up: ${mv[0].sym} ${pc(mv[0].chg)}<br>Down: ${mv.at(-1).sym} ${pc(mv.at(-1).chg)}`:'-'}</div>
+ <div class="box"><b>Earnings</b>Next: ${e?e.sym+' '+dd(q(e.sym).earn):'-'}<br>Recent: ${p?p.sym+' '+dd(q(p.sym).ep):'-'}</div>`;
+ $('#tabs').innerHTML=['All','Fidelity','Cash App'].map(a=>`<button class="${a==acct?'on':''}" onclick="acct='${a}';draw()">${a=='All'?'Combined':a}</button>`).join('');
+ $('#pills').innerHTML=['All',...SEC].map(s=>`<button class="${s==sec?'on':''}" onclick="sec='${s}';draw()">${s}</button>`).join('');
+
+ ch&&ch.destroy();
+ ch=new Chart($('#dn'),{type:'doughnut',data:{labels:SEC,datasets:[{data:SEC.map(s=>+all.filter(r=>r.sec==s).reduce((a,r)=>a+r.w,0).toFixed(1)),backgroundColor:['#5aa9ff','#34d399','#fbbf24','#f472b6','#a78bfa','#22d3ee'],borderColor:'#141922'}]},
+  options:{maintainAspectRatio:false,plugins:{legend:{labels:{color:'#8793a5'}},tooltip:{callbacks:{label:c=>c.label+': '+c.raw+'%'}}}}});
+
+ const f=($('#sq').value||'').toLowerCase();
+ const list=all.filter(r=>(sec=='All'||r.sec==sec)&&(r.sym+r.name).toLowerCase().includes(f)).sort(SO[$('#sort').value]);
+ Object.values(spark).forEach(c=>c.destroy());spark={};
+ $('#g').innerHTML=H.length?list.map(r=>{const Q=q(r.sym);return `<div class="card"><div class="top"><div><div class="sym">${esc(r.sym)}</div><small>${esc(r.name)}<br>${[...new Set(r.ac)].join(', ')}</small></div><div><div class="price">${r.price!=null?'$'+n2(r.price):'-'}</div><div style="text-align:right">${pc(r.chg)}</div></div></div>
+ <div class="sp"><canvas id="s_${r.sym}"></canvas></div>
+ <div class="st"><span>Weight</span><span>${n2(r.w,1)}%</span><span>Return</span><span>${pc(r.ret)}</span><span>Value</span><span>${usd(r.val)}</span><span>Shares</span><span>${P?'****':n2(r.sh,5)}</span><span>Market cap</span><span>${big(Q.mcap)}</span><span>P/E</span><span>${n2(Q.pe)}</span><span>Dividend</span><span>${Q.dy!=null?n2(Q.dy)+'%':'-'}</span><span>Earnings</span><span>${dd(Q.earn)}</span></div>
+ ${(Q.news||[]).filter(n=>/^https?:/.test(n.u)).map(n=>`<a href="${esc(n.u)}" target="_blank" rel="noopener">${esc(n.t)}</a>`).join('')}
+ <div class="row">${r.ids.map(i=>`<button onclick="ed(${i})">Edit ${H[i].acct}</button>`).join('')}</div></div>`}).join(''):'<p class="mu">No holdings yet. Click Import and choose my_holdings.json, or click Add holding.</p>';
+ list.forEach(r=>{const Q=q(r.sym);if(!Q.sp)return;
+  spark[r.sym]=new Chart(document.getElementById('s_'+r.sym),{type:'line',data:{labels:Q.sd,datasets:[{data:Q.sp,borderColor:r.chg>=0?'#34d399':'#fb7185',borderWidth:2,pointRadius:0,pointHoverRadius:4,tension:.3}]},
+  options:{maintainAspectRatio:false,scales:{x:{display:false},y:{display:false}},plugins:{legend:{display:false},tooltip:{intersect:false,mode:'index',callbacks:{label:c=>'$'+c.raw}}}}})});
+}
+
+function ed(i){ei=i;const h=i<0?{acct:acct=='All'?'Fidelity':acct,sym:'',sh:''}:H[i];
+ hacc.value=h.acct;hsym.value=h.sym;hsh.value=h.sh;hcost.value=h.cost||'';hval.value=h.val||'';hsec.value=h.sec||DS[h.sym]||'Tech';hdel.style.display=i<0?'none':'';dh.showModal()}
+function sv(){const s=hsym.value.trim().toUpperCase();if(!s)return;const h={acct:hacc.value,sym:s,sh:+hsh.value||0,sec:hsec.value};
+ if(+hcost.value)h.cost=+hcost.value;if(+hval.value)h.val=+hval.value;ei<0?H.push(h):H[ei]=h;S('pf_h',H);dh.close();draw()}
+function rm(){H.splice(ei,1);S('pf_h',H);dh.close();draw()}
+function oa(){aon.checked=AI.on;asym.value=AI.sym;aacc.value=AI.acct;aamt.value=AI.amt;ast.value=AI.start;da.showModal()}
+function sa(){AI={on:aon.checked,sym:asym.value.trim().toUpperCase(),acct:aacc.value,amt:+aamt.value||0,start:ast.value};S('pf_ai',AI);da.close();draw()}
+function ex(){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify({holdings:H,autoinvest:AI},null,1)]));a.download='my_holdings.json';a.click()}
+imp.onchange=async e=>{try{const j=JSON.parse(await e.target.files[0].text());H=j.holdings;if(j.autoinvest)AI=j.autoinvest;S('pf_h',H);S('pf_ai',AI);draw()}catch{alert('Could not read that file. Choose my_holdings.json.')}e.target.value=''};
+sm.addEventListener('toggle',()=>sm.open&&draw());
+async function load(){try{M=await(await fetch('market_data.json?'+Date.now())).json()}catch{}draw()}
+draw();load();setInterval(load,300000);
+</script></body></html>
