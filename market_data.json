@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-19T17:33:36.766938+00:00",
-  "updated": "2026-11-19T17:33:36.766949+00:00",
+  "updatedAt": "2026-11-19T17:51:12.182520+00:00",
+  "updated": "2026-11-19T17:51:12.182527+00:00",
   "quotes": {
     "AAPL": {
-      "price": 349.83,
-      "change": -2.62,
-      "changePercent": -0.74,
-      "chg": -0.74,
+      "price": 349.67,
+      "change": -2.78,
+      "changePercent": -0.79,
+      "chg": -0.79,
       "history": [
         354.02,
         352.29,
@@ -14,7 +14,7 @@
         351.39,
         350.48,
         350.48,
-        351.9,
+        351.92,
         353.25,
         352.98,
         353.49,
@@ -25,7 +25,7 @@
         348.72,
         349.97,
         350.11,
-        349.83
+        349.67
       ],
       "sp": [
         354.02,
@@ -34,7 +34,7 @@
         351.39,
         350.48,
         350.48,
-        351.9,
+        351.92,
         353.25,
         352.98,
         353.49,
@@ -45,7 +45,7 @@
         348.72,
         349.97,
         350.11,
-        349.83
+        349.67
       ],
       "sd": [
         0,
@@ -70,24 +70,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Is Snap Stock Ready For Shrinking Ad Sales?",
+          "source": "Trefis",
+          "date": "Nov 19, 2026",
+          "snippet": "Today\u2019s big story: Could Anthropic Stock Fall 25."
+        },
+        {
           "title": "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
           "source": "Trefis",
           "date": "Nov 19, 2026",
           "snippet": "Today's big story: Could Anthropic Stock Fall 25."
-        },
-        {
-          "title": "Apple\u2019s Longest-Serving Director Just Cashed Out $32 Million",
-          "source": "24/7 Wall St.",
-          "date": "Nov 19, 2026",
-          "snippet": "A 75-year-old director unloaded stock near Apple's record high, and the filing leaves out the one detail investors want most. Before you read it as a warning, check what the form actually shows and what it hides."
         }
       ]
     },
     "CSCO": {
-      "price": 96.56,
-      "change": -0.62,
-      "changePercent": -0.64,
-      "chg": -0.64,
+      "price": 96.08,
+      "change": -1.1,
+      "changePercent": -1.13,
+      "chg": -1.13,
       "history": [
         94.86,
         94.59,
@@ -106,7 +106,7 @@
         97.32,
         97.37,
         96.54,
-        96.56
+        96.08
       ],
       "sp": [
         94.86,
@@ -126,7 +126,7 @@
         97.32,
         97.37,
         96.54,
-        96.56
+        96.08
       ],
       "sd": [
         0,
@@ -165,10 +165,10 @@
       ]
     },
     "COF": {
-      "price": 184.09,
-      "change": -0.21,
-      "changePercent": -0.11,
-      "chg": -0.11,
+      "price": 184.54,
+      "change": 0.24,
+      "changePercent": 0.13,
+      "chg": 0.13,
       "history": [
         191.38,
         187.68,
@@ -186,8 +186,8 @@
         184.24,
         185.8,
         184.62,
-        183.66,
-        184.09
+        183.71,
+        184.54
       ],
       "sp": [
         191.38,
@@ -206,8 +206,8 @@
         184.24,
         185.8,
         184.62,
-        183.66,
-        184.09
+        183.71,
+        184.54
       ],
       "sd": [
         0,
@@ -246,10 +246,10 @@
       ]
     },
     "SCHD": {
-      "price": 34.26,
-      "change": -0.44,
-      "changePercent": -1.27,
-      "chg": -1.27,
+      "price": 34.27,
+      "change": -0.43,
+      "changePercent": -1.24,
+      "chg": -1.24,
       "history": [
         35.67,
         35.49,
@@ -268,7 +268,7 @@
         34.39,
         34.28,
         34.26,
-        34.26
+        34.27
       ],
       "sp": [
         35.67,
@@ -288,7 +288,7 @@
         34.39,
         34.28,
         34.26,
-        34.26
+        34.27
       ],
       "sd": [
         0,
@@ -327,10 +327,10 @@
       ]
     },
     "KO": {
-      "price": 95.7,
-      "change": -2.39,
-      "changePercent": -2.44,
-      "chg": -2.44,
+      "price": 96.0,
+      "change": -2.09,
+      "changePercent": -2.13,
+      "chg": -2.13,
       "history": [
         99.35,
         99.04,
@@ -349,7 +349,7 @@
         95.88,
         95.56,
         95.78,
-        95.7
+        96.0
       ],
       "sp": [
         99.35,
@@ -369,7 +369,7 @@
         95.88,
         95.56,
         95.78,
-        95.7
+        96.0
       ],
       "sd": [
         0,
@@ -408,10 +408,10 @@
       ]
     },
     "MSFT": {
-      "price": 510.66,
-      "change": 2.37,
-      "changePercent": 0.47,
-      "chg": 0.47,
+      "price": 508.62,
+      "change": 0.33,
+      "changePercent": 0.06,
+      "chg": 0.06,
       "history": [
         507.58,
         499.05,
@@ -430,7 +430,7 @@
         517.94,
         514.66,
         510.32,
-        510.66
+        508.62
       ],
       "sp": [
         507.58,
@@ -450,7 +450,7 @@
         517.94,
         514.66,
         510.32,
-        510.66
+        508.62
       ],
       "sd": [
         0,
@@ -481,18 +481,18 @@
           "snippet": "After more than 13 years, Grand Theft Auto VI finally launches on November 19, and it's about a lot more than a video game. Yahoo Finance Senior Reporter Pras Subramanian follows the money: why Take-Two is telling investors to expect $8 billion-plus in bookings this year but only about $109 million to $142 million in profit, how GTA Online's recurring spending became the real prize, and why Sony and Microsoft can cash in without making the game at all."
         },
         {
-          "title": "Intel Stocks Jump 7.87% After Foundry Signs First Outside 18A Customer",
-          "source": "GuruFocus.com",
+          "title": "Anthropic's $107 billion sale set to top SpaceX's IPO",
+          "source": "CoinDesk",
           "date": "Nov 19, 2026",
-          "snippet": "Lip-Bu Tan did not name the client, but Intel's foundry finally has external validation after a brutal two months."
+          "snippet": "Anthropic, the maker of Claude, priced a record $107 billion share sale ahead of its Nasdaq debut, valuing the company at $1.5 trillion. Tokenized versions of the stock are set to go live on BNB Chain and Solana. CoinDesk's Uyen Truong hosts \"CoinDesk Daily.\""
         }
       ]
     },
     "NVDA": {
-      "price": 150.35,
-      "change": -0.61,
-      "changePercent": -0.4,
-      "chg": -0.4,
+      "price": 149.4,
+      "change": -1.56,
+      "changePercent": -1.03,
+      "chg": -1.03,
       "history": [
         153.65,
         154.6,
@@ -500,8 +500,8 @@
         154.1,
         153.62,
         153.48,
-        155.46,
-        153.8,
+        155.47,
+        153.79,
         152.0,
         152.85,
         152.13,
@@ -510,8 +510,8 @@
         150.87,
         153.51,
         153.24,
-        150.22,
-        150.35
+        150.25,
+        149.4
       ],
       "sp": [
         153.65,
@@ -520,8 +520,8 @@
         154.1,
         153.62,
         153.48,
-        155.46,
-        153.8,
+        155.47,
+        153.79,
         152.0,
         152.85,
         152.13,
@@ -530,8 +530,8 @@
         150.87,
         153.51,
         153.24,
-        150.22,
-        150.35
+        150.25,
+        149.4
       ],
       "sd": [
         0,
@@ -556,24 +556,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Anthropic's mega-IPO is still leaving investors working with 'imperfect information'",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 19, 2026",
+          "snippet": "Following Anthropic's (ANT) historic mega-IPO, Baird managing director of technology Ted Mortonson comes on Yahoo Finance to discuss the information that investors are currently working with when it comes to the AI company's compute spending."
+        },
+        {
           "title": "Nvidia, Broadcom, and Micron stocks erase gains as Anthropic goes public",
           "source": "Yahoo Finance",
           "date": "Nov 19, 2026",
           "snippet": "Chip giant Nvidia slid into the red on Thursday, along with Broadcom and Intel, after\u00a0Anthropic shares began trading."
-        },
-        {
-          "title": "Being Bearish on Anthropic: $1 Trillion Compute Bill and Nvidia turmoil",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 19, 2026",
-          "snippet": "In the Loop host Ejaaz Ahamadeen lays out the case against Anthropic's (ANT) roughly $1 trillion compute commitment, arguing that Nvidia's (NVDA) leadership turmoil and a possible slowdown in US data center build-out could cut into its GPU supply and revenue."
         }
       ]
     },
     "UAL": {
-      "price": 107.69,
-      "change": 0.06,
-      "changePercent": 0.06,
-      "chg": 0.06,
+      "price": 107.07,
+      "change": -0.56,
+      "changePercent": -0.52,
+      "chg": -0.52,
       "history": [
         109.31,
         107.2,
@@ -592,7 +592,7 @@
         106.48,
         107.6,
         107.48,
-        107.69
+        107.07
       ],
       "sp": [
         109.31,
@@ -612,7 +612,7 @@
         106.48,
         107.6,
         107.48,
-        107.69
+        107.07
       ],
       "sd": [
         0,
@@ -651,10 +651,10 @@
       ]
     },
     "GOOGL": {
-      "price": 285.77,
-      "change": 3.33,
-      "changePercent": 1.18,
-      "chg": 1.18,
+      "price": 282.81,
+      "change": 0.37,
+      "changePercent": 0.13,
+      "chg": 0.13,
       "history": [
         282.55,
         280.87,
@@ -673,7 +673,7 @@
         289.64,
         289.26,
         285.62,
-        285.77
+        282.81
       ],
       "sp": [
         282.55,
@@ -693,7 +693,7 @@
         289.64,
         289.26,
         285.62,
-        285.77
+        282.81
       ],
       "sd": [
         0,
@@ -718,24 +718,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Broadcom Stocks Rise 4.21% as Chip Supplier Joins Anthropic's $26 Billion Placement",
-          "source": "GuruFocus.com",
+          "title": "Is Snap Stock Ready For Shrinking Ad Sales?",
+          "source": "Trefis",
           "date": "Nov 19, 2026",
-          "snippet": "Broadcom is buying $1 billion of Anthropic shares while also serving the lab as a supplier and lessor."
+          "snippet": "Today\u2019s big story: Could Anthropic Stock Fall 25."
         },
         {
-          "title": "TSMC Stocks Rise 3.11% as Foundry Takes $500 Million Slice of Anthropic IPO Placement",
-          "source": "GuruFocus.com",
+          "title": "Meta\u2019s Advertising Business Could Drive Another Major Earnings Surprise",
+          "source": "24/7 Wall St.",
           "date": "Nov 19, 2026",
-          "snippet": "TSMC Partners is buying 6 million Anthropic shares, while a new U.S. rule tightens China's remote compute access."
+          "snippet": "A $9.89 billion legal settlement turned a blockbuster ad quarter into an apparent earnings miss. Meta's growth engine is still accelerating, and the gap between the headline and the reality could set up a sharp reversal."
         }
       ]
     },
     "CCL": {
-      "price": 28.29,
-      "change": -0.68,
-      "changePercent": -2.35,
-      "chg": -2.35,
+      "price": 28.11,
+      "change": -0.86,
+      "changePercent": -2.97,
+      "chg": -2.97,
       "history": [
         28.84,
         28.39,
@@ -754,7 +754,7 @@
         28.06,
         28.23,
         28.25,
-        28.29
+        28.11
       ],
       "sp": [
         28.84,
@@ -774,7 +774,7 @@
         28.06,
         28.23,
         28.25,
-        28.29
+        28.11
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.65,
-      "change": 0.02,
-      "changePercent": 3.19,
-      "chg": 3.19,
+      "price": 0.62,
+      "change": -0.01,
+      "changePercent": -1.59,
+      "chg": -1.59,
       "history": [
-        1.25,
         0.64,
         0.68,
         0.65,
@@ -835,10 +834,10 @@
         0.62,
         0.67,
         0.66,
-        0.65
+        0.65,
+        0.62
       ],
       "sp": [
-        1.25,
         0.64,
         0.68,
         0.65,
@@ -855,7 +854,8 @@
         0.62,
         0.67,
         0.66,
-        0.65
+        0.65,
+        0.62
       ],
       "sd": [
         0,
