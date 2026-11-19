@@ -1,87 +1,30 @@
 #!/usr/bin/env python3
-"""
-Fetches current stock quotes, intraday sparkline history, and headlines via Yahoo Finance (yfinance)
-and writes market_data.json for the GitHub Pages dashboard.
-"""
-import datetime
-import json
+import datetime, json
 import yfinance as yf
-
-TICKERS = ["AAPL", "CSCO", "COF", "SCHD", "KO", "MSFT", "NVDA", "UAL", "GOOGL", "CCL", "SCLX", "SBAY", "FDGRX", "VTHRX"]
-
+TICKERS=["AAPL","CSCO","COF","SCHD","KO","MSFT","NVDA","UAL","GOOGL","CCL","SCLX","SBAY","FDGRX","VTHRX"]
+ANCHOR="2026-11-18"
 def main():
-    quotes = {}
+    quotes={}
     for symbol in TICKERS:
         try:
-            t = yf.Ticker(symbol)
-            hist = t.history(period="5d", interval="1h")
-            if hist.empty:
-                hist = t.history(period="1mo", interval="1d")
-            if hist.empty:
-                continue
-
-            closes = [round(float(x), 4 if float(x) < 0.1 else 2) for x in hist["Close"].dropna().tolist()[-18:]]
-            if not closes:
-                continue
-
-            current_price = closes[-1]
-            daily = t.history(period="5d", interval="1d")
-            if len(daily) >= 2:
-                prev_close = float(daily["Close"].dropna().iloc[-2])
-            else:
-                prev_close = closes[0]
-
-            anchor_return = None
-            if symbol in {"FDGRX", "VTHRX"}:
-                anchor = t.history(start="2026-11-17", end="2026-11-20", interval="1d")
-                if not anchor.empty:
-                    anchor_price = float(anchor["Close"].dropna().iloc[0])
-                    if anchor_price:
-                        anchor_return = round((current_price / anchor_price - 1) * 100, 4)
-
-            change = round(current_price - prev_close, 4 if current_price < 0.1 else 2)
-            change_pct = round((change / prev_close) * 100, 2) if prev_close else 0.0
-
-            headlines = []
-            try:
-                news_items = t.news or []
-                for item in news_items[:2]:
-                    content = item.get("content", item)
-                    title = content.get("title") or item.get("title")
-                    provider = (content.get("provider") or {}).get("displayName") or item.get("publisher") or "Market Feed"
-                    if title:
-                        headlines.append({
-                            "title": title,
-                            "source": provider,
-                            "date": datetime.datetime.now().strftime("%b %d, %Y"),
-                            "snippet": content.get("summary") or "Live automated market feed update."
-                        })
-            except Exception:
-                pass
-
-            quotes[symbol] = {
-                "price": current_price,
-                "change": change,
-                "changePercent": change_pct,
-                "chg": change_pct,
-                "history": closes,
-                "sp": closes,
-                "sd": list(range(len(closes))),
-                "anchorReturn": anchor_return,
-                "headlines": headlines
-            }
-        except Exception as e:
-            print(f"Skipped {symbol}: {e}")
-
-    payload = {
-        "updatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
-        "quotes": quotes
-    }
-
-    with open("market_data.json", "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2)
-    print("Wrote market_data.json with", len(quotes), "tickers.")
-
-if __name__ == "__main__":
-    main()
+            t=yf.Ticker(symbol)
+            hist=t.history(period="5d",interval="1h")
+            daily=t.history(period="3y",interval="1d")
+            if daily.empty: continue
+            close=daily["Close"].dropna()
+            price=float(close.iloc[-1]); prev=float(close.iloc[-2]) if len(close)>1 else price
+            pct=(price/prev-1)*100 if prev else 0
+            spark=[round(float(x),4 if float(x)<.1 else 2) for x in (hist["Close"].dropna().tolist()[-18:] if not hist.empty else close.tolist()[-18:])]
+            ser=close.resample("W").last().dropna()
+            dates=[x.strftime("%Y-%m-%d") for x in ser.index]
+            prices=[round(float(x),4 if float(x)<.1 else 2) for x in ser.tolist()]
+            ar=0
+            if symbol in {"FDGRX","VTHRX"}:
+                a=close[close.index.tz_localize(None)>=datetime.datetime.fromisoformat(ANCHOR)]
+                if not a.empty and float(a.iloc[0]): ar=(price/float(a.iloc[0])-1)*100
+            quotes[symbol]={"price":round(price,4 if price<.1 else 2),"chg":round(pct,2),"changePercent":round(pct,2),"sp":spark,"sd":list(range(len(spark))),"series":{"dates":dates,"prices":prices},"anchorReturn":round(ar,4),"news":[]}
+        except Exception as e: print("Skipped",symbol,e)
+    now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+    with open("market_data.json","w",encoding="utf-8") as f: json.dump({"updated":now,"updatedAt":now,"quotes":quotes},f,indent=2)
+    print("Wrote market_data.json with",len(quotes),"tickers")
+if __name__=="__main__": main()
