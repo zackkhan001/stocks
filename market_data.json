@@ -1,20 +1,19 @@
 {
-  "updatedAt": "2026-11-19T17:51:12.182520+00:00",
-  "updated": "2026-11-19T17:51:12.182527+00:00",
+  "updatedAt": "2026-11-19T18:31:58.430701+00:00",
+  "updated": "2026-11-19T18:31:58.430710+00:00",
   "quotes": {
     "AAPL": {
-      "price": 349.67,
-      "change": -2.78,
+      "price": 349.65,
+      "change": -2.8,
       "changePercent": -0.79,
       "chg": -0.79,
       "history": [
-        354.02,
         352.29,
         351.87,
         351.39,
         350.48,
         350.48,
-        351.92,
+        351.9,
         353.25,
         352.98,
         353.49,
@@ -25,16 +24,16 @@
         348.72,
         349.97,
         350.11,
-        349.67
+        349.48,
+        349.65
       ],
       "sp": [
-        354.02,
         352.29,
         351.87,
         351.39,
         350.48,
         350.48,
-        351.92,
+        351.9,
         353.25,
         352.98,
         353.49,
@@ -45,7 +44,8 @@
         348.72,
         349.97,
         350.11,
-        349.67
+        349.48,
+        349.65
       ],
       "sd": [
         0,
@@ -70,26 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Is Snap Stock Ready For Shrinking Ad Sales?",
-          "source": "Trefis",
+          "title": "Apple Marks a Big Moment for Its Free Radio Bet",
+          "source": "GuruFocus.com",
           "date": "Nov 19, 2026",
-          "snippet": "Today\u2019s big story: Could Anthropic Stock Fall 25."
+          "snippet": "The next test is whether listeners will pay."
         },
         {
-          "title": "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
-          "source": "Trefis",
+          "title": "Top 5 Stocks to Buy According to Billionaire Ken Fisher",
+          "source": "Insider Monkey",
           "date": "Nov 19, 2026",
-          "snippet": "Today's big story: Could Anthropic Stock Fall 25."
+          "snippet": "Ken Fisher has spent more than four decades betting that big, globally dominant companies keep winning, and his latest filing shows he still believes it. Fisher Asset Management, the firm behind Fisher Investments, reported a 13F portfolio worth about $348.3 billion for the quarter ended September 30, 2026, up from roughly $335.8 billion three months [\u2026]"
         }
       ]
     },
     "CSCO": {
-      "price": 96.08,
-      "change": -1.1,
-      "changePercent": -1.13,
-      "chg": -1.13,
+      "price": 95.55,
+      "change": -1.63,
+      "changePercent": -1.68,
+      "chg": -1.68,
       "history": [
-        94.86,
         94.59,
         94.68,
         94.98,
@@ -106,10 +105,10 @@
         97.32,
         97.37,
         96.54,
-        96.08
+        95.58,
+        95.55
       ],
       "sp": [
-        94.86,
         94.59,
         94.68,
         94.98,
@@ -126,7 +125,8 @@
         97.32,
         97.37,
         96.54,
-        96.08
+        95.58,
+        95.55
       ],
       "sd": [
         0,
@@ -150,27 +150,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Cisco\u2019s CEO Just Sold $27 Million of Stock in 3 Days",
+          "source": "24/7 Wall St.",
+          "date": "Nov 19, 2026",
+          "snippet": "Cisco's chief executive unloaded shares right after a record quarter and a sharp post-earnings drop, and the timing looks damning. One detail buried in the Form 4 explains why it may not mean what investors fear."
+        },
         {
           "title": "Ken Fisher and 14 Other Big Funds Sold Lumentum Last Quarter, While 18 Bought. Who\u2019s Right?",
           "source": "TIKR",
           "date": "Nov 19, 2026",
           "snippet": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 18 bought Lumentum and 15 sold it."
-        },
-        {
-          "title": "4 Tech Dividend Stocks Yielding Over 2% That Retirees Can Own for Growth and Income",
-          "source": "24/7 Wall St.",
-          "date": "Nov 19, 2026",
-          "snippet": "Retirees who stick to utilities and REITs skip the fastest-growing corner of the market. Four tech names now pay real dividends backed by surging cash flow, but one carries a hidden risk that could undercut its payout."
         }
       ]
     },
     "COF": {
-      "price": 184.54,
-      "change": 0.24,
-      "changePercent": 0.13,
-      "chg": 0.13,
+      "price": 184.8,
+      "change": 0.5,
+      "changePercent": 0.27,
+      "chg": 0.27,
       "history": [
-        191.38,
         187.68,
         188.21,
         187.91,
@@ -187,10 +186,10 @@
         185.8,
         184.62,
         183.71,
-        184.54
+        184.73,
+        184.8
       ],
       "sp": [
-        191.38,
         187.68,
         188.21,
         187.91,
@@ -207,7 +206,8 @@
         185.8,
         184.62,
         183.71,
-        184.54
+        184.73,
+        184.8
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.27,
-      "change": -0.43,
-      "changePercent": -1.24,
-      "chg": -1.24,
+      "price": 34.31,
+      "change": -0.39,
+      "changePercent": -1.12,
+      "chg": -1.12,
       "history": [
-        35.67,
         35.49,
         35.56,
         35.53,
@@ -268,10 +267,10 @@
         34.39,
         34.28,
         34.26,
-        34.27
+        34.31,
+        34.31
       ],
       "sp": [
-        35.67,
         35.49,
         35.56,
         35.53,
@@ -288,7 +287,8 @@
         34.39,
         34.28,
         34.26,
-        34.27
+        34.31,
+        34.31
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 96.0,
-      "change": -2.09,
-      "changePercent": -2.13,
-      "chg": -2.13,
+      "price": 96.36,
+      "change": -1.73,
+      "changePercent": -1.76,
+      "chg": -1.76,
       "history": [
-        99.35,
         99.04,
         99.36,
         99.29,
@@ -349,10 +348,10 @@
         95.88,
         95.56,
         95.78,
-        96.0
+        96.38,
+        96.36
       ],
       "sp": [
-        99.35,
         99.04,
         99.36,
         99.29,
@@ -369,7 +368,8 @@
         95.88,
         95.56,
         95.78,
-        96.0
+        96.38,
+        96.36
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 508.62,
-      "change": 0.33,
-      "changePercent": 0.06,
-      "chg": 0.06,
+      "price": 502.32,
+      "change": -5.97,
+      "changePercent": -1.17,
+      "chg": -1.17,
       "history": [
-        507.58,
         499.05,
         503.07,
         503.88,
@@ -430,10 +429,10 @@
         517.94,
         514.66,
         510.32,
-        508.62
+        503.18,
+        502.32
       ],
       "sp": [
-        507.58,
         499.05,
         503.07,
         503.88,
@@ -450,7 +449,8 @@
         517.94,
         514.66,
         510.32,
-        508.62
+        503.18,
+        502.32
       ],
       "sd": [
         0,
@@ -481,27 +481,26 @@
           "snippet": "After more than 13 years, Grand Theft Auto VI finally launches on November 19, and it's about a lot more than a video game. Yahoo Finance Senior Reporter Pras Subramanian follows the money: why Take-Two is telling investors to expect $8 billion-plus in bookings this year but only about $109 million to $142 million in profit, how GTA Online's recurring spending became the real prize, and why Sony and Microsoft can cash in without making the game at all."
         },
         {
-          "title": "Anthropic's $107 billion sale set to top SpaceX's IPO",
-          "source": "CoinDesk",
+          "title": "Microsoft's Satya Nadella Says Selling AI Capacity to Just One or Two Customers \u2018Is Not a Business\u2019",
+          "source": "Benzinga Prediction Markets",
           "date": "Nov 19, 2026",
-          "snippet": "Anthropic, the maker of Claude, priced a record $107 billion share sale ahead of its Nasdaq debut, valuing the company at $1.5 trillion. Tokenized versions of the stock are set to go live on BNB Chain and Solana. CoinDesk's Uyen Truong hosts \"CoinDesk Daily.\""
+          "snippet": "Satya Nadella told Jim Cramer on Wednesday how Microsoft (NASDAQ:MSFT) decides when to spend on AI. The company lines up land and power early because data centers take time to build. It then buys chips based on demand from a..."
         }
       ]
     },
     "NVDA": {
-      "price": 149.4,
-      "change": -1.56,
-      "changePercent": -1.03,
-      "chg": -1.03,
+      "price": 149.19,
+      "change": -1.77,
+      "changePercent": -1.17,
+      "chg": -1.17,
       "history": [
-        153.65,
         154.6,
         154.38,
         154.1,
         153.62,
         153.48,
-        155.47,
-        153.79,
+        155.46,
+        153.8,
         152.0,
         152.85,
         152.13,
@@ -510,18 +509,18 @@
         150.87,
         153.51,
         153.24,
-        150.25,
-        149.4
+        150.22,
+        149.43,
+        149.19
       ],
       "sp": [
-        153.65,
         154.6,
         154.38,
         154.1,
         153.62,
         153.48,
-        155.47,
-        153.79,
+        155.46,
+        153.8,
         152.0,
         152.85,
         152.13,
@@ -530,8 +529,9 @@
         150.87,
         153.51,
         153.24,
-        150.25,
-        149.4
+        150.22,
+        149.43,
+        149.19
       ],
       "sd": [
         0,
@@ -570,12 +570,11 @@
       ]
     },
     "UAL": {
-      "price": 107.07,
-      "change": -0.56,
-      "changePercent": -0.52,
-      "chg": -0.52,
+      "price": 106.65,
+      "change": -0.98,
+      "changePercent": -0.91,
+      "chg": -0.91,
       "history": [
-        109.31,
         107.2,
         107.71,
         107.67,
@@ -592,10 +591,10 @@
         106.48,
         107.6,
         107.48,
-        107.07
+        106.55,
+        106.65
       ],
       "sp": [
-        109.31,
         107.2,
         107.71,
         107.67,
@@ -612,7 +611,8 @@
         106.48,
         107.6,
         107.48,
-        107.07
+        106.55,
+        106.65
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 282.81,
-      "change": 0.37,
-      "changePercent": 0.13,
-      "chg": 0.13,
+      "price": 280.28,
+      "change": -2.16,
+      "changePercent": -0.76,
+      "chg": -0.76,
       "history": [
-        282.55,
         280.87,
         282.39,
         281.99,
@@ -673,10 +672,10 @@
         289.64,
         289.26,
         285.62,
-        282.81
+        280.64,
+        280.28
       ],
       "sp": [
-        282.55,
         280.87,
         282.39,
         281.99,
@@ -693,7 +692,8 @@
         289.64,
         289.26,
         285.62,
-        282.81
+        280.64,
+        280.28
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Is Snap Stock Ready For Shrinking Ad Sales?",
-          "source": "Trefis",
-          "date": "Nov 19, 2026",
-          "snippet": "Today\u2019s big story: Could Anthropic Stock Fall 25."
-        },
-        {
-          "title": "Meta\u2019s Advertising Business Could Drive Another Major Earnings Surprise",
+          "title": "Anthropic Debuted at a $1.5 Trillion Valuation. Here\u2019s What It Would Have to Be Worth to Match Tech\u2019s Greatest Runs",
           "source": "24/7 Wall St.",
           "date": "Nov 19, 2026",
-          "snippet": "A $9.89 billion legal settlement turned a blockbuster ad quarter into an apparent earnings miss. Meta's growth engine is still accelerating, and the gap between the headline and the reality could set up a sharp reversal."
+          "snippet": "Anthropic opened at a valuation bigger than almost any company in history. We ran the returns of Netflix, Tesla, Alphabet and Meta through it, and the results show why a Bloomberg columnist says to ignore the FOMO."
+        },
+        {
+          "title": "Anthropic Jumps 17% in Record Nasdaq Debut but Fades From $111.50 Open; Alphabet Ticks Up, Amazon Dips",
+          "source": "24/7 Wall St.",
+          "date": "Nov 19, 2026",
+          "snippet": "Anthropic's record-setting Nasdaq debut opened with a surge, then started giving it back. Is this routine first-day cooling, or are buyers already pricing in the whole growth story, with $900 billion in compute commitments looming?"
         }
       ]
     },
     "CCL": {
-      "price": 28.11,
-      "change": -0.86,
-      "changePercent": -2.97,
-      "chg": -2.97,
+      "price": 27.92,
+      "change": -1.05,
+      "changePercent": -3.62,
+      "chg": -3.62,
       "history": [
-        28.84,
         28.39,
         28.64,
         28.61,
@@ -754,10 +753,10 @@
         28.06,
         28.23,
         28.25,
-        28.11
+        27.9,
+        27.92
       ],
       "sp": [
-        28.84,
         28.39,
         28.64,
         28.61,
@@ -774,7 +773,8 @@
         28.06,
         28.23,
         28.25,
-        28.11
+        27.9,
+        27.92
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.62,
-      "change": -0.01,
-      "changePercent": -1.59,
-      "chg": -1.59,
+      "price": 0.63,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "chg": 0.0,
       "history": [
-        0.64,
         0.68,
         0.65,
         0.59,
@@ -835,10 +834,10 @@
         0.67,
         0.66,
         0.65,
-        0.62
+        0.63,
+        0.63
       ],
       "sp": [
-        0.64,
         0.68,
         0.65,
         0.59,
@@ -855,7 +854,8 @@
         0.67,
         0.66,
         0.65,
-        0.62
+        0.63,
+        0.63
       ],
       "sd": [
         0,
