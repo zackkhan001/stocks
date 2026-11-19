@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-19T20:46:39.927711+00:00",
-  "updated": "2026-11-19T20:46:39.927718+00:00",
+  "updatedAt": "2026-11-19T21:42:43.110376+00:00",
+  "updated": "2026-11-19T21:42:43.110384+00:00",
   "quotes": {
     "AAPL": {
-      "price": 348.58,
-      "change": -3.87,
-      "changePercent": -1.1,
-      "chg": -1.1,
+      "price": 349.1,
+      "change": -3.35,
+      "changePercent": -0.95,
+      "chg": -0.95,
       "history": [
         351.39,
         350.48,
         350.48,
-        351.92,
+        351.9,
         353.25,
         352.98,
         353.49,
@@ -25,13 +25,13 @@
         349.48,
         350.1,
         349.14,
-        348.58
+        349.1
       ],
       "sp": [
         351.39,
         350.48,
         350.48,
-        351.92,
+        351.9,
         353.25,
         352.98,
         353.49,
@@ -45,7 +45,7 @@
         349.48,
         350.1,
         349.14,
-        348.58
+        349.1
       ],
       "sd": [
         0,
@@ -70,24 +70,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Walmart, Costco see some panic-buying after tech outages",
-          "source": "Yahoo Finance",
+          "title": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
+          "source": "Yahoo Finance Video",
           "date": "Nov 19, 2026",
-          "snippet": "Outages at Apple, Chase, Microsoft, and US airlines could mean good news for Walmart."
+          "snippet": "Bessemer Venture Partners partner Byron Deeter sits down with Deirdre Bosa and \"In The Loop\" host Ejaaz Ahamadeen to explain the challenges ahead for Anthropic (ANT) now that the company is public."
         },
         {
-          "title": "Apple (AAPL) Faces UK Backdoor Admission And French Obsolescence Trial",
-          "source": "Simply Wall St.",
+          "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
+          "source": "Investor's Business Daily",
           "date": "Nov 19, 2026",
-          "snippet": "Apple (NasdaqGS:AAPL) is facing scrutiny after Britain acknowledged ordering the company to build a user data access backdoor. The UK admission follows a dispute over encryption requirements tied to public security powers and potential compliance expectations for Apple services. French prosecutors have moved Apple toward trial over alleged planned obsolescence linked to older iPhone performance and repair practices. The UK backdoor order and French planned obsolescence trial matter, but..."
+          "snippet": "Making the latest list of new buys by top funds, Apple stock shows strength while fellow AI names Nvidia and Meta flounder."
         }
       ]
     },
     "CSCO": {
-      "price": 94.74,
-      "change": -2.44,
-      "changePercent": -2.51,
-      "chg": -2.51,
+      "price": 94.68,
+      "change": -2.5,
+      "changePercent": -2.57,
+      "chg": -2.57,
       "history": [
         94.98,
         94.76,
@@ -106,7 +106,7 @@
         95.58,
         95.43,
         94.65,
-        94.74
+        94.68
       ],
       "sp": [
         94.98,
@@ -126,7 +126,7 @@
         95.58,
         95.43,
         94.65,
-        94.74
+        94.68
       ],
       "sd": [
         0,
@@ -165,10 +165,10 @@
       ]
     },
     "COF": {
-      "price": 182.1,
-      "change": -2.2,
-      "changePercent": -1.19,
-      "chg": -1.19,
+      "price": 181.71,
+      "change": -2.59,
+      "changePercent": -1.41,
+      "chg": -1.41,
       "history": [
         187.91,
         187.15,
@@ -187,7 +187,7 @@
         184.73,
         183.56,
         182.26,
-        182.1
+        181.71
       ],
       "sp": [
         187.91,
@@ -207,7 +207,7 @@
         184.73,
         183.56,
         182.26,
-        182.1
+        181.71
       ],
       "sd": [
         0,
@@ -327,10 +327,10 @@
       ]
     },
     "KO": {
-      "price": 96.19,
-      "change": -1.9,
-      "changePercent": -1.94,
-      "chg": -1.94,
+      "price": 96.11,
+      "change": -1.98,
+      "changePercent": -2.02,
+      "chg": -2.02,
       "history": [
         99.29,
         99.22,
@@ -349,7 +349,7 @@
         96.38,
         96.25,
         96.35,
-        96.19
+        96.11
       ],
       "sp": [
         99.29,
@@ -369,7 +369,7 @@
         96.38,
         96.25,
         96.35,
-        96.19
+        96.11
       ],
       "sd": [
         0,
@@ -394,24 +394,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "This drinks company is TD Cowen\u2019s top stock pick for 2027 as target rises to $112",
+          "source": "Investing.com",
+          "date": "Nov 19, 2026",
+          "snippet": "Investing.com -- TD Cowen named Coca-Cola its top investment idea for 2027, citing the beverage maker's strong pricing power, international footprint and franchise bottling model as key advantages that should support growth despite inflationary pressures and tougher year-on-year comparisons."
+        },
+        {
           "title": "3 Dow Dividend Passive Income Stocks for Retirement, Led by a 64-Year Streak",
           "source": "24/7 Wall St.",
           "date": "Nov 19, 2026",
           "snippet": "One Dow giant keeps raising payouts while another carries a rare asterisk from the financial crisis. Before you build a retirement paycheck, see which dividend is best covered, which stock looks stretched, and what risks hide beneath each yield."
-        },
-        {
-          "title": "Turkey\u2019s monopolies watchdog takes on all comers",
-          "source": "IntelliNews",
-          "date": "Nov 19, 2026",
-          "snippet": "From Meta, Adidas and Coca-Cola to poultry packers and hazelnut traders, the list of companies that have run up against Turkey\u2019s Competition Authority (Rekabet Kurumu, or RK) continues to grow. Established in 1997, in the wake of Turkey\u2019s customs union with the EU, the RK exists to benefit consumers by combatting cartels and monopolies, protecting the market mechanism and lowering barriers to market entry."
         }
       ]
     },
     "MSFT": {
-      "price": 500.12,
-      "change": -8.17,
-      "changePercent": -1.61,
-      "chg": -1.61,
+      "price": 498.16,
+      "change": -10.13,
+      "changePercent": -1.99,
+      "chg": -1.99,
       "history": [
         503.88,
         506.16,
@@ -430,7 +430,7 @@
         503.18,
         503.56,
         500.47,
-        500.12
+        498.16
       ],
       "sp": [
         503.88,
@@ -450,7 +450,7 @@
         503.18,
         503.56,
         500.47,
-        500.12
+        498.16
       ],
       "sd": [
         0,
@@ -481,24 +481,24 @@
           "snippet": "After more than 13 years, Grand Theft Auto VI finally launches on November 19, and it's about a lot more than a video game. Yahoo Finance Senior Reporter Pras Subramanian follows the money: why Take-Two is telling investors to expect $8 billion-plus in bookings this year but only about $109 million to $142 million in profit, how GTA Online's recurring spending became the real prize, and why Sony and Microsoft can cash in without making the game at all."
         },
         {
-          "title": "Meta trades at 21x P/E, yet shareholders face a massive new bill",
-          "source": "Investing.com",
+          "title": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
+          "source": "Yahoo Finance Video",
           "date": "Nov 19, 2026",
-          "snippet": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below."
+          "snippet": "Bessemer Venture Partners partner Byron Deeter sits down with Deirdre Bosa and \"In The Loop\" host Ejaaz Ahamadeen to explain the challenges ahead for Anthropic (ANT) now that the company is public."
         }
       ]
     },
     "NVDA": {
-      "price": 147.32,
-      "change": -3.64,
-      "changePercent": -2.41,
-      "chg": -2.41,
+      "price": 146.0,
+      "change": -4.96,
+      "changePercent": -3.29,
+      "chg": -3.29,
       "history": [
         154.1,
         153.62,
         153.48,
-        155.47,
-        153.79,
+        155.46,
+        153.8,
         152.0,
         152.85,
         152.13,
@@ -507,18 +507,18 @@
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
-        147.32
+        146.0
       ],
       "sp": [
         154.1,
         153.62,
         153.48,
-        155.47,
-        153.79,
+        155.46,
+        153.8,
         152.0,
         152.85,
         152.13,
@@ -527,11 +527,11 @@
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
-        147.32
+        146.0
       ],
       "sd": [
         0,
@@ -556,24 +556,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Jensen Huang's Nvidia comeback: Why the math doesn't add up",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 19, 2026",
+          "snippet": "Tamalpais Strategies Founder and Principal, Jim Prosser, joins Deirdre Bosa on Deirdre Bosa Live to discuss what it will actually take to bring Jensen Huang back as Nvidia (NVDA) CEO. Although \"vibes\" may be high, Huang's comeback does add up."
+        },
+        {
           "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
           "source": "Yahoo Finance Video",
           "date": "Nov 19, 2026",
           "snippet": "The Technology Letter's Tiernan Ray joins Market Hang to discuss why Nvidia (NVDA) will not be the leader of the AI chip race in 5 years.\n\nToday's panel includes Barron's reporter Jacob Sonenshine, The Technology Letter's Tiernan Ray, Epistrophy Capital Research Chief Market Strategist Cory Johnson, and Laffer Tengler Investments CEO and chief investment officer Nancy Tengler."
-        },
-        {
-          "title": "Why AI competition from China won't be a risk US tech companies",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 19, 2026",
-          "snippet": "Host Mark Malek, Siebert Financial's chief investment officer, and his panel of experts weigh in on whether competition from China is a risk to US tech companies.\n\nToday's panel includes Barron's reporter Jacob Sonenshine, The Technology Letter's Tiernan Ray, Epistrophy Capital Research Chief Market Strategist Cory Johnson, and Laffer Tengler Investments CEO and chief investment officer Nancy Tengler. "
         }
       ]
     },
     "UAL": {
-      "price": 105.9,
-      "change": -1.73,
-      "changePercent": -1.61,
-      "chg": -1.61,
+      "price": 105.55,
+      "change": -2.08,
+      "changePercent": -1.93,
+      "chg": -1.93,
       "history": [
         107.67,
         107.46,
@@ -592,7 +592,7 @@
         106.55,
         106.64,
         106.32,
-        105.9
+        105.55
       ],
       "sp": [
         107.67,
@@ -612,7 +612,7 @@
         106.55,
         106.64,
         106.32,
-        105.9
+        105.55
       ],
       "sd": [
         0,
@@ -651,10 +651,10 @@
       ]
     },
     "GOOGL": {
-      "price": 273.98,
-      "change": -8.46,
-      "changePercent": -3.0,
-      "chg": -3.0,
+      "price": 272.5,
+      "change": -9.94,
+      "changePercent": -3.52,
+      "chg": -3.52,
       "history": [
         281.99,
         280.39,
@@ -673,7 +673,7 @@
         280.64,
         279.05,
         273.72,
-        273.98
+        272.5
       ],
       "sp": [
         281.99,
@@ -693,7 +693,7 @@
         280.64,
         279.05,
         273.72,
-        273.98
+        272.5
       ],
       "sd": [
         0,
@@ -718,24 +718,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027",
-          "source": "Motley Fool",
+          "title": "Google\u2019s SpaceX Stake Lost More Than $10 Billion in Value Last Quarter While Its Share Count Edged Up",
+          "source": "24/7 Wall St.",
           "date": "Nov 19, 2026",
-          "snippet": "AI spending continues to rise, and three of its biggest beneficiaries still trade at bargain valuations."
+          "snippet": "One stock makes up nearly all of Alphabet's disclosed portfolio, and its latest filing shows the company quietly adding to it while the price slid. Why is the business booming while the stake bleeds, and what should retirement investors copy?"
         },
         {
-          "title": "Anthropic Soars 16% in Record $107 Billion IPO Debut: \u201cA Really Big Coming-of-Age Story\u201d",
-          "source": "TIKR",
+          "title": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
+          "source": "Yahoo Finance Video",
           "date": "Nov 19, 2026",
-          "snippet": "Key TakeawaysAnthropic rose 16% in its Nasdaq debut after pricing its IPO at $83, above its range, and raising a record $107. 3 billion."
+          "snippet": "Bessemer Venture Partners partner Byron Deeter sits down with Deirdre Bosa and \"In The Loop\" host Ejaaz Ahamadeen to explain the challenges ahead for Anthropic (ANT) now that the company is public."
         }
       ]
     },
     "CCL": {
-      "price": 27.7,
-      "change": -1.27,
-      "changePercent": -4.38,
-      "chg": -4.38,
+      "price": 27.58,
+      "change": -1.39,
+      "changePercent": -4.8,
+      "chg": -4.8,
       "history": [
         28.61,
         28.53,
@@ -754,7 +754,7 @@
         27.9,
         27.84,
         27.7,
-        27.7
+        27.58
       ],
       "sp": [
         28.61,
@@ -774,7 +774,7 @@
         27.9,
         27.84,
         27.7,
-        27.7
+        27.58
       ],
       "sd": [
         0,
