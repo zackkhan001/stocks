@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-19T18:31:58.430701+00:00",
-  "updated": "2026-11-19T18:31:58.430710+00:00",
+  "updatedAt": "2026-11-19T19:41:07.666834+00:00",
+  "updated": "2026-11-19T19:41:07.666842+00:00",
   "quotes": {
     "AAPL": {
-      "price": 349.65,
-      "change": -2.8,
-      "changePercent": -0.79,
-      "chg": -0.79,
+      "price": 350.08,
+      "change": -2.37,
+      "changePercent": -0.67,
+      "chg": -0.67,
       "history": [
-        352.29,
         351.87,
         351.39,
         350.48,
@@ -25,10 +24,10 @@
         349.97,
         350.11,
         349.48,
-        349.65
+        350.1,
+        350.08
       ],
       "sp": [
-        352.29,
         351.87,
         351.39,
         350.48,
@@ -45,7 +44,8 @@
         349.97,
         350.11,
         349.48,
-        349.65
+        350.1,
+        350.08
       ],
       "sd": [
         0,
@@ -70,26 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Apple Marks a Big Moment for Its Free Radio Bet",
-          "source": "GuruFocus.com",
+          "title": "Walmart, Costco see some panic-buying after tech outages",
+          "source": "Yahoo Finance",
           "date": "Nov 19, 2026",
-          "snippet": "The next test is whether listeners will pay."
+          "snippet": "Outages at Apple, Chase, Microsoft, and US airlines could mean good news for Walmart."
         },
         {
-          "title": "Top 5 Stocks to Buy According to Billionaire Ken Fisher",
-          "source": "Insider Monkey",
+          "title": "Apple (AAPL) Faces UK Backdoor Admission And French Obsolescence Trial",
+          "source": "Simply Wall St.",
           "date": "Nov 19, 2026",
-          "snippet": "Ken Fisher has spent more than four decades betting that big, globally dominant companies keep winning, and his latest filing shows he still believes it. Fisher Asset Management, the firm behind Fisher Investments, reported a 13F portfolio worth about $348.3 billion for the quarter ended September 30, 2026, up from roughly $335.8 billion three months [\u2026]"
+          "snippet": "Apple (NasdaqGS:AAPL) is facing scrutiny after Britain acknowledged ordering the company to build a user data access backdoor. The UK admission follows a dispute over encryption requirements tied to public security powers and potential compliance expectations for Apple services. French prosecutors have moved Apple toward trial over alleged planned obsolescence linked to older iPhone performance and repair practices. The UK backdoor order and French planned obsolescence trial matter, but..."
         }
       ]
     },
     "CSCO": {
-      "price": 95.55,
-      "change": -1.63,
-      "changePercent": -1.68,
-      "chg": -1.68,
+      "price": 95.36,
+      "change": -1.82,
+      "changePercent": -1.87,
+      "chg": -1.87,
       "history": [
-        94.59,
         94.68,
         94.98,
         94.76,
@@ -106,10 +105,10 @@
         97.37,
         96.54,
         95.58,
-        95.55
+        95.43,
+        95.36
       ],
       "sp": [
-        94.59,
         94.68,
         94.98,
         94.76,
@@ -126,7 +125,8 @@
         97.37,
         96.54,
         95.58,
-        95.55
+        95.43,
+        95.36
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 184.8,
-      "change": 0.5,
-      "changePercent": 0.27,
-      "chg": 0.27,
+      "price": 184.07,
+      "change": -0.23,
+      "changePercent": -0.12,
+      "chg": -0.12,
       "history": [
-        187.68,
         188.21,
         187.91,
         187.15,
@@ -187,10 +186,10 @@
         184.62,
         183.71,
         184.73,
-        184.8
+        183.56,
+        184.07
       ],
       "sp": [
-        187.68,
         188.21,
         187.91,
         187.15,
@@ -207,7 +206,8 @@
         184.62,
         183.71,
         184.73,
-        184.8
+        183.56,
+        184.07
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.31,
-      "change": -0.39,
-      "changePercent": -1.12,
-      "chg": -1.12,
+      "price": 34.28,
+      "change": -0.42,
+      "changePercent": -1.21,
+      "chg": -1.21,
       "history": [
-        35.49,
         35.56,
         35.53,
         35.39,
@@ -268,10 +267,10 @@
         34.28,
         34.26,
         34.31,
-        34.31
+        34.26,
+        34.28
       ],
       "sp": [
-        35.49,
         35.56,
         35.53,
         35.39,
@@ -288,7 +287,8 @@
         34.28,
         34.26,
         34.31,
-        34.31
+        34.26,
+        34.28
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 96.36,
-      "change": -1.73,
-      "changePercent": -1.76,
-      "chg": -1.76,
+      "price": 96.3,
+      "change": -1.79,
+      "changePercent": -1.82,
+      "chg": -1.82,
       "history": [
-        99.04,
         99.36,
         99.29,
         99.22,
@@ -349,10 +348,10 @@
         95.56,
         95.78,
         96.38,
-        96.36
+        96.25,
+        96.3
       ],
       "sp": [
-        99.04,
         99.36,
         99.29,
         99.22,
@@ -369,7 +368,8 @@
         95.56,
         95.78,
         96.38,
-        96.36
+        96.25,
+        96.3
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Meet Wall Street\u2019s Safe Passive Income Dividend Stocks: 4 Companies That Keep Paying Through Downturns",
+          "source": "24/7 Wall St.",
+          "date": "Nov 19, 2026",
+          "snippet": "When recessions hit, some companies keep raising the check anyway. Three consumer giants and one regulated utility did it through 2008 and 2020, yet each carries a hidden risk that could change how safe your income really is."
+        },
+        {
           "title": "\u26a1 Flash Heard: Anthropic Deals a Blow to the Defensive Trade",
           "source": "The Wall Street Journal",
           "date": "Nov 19, 2026",
           "snippet": "Anthropic\u2019s record-breaking IPO is giving the AI trade a jolt."
-        },
-        {
-          "title": "Bernstein Sees PepsiCo Falling to $128. Its North America Business Is the Reason",
-          "source": "TIKR",
-          "date": "Nov 19, 2026",
-          "snippet": "Key TakeawaysBernstein downgraded PepsiCo to Underperform and cut its target to $128, citing weak North American demand that it expects to keep costing volume and share. North American beverage volume fell 2% in the third quarter, while international revenue grew 9."
         }
       ]
     },
     "MSFT": {
-      "price": 502.32,
-      "change": -5.97,
-      "changePercent": -1.17,
-      "chg": -1.17,
+      "price": 502.85,
+      "change": -5.44,
+      "changePercent": -1.07,
+      "chg": -1.07,
       "history": [
-        499.05,
         503.07,
         503.88,
         506.16,
@@ -430,10 +429,10 @@
         514.66,
         510.32,
         503.18,
-        502.32
+        503.56,
+        502.85
       ],
       "sp": [
-        499.05,
         503.07,
         503.88,
         506.16,
@@ -450,7 +449,8 @@
         514.66,
         510.32,
         503.18,
-        502.32
+        503.56,
+        502.85
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "After more than 13 years, Grand Theft Auto VI finally launches on November 19, and it's about a lot more than a video game. Yahoo Finance Senior Reporter Pras Subramanian follows the money: why Take-Two is telling investors to expect $8 billion-plus in bookings this year but only about $109 million to $142 million in profit, how GTA Online's recurring spending became the real prize, and why Sony and Microsoft can cash in without making the game at all."
         },
         {
-          "title": "Microsoft's Satya Nadella Says Selling AI Capacity to Just One or Two Customers \u2018Is Not a Business\u2019",
-          "source": "Benzinga Prediction Markets",
+          "title": "Walmart, Costco see some panic-buying after tech outages",
+          "source": "Yahoo Finance",
           "date": "Nov 19, 2026",
-          "snippet": "Satya Nadella told Jim Cramer on Wednesday how Microsoft (NASDAQ:MSFT) decides when to spend on AI. The company lines up land and power early because data centers take time to build. It then buys chips based on demand from a..."
+          "snippet": "Outages at Apple, Chase, Microsoft, and US airlines could mean good news for Walmart."
         }
       ]
     },
     "NVDA": {
-      "price": 149.19,
-      "change": -1.77,
-      "changePercent": -1.17,
-      "chg": -1.17,
+      "price": 148.39,
+      "change": -2.57,
+      "changePercent": -1.7,
+      "chg": -1.7,
       "history": [
-        154.6,
         154.38,
         154.1,
         153.62,
@@ -511,10 +510,10 @@
         153.24,
         150.22,
         149.43,
-        149.19
+        148.82,
+        148.39
       ],
       "sp": [
-        154.6,
         154.38,
         154.1,
         153.62,
@@ -531,7 +530,8 @@
         153.24,
         150.22,
         149.43,
-        149.19
+        148.82,
+        148.39
       ],
       "sd": [
         0,
@@ -556,16 +556,16 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Anthropic's mega-IPO is still leaving investors working with 'imperfect information'",
+          "title": "Nvidia will not be the leader 5 years from now: Tiernan Ray",
           "source": "Yahoo Finance Video",
           "date": "Nov 19, 2026",
-          "snippet": "Following Anthropic's (ANT) historic mega-IPO, Baird managing director of technology Ted Mortonson comes on Yahoo Finance to discuss the information that investors are currently working with when it comes to the AI company's compute spending."
+          "snippet": "The Technology Letter's Tiernan Ray joins Market Hang to discuss why Nvidia (NVDA) will not be the leader of the AI chip race in 5 years.\n\nToday's panel includes Barron's reporter Jacob Sonenshine, The Technology Letter's Tiernan Ray, Epistrophy Capital Research Chief Market Strategist Cory Johnson, and Laffer Tengler Investments CEO and chief investment officer Nancy Tengler."
         },
         {
-          "title": "Nvidia, Broadcom, and Micron stocks erase gains as Anthropic goes public",
-          "source": "Yahoo Finance",
+          "title": "Why AI competition from China won't be a risk US tech companies",
+          "source": "Yahoo Finance Video",
           "date": "Nov 19, 2026",
-          "snippet": "Chip giant Nvidia slid into the red on Thursday, along with Broadcom and Intel, after\u00a0Anthropic shares began trading."
+          "snippet": "Host Mark Malek, Siebert Financial's chief investment officer, and his panel of experts weigh in on whether competition from China is a risk to US tech companies.\n\nToday's panel includes Barron's reporter Jacob Sonenshine, The Technology Letter's Tiernan Ray, Epistrophy Capital Research Chief Market Strategist Cory Johnson, and Laffer Tengler Investments CEO and chief investment officer Nancy Tengler."
         }
       ]
     },
@@ -575,7 +575,6 @@
       "changePercent": -0.91,
       "chg": -0.91,
       "history": [
-        107.2,
         107.71,
         107.67,
         107.46,
@@ -592,10 +591,10 @@
         107.6,
         107.48,
         106.55,
+        106.64,
         106.65
       ],
       "sp": [
-        107.2,
         107.71,
         107.67,
         107.46,
@@ -612,6 +611,7 @@
         107.6,
         107.48,
         106.55,
+        106.64,
         106.65
       ],
       "sd": [
@@ -643,20 +643,19 @@
           "snippet": "According to The Wall Street Journal, the breach reportedly involved a third-party service provider, but none of the three companies identified the provider."
         },
         {
-          "title": "United (UAL) Up 5.9% Since Last Earnings Report: Can It Continue?",
-          "source": "Zacks",
+          "title": "Inside Stanley Druckenmiller\u2019s Portfolio: Every Move He Made in the Third Quarter",
+          "source": "TIKR",
           "date": "Nov 19, 2026",
-          "snippet": "United (UAL) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
+          "snippet": "Key TakeawaysStanley Druckenmiller\u2019s Duquesne Family Office sold all of its Alphabet and United Airlines stock in the third quarter and added to Amazon, Fox and Unity Software, its latest 13F shows. Amazon is now the fund\u2019s third-largest holding, at 772,600 shares worth $192 million, plus call options."
         }
       ]
     },
     "GOOGL": {
-      "price": 280.28,
-      "change": -2.16,
-      "changePercent": -0.76,
-      "chg": -0.76,
+      "price": 279.29,
+      "change": -3.15,
+      "changePercent": -1.12,
+      "chg": -1.12,
       "history": [
-        280.87,
         282.39,
         281.99,
         280.39,
@@ -673,10 +672,10 @@
         289.26,
         285.62,
         280.64,
-        280.28
+        279.05,
+        279.29
       ],
       "sp": [
-        280.87,
         282.39,
         281.99,
         280.39,
@@ -693,7 +692,8 @@
         289.26,
         285.62,
         280.64,
-        280.28
+        279.05,
+        279.29
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Anthropic Debuted at a $1.5 Trillion Valuation. Here\u2019s What It Would Have to Be Worth to Match Tech\u2019s Greatest Runs",
-          "source": "24/7 Wall St.",
+          "title": "Anthropic Soars 16% in Record $107 Billion IPO Debut: \u201cA Really Big Coming-of-Age Story\u201d",
+          "source": "TIKR",
           "date": "Nov 19, 2026",
-          "snippet": "Anthropic opened at a valuation bigger than almost any company in history. We ran the returns of Netflix, Tesla, Alphabet and Meta through it, and the results show why a Bloomberg columnist says to ignore the FOMO."
+          "snippet": "Key TakeawaysAnthropic rose 16% in its Nasdaq debut after pricing its IPO at $83, above its range, and raising a record $107. 3 billion."
         },
         {
-          "title": "Anthropic Jumps 17% in Record Nasdaq Debut but Fades From $111.50 Open; Alphabet Ticks Up, Amazon Dips",
-          "source": "24/7 Wall St.",
+          "title": "Missed the Anthropic IPO? These 3 Stocks Give You Immediate Exposure.",
+          "source": "Motley Fool",
           "date": "Nov 19, 2026",
-          "snippet": "Anthropic's record-setting Nasdaq debut opened with a surge, then started giving it back. Is this routine first-day cooling, or are buyers already pricing in the whole growth story, with $900 billion in compute commitments looming?"
+          "snippet": "Nvidia, Amazon, and Alphabet are all benefiting from Anthropic's success."
         }
       ]
     },
     "CCL": {
-      "price": 27.92,
-      "change": -1.05,
-      "changePercent": -3.62,
-      "chg": -3.62,
+      "price": 27.81,
+      "change": -1.16,
+      "changePercent": -4.0,
+      "chg": -4.0,
       "history": [
-        28.39,
         28.64,
         28.61,
         28.53,
@@ -754,10 +753,10 @@
         28.23,
         28.25,
         27.9,
-        27.92
+        27.84,
+        27.81
       ],
       "sp": [
-        28.39,
         28.64,
         28.61,
         28.53,
@@ -774,7 +773,8 @@
         28.23,
         28.25,
         27.9,
-        27.92
+        27.84,
+        27.81
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.63,
-      "change": 0.0,
-      "changePercent": 0.0,
-      "chg": 0.0,
+      "price": 0.62,
+      "change": -0.01,
+      "changePercent": -1.59,
+      "chg": -1.59,
       "history": [
-        0.68,
         0.65,
         0.59,
         0.68,
@@ -835,10 +834,10 @@
         0.66,
         0.65,
         0.63,
-        0.63
+        0.63,
+        0.62
       ],
       "sp": [
-        0.68,
         0.65,
         0.59,
         0.68,
@@ -855,7 +854,8 @@
         0.66,
         0.65,
         0.63,
-        0.63
+        0.63,
+        0.62
       ],
       "sd": [
         0,
