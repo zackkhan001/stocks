@@ -1,89 +1,87 @@
-import json, os, datetime as dt
+#!/usr/bin/env python3
+"""
+Fetches current stock quotes, intraday sparkline history, and headlines via Yahoo Finance (yfinance)
+and writes market_data.json for the GitHub Pages dashboard.
+"""
+import datetime
+import json
 import yfinance as yf
 
-HIST_FOR = ["NVDA"]  # tickers that keep 1 year of daily closes (used for auto-invest estimates)
-tickers = json.load(open("tickers.json"))
-now = dt.datetime.now(dt.timezone.utc)
-today = now.date()
+TICKERS = ["AAPL", "CSCO", "COF", "SCHD", "KO", "MSFT", "NVDA", "UAL", "GOOGL", "CCL", "SCLX", "SBAY", "FDGRX", "VTHRX"]
 
-old = {}
-if os.path.exists("market_data.json"):
-    try:
-        old = json.load(open("market_data.json"))
-    except Exception:
-        pass
-out = {"updated": now.isoformat(timespec="seconds"), "quotes": old.get("quotes", {}), "hist": old.get("hist", {})}
+def main():
+    quotes = {}
+    for symbol in TICKERS:
+        try:
+            t = yf.Ticker(symbol)
+            hist = t.history(period="5d", interval="1h")
+            if hist.empty:
+                hist = t.history(period="1mo", interval="1d")
+            if hist.empty:
+                continue
 
+            closes = [round(float(x), 4 if float(x) < 0.1 else 2) for x in hist["Close"].dropna().tolist()[-18:]]
+            if not closes:
+                continue
 
-def num(x, d=2):
-    try:
-        x = float(x)
-        return None if x != x else round(x, d)
-    except Exception:
-        return None
-
-
-def news(t):
-    res = []
-    for n in (t.news or [])[:4]:
-        c = n.get("content", n)
-        url = (c.get("canonicalUrl") or c.get("clickThroughUrl") or {}).get("url") or n.get("link")
-        if c.get("title") and url:
-            res.append({"t": c["title"], "u": url})
-    return res[:3]
-
-
-def earnings(t):
-    prev = nxt = None
-    try:
-        for d in t.get_earnings_dates(limit=12).index:
-            day = d.date()
-            if day > today:
-                nxt = min(nxt, day) if nxt else day
+            current_price = closes[-1]
+            daily = t.history(period="5d", interval="1d")
+            if len(daily) >= 2:
+                prev_close = float(daily["Close"].dropna().iloc[-2])
             else:
-                prev = max(prev, day) if prev else day
-    except Exception:
-        pass
-    if not nxt:
-        try:
-            for d in (t.calendar or {}).get("Earnings Date", []):
-                if d >= today:
-                    nxt = d
-                    break
-        except Exception:
-            pass
-    return (str(nxt) if nxt else None), (str(prev) if prev else None)
+                prev_close = closes[0]
 
+            anchor_return = None
+            if symbol in {"FDGRX", "VTHRX"}:
+                anchor = t.history(start="2026-11-17", end="2026-11-20", interval="1d")
+                if not anchor.empty:
+                    anchor_price = float(anchor["Close"].dropna().iloc[0])
+                    if anchor_price:
+                        anchor_return = round((current_price / anchor_price - 1) * 100, 4)
 
-for s in tickers:
-    try:
-        t = yf.Ticker(s)
-        h = t.history(period="1y" if s in HIST_FOR else "3mo", interval="1d")["Close"].dropna()
-        fi = t.fast_info
-        price, prev_close = float(fi["last_price"]), float(fi["previous_close"])
-        try:
-            info = t.info
-        except Exception:
-            info = {}
-        dy = info.get("trailingAnnualDividendYield")
-        nxt, prv = earnings(t)
-        tail = h.tail(30)
-        out["quotes"][s] = {
-            "name": info.get("shortName") or info.get("longName") or s,
-            "price": num(price, 4),
-            "chg": num((price / prev_close - 1) * 100),
-            "mcap": info.get("marketCap"),
-            "pe": num(info.get("trailingPE")),
-            "dy": num(dy * 100) if dy else None,
-            "sp": [num(v) for v in tail],
-            "sd": [d.strftime("%b %d") for d in tail.index],
-            "news": news(t),
-            "earn": nxt,
-            "ep": prv,
-        }
-        if s in HIST_FOR:
-            out["hist"][s] = {d.strftime("%Y-%m-%d"): num(v) for d, v in h.items()}
-    except Exception as e:
-        print("skip", s, e)
+            change = round(current_price - prev_close, 4 if current_price < 0.1 else 2)
+            change_pct = round((change / prev_close) * 100, 2) if prev_close else 0.0
 
-json.dump(out, open("market_data.json", "w"), separators=(",", ":"))
+            headlines = []
+            try:
+                news_items = t.news or []
+                for item in news_items[:2]:
+                    content = item.get("content", item)
+                    title = content.get("title") or item.get("title")
+                    provider = (content.get("provider") or {}).get("displayName") or item.get("publisher") or "Market Feed"
+                    if title:
+                        headlines.append({
+                            "title": title,
+                            "source": provider,
+                            "date": datetime.datetime.now().strftime("%b %d, %Y"),
+                            "snippet": content.get("summary") or "Live automated market feed update."
+                        })
+            except Exception:
+                pass
+
+            quotes[symbol] = {
+                "price": current_price,
+                "change": change,
+                "changePercent": change_pct,
+                "chg": change_pct,
+                "history": closes,
+                "sp": closes,
+                "sd": list(range(len(closes))),
+                "anchorReturn": anchor_return,
+                "headlines": headlines
+            }
+        except Exception as e:
+            print(f"Skipped {symbol}: {e}")
+
+    payload = {
+        "updatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "updated": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "quotes": quotes
+    }
+
+    with open("market_data.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+    print("Wrote market_data.json with", len(quotes), "tickers.")
+
+if __name__ == "__main__":
+    main()
