@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-20T19:25:27.984799+00:00",
-  "updated": "2026-11-20T19:25:27.984805+00:00",
+  "updatedAt": "2026-11-20T20:26:13.484895+00:00",
+  "updated": "2026-11-20T20:26:13.484902+00:00",
   "quotes": {
     "AAPL": {
-      "price": 343.96,
-      "change": -5.25,
-      "changePercent": -1.5,
-      "chg": -1.5,
+      "price": 343.45,
+      "change": -5.76,
+      "changePercent": -1.65,
+      "chg": -1.65,
       "history": [
-        352.98,
         353.49,
         353.52,
         352.59,
@@ -25,10 +24,10 @@
         347.48,
         345.6,
         344.96,
-        343.96
+        343.0,
+        343.45
       ],
       "sp": [
-        352.98,
         353.49,
         353.52,
         352.59,
@@ -45,7 +44,8 @@
         347.48,
         345.6,
         344.96,
-        343.96
+        343.0,
+        343.45
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 91.33,
-      "change": -3.37,
-      "changePercent": -3.56,
-      "chg": -3.56,
+      "price": 90.81,
+      "change": -3.89,
+      "changePercent": -4.11,
+      "chg": -4.11,
       "history": [
-        95.65,
         96.78,
         96.63,
         97.09,
@@ -106,10 +105,10 @@
         92.86,
         92.1,
         91.89,
-        91.33
+        91.1,
+        90.81
       ],
       "sp": [
-        95.65,
         96.78,
         96.63,
         97.09,
@@ -126,7 +125,8 @@
         92.86,
         92.1,
         91.89,
-        91.33
+        91.1,
+        90.81
       ],
       "sd": [
         0,
@@ -150,27 +150,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "How Investors May Respond To Cisco Stock After Earnings Beat",
+          "source": "Simply Wall St.",
+          "date": "Nov 20, 2026",
+          "snippet": "Cisco Systems reported past Q1 FY2027 results with revenue of US$18.5b, net income of US$4.6b, higher EPS than a year earlier, raised full year guidance, and a higher AI infrastructure outlook alongside new AI focused alliances with DXC Technology and Qumulo. The combination of stronger fundamentals, Cisco's US$9b AI infrastructure revenue target from hyperscalers and real world security and IT operations partnerships signals heavier reliance on AI driven networking and software to support..."
+        },
         {
           "title": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
           "source": "Trefis",
           "date": "Nov 20, 2026",
           "snippet": "Today\u2019s big story: Will 2027 Be A 2022 Repeat For Stocks."
-        },
-        {
-          "title": "Cisco Systems, Inc. (CSCO) Posted Record $17.3 Billion Revenue, but Margins Slipped: Is the Stock Still Worth Buying?",
-          "source": "Insider Monkey",
-          "date": "Nov 20, 2026",
-          "snippet": "Investment management company First Pacific Advisors recently released its \u201cFPA Queens Road Value Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the [\u2026]"
         }
       ]
     },
     "COF": {
-      "price": 180.65,
-      "change": -1.11,
-      "changePercent": -0.61,
-      "chg": -0.61,
+      "price": 179.87,
+      "change": -1.89,
+      "changePercent": -1.04,
+      "chg": -1.04,
       "history": [
-        185.55,
         186.27,
         184.73,
         184.36,
@@ -187,10 +186,10 @@
         182.44,
         181.07,
         180.6,
-        180.65
+        180.13,
+        179.87
       ],
       "sp": [
-        185.55,
         186.27,
         184.73,
         184.36,
@@ -207,7 +206,8 @@
         182.44,
         181.07,
         180.6,
-        180.65
+        180.13,
+        179.87
       ],
       "sd": [
         0,
@@ -231,27 +231,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Greg Abel Nearly Doubled Berkshire\u2019s Lennar Stake and Added a $689 Million IPO Position",
+          "source": "24/7 Wall St.",
+          "date": "Nov 20, 2026",
+          "snippet": "Berkshire's first big moves under Greg Abel include a surprise bet on a slumping homebuilder, a fresh IPO and trims to two bank holdings. The filing shows what changed, but the real question is what Abel saw that the market missed."
+        },
         {
           "title": "Greg Abel Makes His Next Moves: Inside Berkshire\u2019s Q3 Portfolio",
           "source": "MarketBeat",
           "date": "Nov 20, 2026",
           "snippet": "Berkshire Hathaway's Q3 13F shows it nearly doubled its Lennar stake to $2.1 billion, added Bending Spoons, and cut VeriSign and Capital One Financial holdings."
-        },
-        {
-          "title": "Why Is Capital One (COF) Down 10.8% Since Last Earnings Report?",
-          "source": "Zacks",
-          "date": "Nov 20, 2026",
-          "snippet": "Capital One (COF) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
         }
       ]
     },
     "SCHD": {
-      "price": 34.23,
-      "change": 0.03,
-      "changePercent": 0.09,
-      "chg": 0.09,
+      "price": 34.12,
+      "change": -0.08,
+      "changePercent": -0.23,
+      "chg": -0.23,
       "history": [
-        34.85,
         34.94,
         34.89,
         34.69,
@@ -268,10 +267,10 @@
         34.53,
         34.38,
         34.31,
-        34.23
+        34.15,
+        34.12
       ],
       "sp": [
-        34.85,
         34.94,
         34.89,
         34.69,
@@ -288,7 +287,8 @@
         34.53,
         34.38,
         34.31,
-        34.23
+        34.15,
+        34.12
       ],
       "sd": [
         0,
@@ -313,26 +313,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Week\u2019s Best: Schwab Claims Dividend King Title",
+          "source": "Barrons.com",
+          "date": "Nov 20, 2026",
+          "snippet": "Here\u2019s our weekly roundup of the most-read articles at Barron\u2019s Advisor."
+        },
+        {
           "title": "Schwab's Aguilar on ETF Growth, Privates and Prediction Markets",
           "source": "Bloomberg",
           "date": "Nov 20, 2026",
           "snippet": "Schwab Asset Management CEO &amp; CIO Omar Aguilar joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Aguilar discusses Schwab's growth in ETFs, how investors are using low-cost products to diversify portfolios, the firm's approach to prediction markets and expanding retail access to private companies."
-        },
-        {
-          "title": "Here's How Many Shares of SCHD You'd Need to Generate $1,000 in Monthly Passive Income",
-          "source": "Motley Fool",
-          "date": "Nov 20, 2026",
-          "snippet": "The Schwab U.S. Dividend Equity ETF (SCHD) is one of the best funds available for high passive dividend income."
         }
       ]
     },
     "KO": {
-      "price": 97.54,
-      "change": 1.45,
-      "changePercent": 1.51,
-      "chg": 1.51,
+      "price": 97.25,
+      "change": 1.16,
+      "changePercent": 1.21,
+      "chg": 1.21,
       "history": [
-        98.12,
         98.14,
         98.08,
         97.71,
@@ -349,10 +348,10 @@
         97.57,
         97.49,
         97.61,
-        97.54
+        97.32,
+        97.25
       ],
       "sp": [
-        98.12,
         98.14,
         98.08,
         97.71,
@@ -369,7 +368,8 @@
         97.57,
         97.49,
         97.61,
-        97.54
+        97.32,
+        97.25
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 488.39,
-      "change": -9.91,
-      "changePercent": -1.99,
-      "chg": -1.99,
+      "price": 484.42,
+      "change": -13.88,
+      "changePercent": -2.79,
+      "chg": -2.79,
       "history": [
-        502.99,
         504.74,
         506.86,
         508.23,
@@ -430,10 +429,10 @@
         491.69,
         488.52,
         489.26,
-        488.39
+        487.34,
+        484.42
       ],
       "sp": [
-        502.99,
         504.74,
         506.86,
         508.23,
@@ -450,7 +449,8 @@
         491.69,
         488.52,
         489.26,
-        488.39
+        487.34,
+        484.42
       ],
       "sd": [
         0,
@@ -489,12 +489,11 @@
       ]
     },
     "NVDA": {
-      "price": 130.76,
-      "change": -15.22,
-      "changePercent": -10.43,
-      "chg": -10.43,
+      "price": 127.94,
+      "change": -18.04,
+      "changePercent": -12.36,
+      "chg": -12.36,
       "history": [
-        152.0,
         152.85,
         152.13,
         151.75,
@@ -511,10 +510,10 @@
         136.66,
         135.41,
         135.79,
-        130.76
+        130.54,
+        127.94
       ],
       "sp": [
-        152.0,
         152.85,
         152.13,
         151.75,
@@ -531,7 +530,8 @@
         136.66,
         135.41,
         135.79,
-        130.76
+        130.54,
+        127.94
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Is today's market showing warning signs of a 2000 bubble?",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 20, 2026",
-          "snippet": "Host Mark Malek, Siebert Financial's chief investment officer, and his panel of experts weigh in on whether the market is showing signs of a 2000 bubble.\n\nToday's panel includes Raymond James Investment Management Chief Market Strategist Matt Orton, Yahoo Finance Senior Autos Reporter Pras Subramanian, The Wall Street Skinny Co-Founder Kristen Kelly, and Clocktower Group Chief Market Strategist Eric Wallerstein.\n\n"
-        },
-        {
-          "title": "Broadcom sinks 10%, Nvidia and AMD extend declines as the AI trade melts down",
+          "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting",
           "source": "Yahoo Finance",
           "date": "Nov 20, 2026",
-          "snippet": "Chip giant Nvidia slid further into red territory on Friday along with the rest of the semiconductor sector."
+          "snippet": "Nvidia's record sell-off deepened as Reuters reported that SEC investigators are examining its accounting."
+        },
+        {
+          "title": "Trump on Jensen Huang: 'We're a country of second chances'",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 20, 2026",
+          "snippet": "President Trump told reporters that former Nvidia (NVDA) CEO Jensen Huang should be given a second chance and allowed to return to the company."
         }
       ]
     },
     "UAL": {
-      "price": 101.86,
-      "change": -3.67,
-      "changePercent": -3.48,
-      "chg": -3.48,
+      "price": 101.06,
+      "change": -4.47,
+      "changePercent": -4.24,
+      "chg": -4.24,
       "history": [
-        108.32,
         109.48,
         108.9,
         108.46,
@@ -592,10 +591,10 @@
         104.26,
         102.73,
         101.98,
-        101.86
+        101.44,
+        101.06
       ],
       "sp": [
-        108.32,
         109.48,
         108.9,
         108.46,
@@ -612,7 +611,8 @@
         104.26,
         102.73,
         101.98,
-        101.86
+        101.44,
+        101.06
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 271.14,
-      "change": -1.52,
-      "changePercent": -0.56,
-      "chg": -0.56,
+      "price": 268.35,
+      "change": -4.31,
+      "changePercent": -1.58,
+      "chg": -1.58,
       "history": [
-        280.85,
         282.27,
         282.41,
         284.22,
@@ -673,10 +672,10 @@
         277.46,
         273.45,
         272.77,
-        271.14
+        270.11,
+        268.35
       ],
       "sp": [
-        280.85,
         282.27,
         282.41,
         284.22,
@@ -693,7 +692,8 @@
         277.46,
         273.45,
         272.77,
-        271.14
+        270.11,
+        268.35
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
-          "source": "24/7 Wall St.",
+          "title": "Nvidia, Nasdaq Slide Deepens After Report of SEC Accounting Probe",
+          "source": "Barrons.com",
           "date": "Nov 20, 2026",
-          "snippet": "Broadcom fell 12% Friday afternoon after analyst Ming-Chi Kuo said Google cut about 1 million Broadcom-designed AI chips from its 2027 plans. The stock is headed for its worst day since June and sits 36% below its record. Earnings are Dec. 9."
+          "snippet": "A stock market practically begging for some good news got more bad news instead."
         },
         {
-          "title": "Trump vows tax on U.S. firms building data centers abroad",
-          "source": "Investing.com",
+          "title": "Funds With Anthropic Exposure Got Off To a Rough Start. More Trouble May Be on The Way",
+          "source": "Barrons.com",
           "date": "Nov 20, 2026",
-          "snippet": "Investing.com -- President Donald Trump said Friday he plans to impose a tax on American companies that construct data centers in foreign countries. The president did not provide details on how such a tax would be implemented or the legal authority the government would use."
+          "snippet": "ETFs that had ties to Anthropic got crushed Thursday in the AI selloff and tumbled again Friday Single-stock funds tied to Anthropic are set to debut too."
         }
       ]
     },
     "CCL": {
-      "price": 26.94,
-      "change": -0.63,
-      "changePercent": -2.29,
-      "chg": -2.29,
+      "price": 26.71,
+      "change": -0.86,
+      "changePercent": -3.12,
+      "chg": -3.12,
       "history": [
-        28.81,
         29.46,
         29.23,
         29.27,
@@ -754,10 +753,10 @@
         27.37,
         27.14,
         27.06,
-        26.94
+        26.85,
+        26.71
       ],
       "sp": [
-        28.81,
         29.46,
         29.23,
         29.27,
@@ -774,7 +773,8 @@
         27.37,
         27.14,
         27.06,
-        26.94
+        26.85,
+        26.71
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.5,
-      "change": -0.15,
-      "changePercent": -23.08,
-      "chg": -23.08,
+      "price": 0.53,
+      "change": -0.12,
+      "changePercent": -18.46,
+      "chg": -18.46,
       "history": [
-        0.61,
         0.59,
         0.59,
         0.6,
@@ -835,10 +834,10 @@
         0.53,
         0.5,
         0.5,
-        0.5
+        0.5,
+        0.53
       ],
       "sp": [
-        0.61,
         0.59,
         0.59,
         0.6,
@@ -855,7 +854,8 @@
         0.53,
         0.5,
         0.5,
-        0.5
+        0.5,
+        0.53
       ],
       "sd": [
         0,
