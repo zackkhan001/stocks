@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-20T14:12:32.702737+00:00",
-  "updated": "2026-11-20T14:12:32.702745+00:00",
+  "updatedAt": "2026-11-20T15:16:19.183674+00:00",
+  "updated": "2026-11-20T15:16:19.183681+00:00",
   "quotes": {
     "AAPL": {
-      "price": 349.11,
-      "change": -3.34,
-      "changePercent": -0.95,
-      "chg": -0.95,
+      "price": 349.58,
+      "change": 0.37,
+      "changePercent": 0.11,
+      "chg": 0.11,
       "history": [
-        351.39,
         350.48,
         350.48,
         351.92,
@@ -25,10 +24,10 @@
         349.48,
         350.1,
         349.14,
-        349.11
+        349.11,
+        349.58
       ],
       "sp": [
-        351.39,
         350.48,
         350.48,
         351.92,
@@ -45,7 +44,8 @@
         349.48,
         350.1,
         349.14,
-        349.11
+        349.11,
+        349.58
       ],
       "sd": [
         0,
@@ -70,10 +70,10 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "3 Tech Dividend Stocks Retirees Shouldn\u2019t Overlook",
-          "source": "24/7 Wall St.",
+          "title": "Apple's AI agent push: Why the pressure is mounting",
+          "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
-          "snippet": "Apple, Microsoft and Visa all yield less than 1%, yet each has a case for a retirement income portfolio. The real payoff shows up decades later, and so do the risks that could slow it."
+          "snippet": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss how Apple (AAPL) is building an AI agent, what the hiring signals and enterprise potential suggest, and why the company may feel pressure to move quickly."
         },
         {
           "title": "Stocks to Watch: Anthropic,  Nvidia, AMD",
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 94.68,
-      "change": -2.5,
-      "changePercent": -2.57,
-      "chg": -2.57,
+      "price": 94.19,
+      "change": -0.51,
+      "changePercent": -0.54,
+      "chg": -0.54,
       "history": [
-        94.98,
         94.76,
         94.63,
         95.11,
@@ -106,10 +105,10 @@
         95.58,
         95.43,
         94.65,
-        94.68
+        94.68,
+        94.19
       ],
       "sp": [
-        94.98,
         94.76,
         94.63,
         95.11,
@@ -126,7 +125,8 @@
         95.58,
         95.43,
         94.65,
-        94.68
+        94.68,
+        94.19
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Own Dell Or HPE? Look Past The Record Backlog",
+          "title": "Can Arista Networks Stock Fall 30%?",
           "source": "Trefis",
           "date": "Nov 20, 2026",
           "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
         },
         {
-          "title": "Anthropic Defies Tech Rout On Debut \u2014 Tom Lee Sees \u2018Big Payoff\u2019 Ahead And Says Cisco\u2019s Wild 1997 Ride Shows Why",
-          "source": "Stocktwits",
+          "title": "Cisco Fell 89%. Is Nvidia Stock Next?",
+          "source": "Trefis",
           "date": "Nov 20, 2026",
-          "snippet": "After six straight S&P 500 losses, Lee noted that the index rose the following week in all 10 prior cases he analyzed."
+          "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
         }
       ]
     },
     "COF": {
-      "price": 181.71,
-      "change": -2.59,
-      "changePercent": -1.41,
-      "chg": -1.41,
+      "price": 183.53,
+      "change": 1.77,
+      "changePercent": 0.97,
+      "chg": 0.97,
       "history": [
-        187.91,
         187.15,
         186.62,
         186.77,
@@ -187,10 +186,10 @@
         184.73,
         183.56,
         182.26,
-        181.71
+        181.71,
+        183.53
       ],
       "sp": [
-        187.91,
         187.15,
         186.62,
         186.77,
@@ -207,7 +206,8 @@
         184.73,
         183.56,
         182.26,
-        181.71
+        181.71,
+        183.53
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.19,
-      "change": -0.51,
-      "changePercent": -1.47,
-      "chg": -1.47,
+      "price": 34.67,
+      "change": 0.47,
+      "changePercent": 1.37,
+      "chg": 1.37,
       "history": [
-        35.53,
         35.39,
         35.31,
         35.32,
@@ -268,10 +267,10 @@
         34.31,
         34.26,
         34.22,
-        34.19
+        34.19,
+        34.67
       ],
       "sp": [
-        35.53,
         35.39,
         35.31,
         35.32,
@@ -288,7 +287,8 @@
         34.31,
         34.26,
         34.22,
-        34.19
+        34.19,
+        34.67
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 96.11,
-      "change": -1.98,
-      "changePercent": -2.02,
-      "chg": -2.02,
+      "price": 97.21,
+      "change": 1.12,
+      "changePercent": 1.17,
+      "chg": 1.17,
       "history": [
-        99.29,
         99.22,
         99.18,
         98.8,
@@ -349,10 +348,10 @@
         96.38,
         96.25,
         96.35,
-        96.11
+        96.11,
+        97.21
       ],
       "sp": [
-        99.29,
         99.22,
         99.18,
         98.8,
@@ -369,7 +368,8 @@
         96.38,
         96.25,
         96.35,
-        96.11
+        96.11,
+        97.21
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "The Same $10,000 in Pepsi and Coca-Cola Could Produce Very Different Results by 2030",
+          "source": "24/7 Wall St.",
+          "date": "Nov 20, 2026",
+          "snippet": "One stock just surged 42.5% while its rival barely moved, yet the model sees a surprising gap in where each could land by 2030. Dividends, guidance cuts, and valuation risk all shape which $10,000 stake looks smarter."
+        },
+        {
           "title": "Want Reliable Dividend Passive Income? These 5 Stocks Raise Their Payouts Year After Year",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
           "snippet": "Your dividends can buy more shares, but they also send a tax bill for cash you never touched. Two simple tools show whether your income is truly compounding, and five payers put them to the test."
-        },
-        {
-          "title": "Is Coca-Cola (KO) the Best Stock to Own During a Market Sell-Off?",
-          "source": "Motley Fool",
-          "date": "Nov 20, 2026",
-          "snippet": "The world\u2019s top beverage maker is a reliable safe-haven stock."
         }
       ]
     },
     "MSFT": {
-      "price": 498.16,
-      "change": -9.15,
-      "changePercent": -1.8,
-      "chg": -1.8,
+      "price": 499.28,
+      "change": 0.98,
+      "changePercent": 0.2,
+      "chg": 0.2,
       "history": [
-        503.88,
         506.16,
         505.37,
         506.3,
@@ -430,10 +429,10 @@
         503.18,
         503.56,
         500.47,
-        498.16
+        498.16,
+        499.28
       ],
       "sp": [
-        503.88,
         506.16,
         505.37,
         506.3,
@@ -450,7 +449,8 @@
         503.18,
         503.56,
         500.47,
-        498.16
+        498.16,
+        499.28
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "\"In The Loop\" host Ejaaz Ahamadeen sits down with Deirdre Bosa to share his thoughts on Microsoft's (MSFT) place among AI frontier models."
         },
         {
-          "title": "Danaher Teams Up With Microsoft To Develop AI-Powered Scientific Instruments, First Applications Expected This Year",
-          "source": "Stocktwits",
+          "title": "Anthropic IPO: Here's What Its Spending Commitments Mean to Microsoft, SpaceX, Amazon, and Alphabet",
+          "source": "Motley Fool",
           "date": "Nov 20, 2026",
-          "snippet": "The first commercial applications are expected to reach Danaher customers in 2026, with additional agent-enabled instruments planned for 2027."
+          "snippet": "One of these four companies has significantly more important exposure to Anthropic's compute needs than the others, and that could be good news for it."
         }
       ]
     },
     "NVDA": {
-      "price": 146.0,
-      "change": -4.96,
-      "changePercent": -3.29,
-      "chg": -3.29,
+      "price": 139.86,
+      "change": -6.12,
+      "changePercent": -4.19,
+      "chg": -4.19,
       "history": [
-        154.1,
         153.62,
         153.48,
         155.47,
@@ -511,10 +510,10 @@
         149.43,
         148.82,
         147.17,
-        146.0
+        146.0,
+        139.86
       ],
       "sp": [
-        154.1,
         153.62,
         153.48,
         155.47,
@@ -531,7 +530,8 @@
         149.43,
         148.82,
         147.17,
-        146.0
+        146.0,
+        139.86
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Chip stocks lead tech lower, Anthropic stock drops: AlphaCheck",
+          "source": "Yahoo Finance",
+          "date": "Nov 20, 2026",
+          "snippet": "Stocks were mixed on Friday as the AI trade came under pressure."
+        },
+        {
           "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
           "source": "Yahoo Finance",
           "date": "Nov 20, 2026",
           "snippet": "Chip giant Nvidia slid further into red territory on Friday along with the rest of the semiconductor sector."
-        },
-        {
-          "title": "The post earnings slide in Nvidia stock is getting uglier by the day",
-          "source": "Yahoo Finance",
-          "date": "Nov 20, 2026",
-          "snippet": "The Nvidia sell-off refuses to let up in the post Jensen Huang era."
         }
       ]
     },
     "UAL": {
-      "price": 105.55,
-      "change": -2.08,
-      "changePercent": -1.93,
-      "chg": -1.93,
+      "price": 107.11,
+      "change": 1.58,
+      "changePercent": 1.5,
+      "chg": 1.5,
       "history": [
-        107.67,
         107.46,
         107.14,
         106.33,
@@ -592,10 +591,10 @@
         106.55,
         106.64,
         106.32,
-        105.55
+        105.55,
+        107.11
       ],
       "sp": [
-        107.67,
         107.46,
         107.14,
         106.33,
@@ -612,7 +611,8 @@
         106.55,
         106.64,
         106.32,
-        105.55
+        105.55,
+        107.11
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 272.5,
-      "change": -9.94,
-      "changePercent": -3.52,
-      "chg": -3.52,
+      "price": 279.83,
+      "change": 7.17,
+      "changePercent": 2.63,
+      "chg": 2.63,
       "history": [
-        281.99,
         280.39,
         279.82,
         280.18,
@@ -673,10 +672,10 @@
         280.64,
         279.05,
         273.72,
-        272.5
+        272.5,
+        279.83
       ],
       "sp": [
-        281.99,
         280.39,
         279.82,
         280.18,
@@ -693,7 +692,8 @@
         280.64,
         279.05,
         273.72,
-        272.5
+        272.5,
+        279.83
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Jim Cramer\u2019s Favorite Chartist Sees 2 Signs of an Alphabet Stock Rally",
-          "source": "24/7 Wall St.",
+          "title": "Anthropic IPO: Here's What Its Spending Commitments Mean to Microsoft, SpaceX, Amazon, and Alphabet",
+          "source": "Motley Fool",
           "date": "Nov 20, 2026",
-          "snippet": "Alphabet just hit its lowest close in weeks, yet a veteran chartist spots a rebound setup. Before you buy the dip, check what hides inside the earnings number behind his bargain valuation call."
+          "snippet": "One of these four companies has significantly more important exposure to Anthropic's compute needs than the others, and that could be good news for it."
         },
         {
-          "title": "Google's Gemini Tasks Seen As Challenger To Meta's Muse In AI Battle",
-          "source": "Investor's Business Daily",
+          "title": "Stock Market Today: Anthropic\u2019s Mega-IPO Sends Stocks Lower for a Second Day",
+          "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "Alphabet's release of a personal AI agent will challenge Meta's Muse and should provide upside for Google stock, says JPMorgan."
+          "snippet": "NVIDIA posted a blowout quarter and still got hammered, while Anthropic's fresh listing slid again before the open. With rates easing and AI valuations under fire, one early signal could show whether the selloff is fading or just beginning."
         }
       ]
     },
     "CCL": {
-      "price": 27.58,
-      "change": -1.39,
-      "changePercent": -4.8,
-      "chg": -4.8,
+      "price": 27.64,
+      "change": 0.07,
+      "changePercent": 0.25,
+      "chg": 0.25,
       "history": [
-        28.61,
         28.53,
         28.36,
         28.17,
@@ -754,10 +753,10 @@
         27.9,
         27.84,
         27.7,
-        27.58
+        27.58,
+        27.64
       ],
       "sp": [
-        28.61,
         28.53,
         28.36,
         28.17,
@@ -774,7 +773,8 @@
         27.9,
         27.84,
         27.7,
-        27.58
+        27.58,
+        27.64
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.64,
-      "change": 0.01,
-      "changePercent": 1.59,
-      "chg": 1.59,
+      "price": 0.57,
+      "change": -0.08,
+      "changePercent": -12.31,
+      "chg": -12.31,
       "history": [
-        0.59,
         0.68,
         0.61,
         0.64,
@@ -835,10 +834,10 @@
         0.63,
         0.63,
         0.63,
-        0.64
+        0.64,
+        0.57
       ],
       "sp": [
-        0.59,
         0.68,
         0.61,
         0.64,
@@ -855,7 +854,8 @@
         0.63,
         0.63,
         0.63,
-        0.64
+        0.64,
+        0.57
       ],
       "sd": [
         0,
