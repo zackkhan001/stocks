@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T21:27:06.429588+00:00",
-  "updated": "2026-11-20T21:27:06.429596+00:00",
+  "updatedAt": "2026-11-20T22:26:36.696164+00:00",
+  "updated": "2026-11-20T22:26:36.696171+00:00",
   "quotes": {
     "AAPL": {
       "price": 342.68,
@@ -394,16 +394,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Top Research Reports for Coca-Cola, Medtronic & Palo Alto Networks",
+          "source": "Zacks",
+          "date": "Nov 20, 2026",
+          "snippet": "Coca-Cola, UnitedHealth and Palo Alto Networks headline today's top research reports, highlighting growth drivers, strategic opportunities and key business risks."
+        },
+        {
           "title": "Coca-Cola (KO) After ETF Selling Is It Still Fairly Valued",
           "source": "Simply Wall St.",
           "date": "Nov 20, 2026",
           "snippet": "Coca-Cola (KO) is back on investors\u2019 radar after a one day burst of ETF selling saw around US$176 million flow out, interrupting a recent pattern of institutional buying. In the short term, the share price has given back some ground, with a 1-day share price return of 2.04% lower and a 7-day share price return of 1.39% lower. However, the 30-day and 90-day share price returns of 2.78% and 5.48% respectively point to momentum that aligns with upbeat Q3 news. The 39.02% year-to-date share price..."
-        },
-        {
-          "title": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
-          "source": "24/7 Wall St.",
-          "date": "Nov 20, 2026",
-          "snippet": "The Dow just shed 1,100 points in a single session, and retirees leaning on dividend income are asking whether their payouts can survive the next drop. Four blue chips kept raising through 2008 and 2020, and none of them needs AI to win."
         }
       ]
     },
@@ -556,16 +556,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
+          "source": "Yahoo Finance",
+          "date": "Nov 20, 2026",
+          "snippet": "Nvidia's record sell-off deepened as Reuters reported that SEC investigators are examining its accounting."
+        },
+        {
           "title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil",
           "source": "Yahoo Finance",
           "date": "Nov 20, 2026",
           "snippet": "President Trump on Friday offered a defense of ousted Nvidia CEO Jensen Huang, but \u2014 perhaps more significantly \u2014 criticized the new leadership of the chipmaker."
-        },
-        {
-          "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting",
-          "source": "Yahoo Finance",
-          "date": "Nov 20, 2026",
-          "snippet": "Nvidia's record sell-off deepened as Reuters reported that SEC investigators are examining its accounting."
         }
       ]
     },
@@ -718,16 +718,16 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?",
-          "source": "24/7 Wall St.",
+          "title": "Jevons paradox and AI: Data shows usage soars as prices plunge",
+          "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
-          "snippet": "One stock just debuted at a $1.5 trillion valuation and promptly sank, while the original crypto rebel sits near its yearly low. Before the December Fed decision, one of them offers a far clearer path to growing a $1,000 bet."
+          "snippet": "Factory co-founder and CTO Eno Reyes joins Yahoo Finance's Deirdre Bosa to discuss whether token usage will keep rising as agent adoption deepens after OpenRouter data showed AI model pricing down 57% since January and usage up as spending flattened in recent weeks."
         },
         {
-          "title": "Amazon Provides Options To Buy Ads Across Entire Ecosystem",
-          "source": "MediaPost",
+          "title": "Nvidia\u2019s Stock Slide Deepens After Report of SEC Accounting Probe",
+          "source": "Barrons.com",
           "date": "Nov 20, 2026",
-          "snippet": "Amazon Ads Brand Innovation Lab on Friday launched its Holiday Sponsorship Program in an effort to turn its entire media and shopping ecosystem into a large holiday sponsorship opportunity for advertisers and media buyers."
+          "snippet": "The stock fell Friday and closed lower for a seventh-consecutive trading session."
         }
       ]
     },
