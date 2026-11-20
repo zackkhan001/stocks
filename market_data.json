@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-20T17:16:32.415961+00:00",
-  "updated": "2026-11-20T17:16:32.415970+00:00",
+  "updatedAt": "2026-11-20T18:15:14.785517+00:00",
+  "updated": "2026-11-20T18:15:14.785525+00:00",
   "quotes": {
     "AAPL": {
-      "price": 346.25,
-      "change": -2.96,
-      "changePercent": -0.85,
-      "chg": -0.85,
+      "price": 345.33,
+      "change": -3.88,
+      "changePercent": -1.11,
+      "chg": -1.11,
       "history": [
-        351.9,
         353.25,
         352.98,
         353.49,
@@ -22,13 +21,13 @@
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
-        346.25
+        345.6,
+        345.33
       ],
       "sp": [
-        351.9,
         353.25,
         352.98,
         353.49,
@@ -42,10 +41,11 @@
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
-        346.25
+        345.6,
+        345.33
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 92.14,
-      "change": -2.56,
-      "changePercent": -2.7,
-      "chg": -2.7,
+      "price": 91.76,
+      "change": -2.94,
+      "changePercent": -3.1,
+      "chg": -3.1,
       "history": [
-        95.11,
         95.64,
         95.65,
         96.78,
@@ -106,10 +105,10 @@
         94.68,
         93.95,
         92.86,
-        92.14
+        92.1,
+        91.76
       ],
       "sp": [
-        95.11,
         95.64,
         95.65,
         96.78,
@@ -126,7 +125,8 @@
         94.68,
         93.95,
         92.86,
-        92.14
+        92.1,
+        91.76
       ],
       "sd": [
         0,
@@ -151,13 +151,13 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Can Arista Networks Stock Fall 30%?",
-          "source": "Trefis",
+          "title": "Cisco Systems, Inc. (CSCO) Posted Record $17.3 Billion Revenue, but Margins Slipped: Is the Stock Still Worth Buying?",
+          "source": "Insider Monkey",
           "date": "Nov 20, 2026",
-          "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
+          "snippet": "Investment management company First Pacific Advisors recently released its \u201cFPA Queens Road Value Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the [\u2026]"
         },
         {
-          "title": "Cisco Fell 89%. Is Nvidia Stock Next?",
+          "title": "Can Arista Networks Stock Fall 30%?",
           "source": "Trefis",
           "date": "Nov 20, 2026",
           "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 180.99,
-      "change": -0.77,
-      "changePercent": -0.42,
-      "chg": -0.42,
+      "price": 180.6,
+      "change": -1.16,
+      "changePercent": -0.64,
+      "chg": -0.64,
       "history": [
-        186.77,
         186.35,
         185.55,
         186.27,
@@ -187,10 +186,10 @@
         181.71,
         183.02,
         182.44,
-        180.99
+        181.07,
+        180.6
       ],
       "sp": [
-        186.77,
         186.35,
         185.55,
         186.27,
@@ -207,7 +206,8 @@
         181.71,
         183.02,
         182.44,
-        180.99
+        181.07,
+        180.6
       ],
       "sd": [
         0,
@@ -231,27 +231,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Greg Abel Makes His Next Moves: Inside Berkshire\u2019s Q3 Portfolio",
+          "source": "MarketBeat",
+          "date": "Nov 20, 2026",
+          "snippet": "Berkshire Hathaway's Q3 13F shows it nearly doubled its Lennar stake to $2.1 billion, added Bending Spoons, and cut VeriSign and Capital One Financial holdings."
+        },
         {
           "title": "Why Is Capital One (COF) Down 10.8% Since Last Earnings Report?",
           "source": "Zacks",
           "date": "Nov 20, 2026",
           "snippet": "Capital One (COF) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
-        },
-        {
-          "title": "Why Did Chime Financial Stock Jump?",
-          "source": "Trefis",
-          "date": "Nov 20, 2026",
-          "snippet": "For questions about this article or underlying research, email help@trefis.com."
         }
       ]
     },
     "SCHD": {
-      "price": 34.42,
-      "change": 0.22,
-      "changePercent": 0.64,
-      "chg": 0.64,
+      "price": 34.33,
+      "change": 0.13,
+      "changePercent": 0.38,
+      "chg": 0.38,
       "history": [
-        35.32,
         34.97,
         34.85,
         34.94,
@@ -268,10 +267,10 @@
         34.19,
         34.56,
         34.53,
-        34.42
+        34.38,
+        34.33
       ],
       "sp": [
-        35.32,
         34.97,
         34.85,
         34.94,
@@ -288,7 +287,8 @@
         34.19,
         34.56,
         34.53,
-        34.42
+        34.38,
+        34.33
       ],
       "sd": [
         0,
@@ -312,27 +312,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Schwab's Aguilar on ETF Growth, Privates and Prediction Markets",
+          "source": "Bloomberg",
+          "date": "Nov 20, 2026",
+          "snippet": "Schwab Asset Management CEO &amp; CIO Omar Aguilar joins Bloomberg's Katie Greifeld and Eric Balchunas for a special edition of ETF IQ live on stage at the Bloomberg ETFs in Depth Conference in New York on November 26, 2026. Aguilar discusses Schwab's growth in ETFs, how investors are using low-cost products to diversify portfolios, the firm's approach to prediction markets and expanding retail access to private companies."
+        },
         {
           "title": "Here's How Many Shares of SCHD You'd Need to Generate $1,000 in Monthly Passive Income",
           "source": "Motley Fool",
           "date": "Nov 20, 2026",
           "snippet": "The Schwab U.S. Dividend Equity ETF (SCHD) is one of the best funds available for high passive dividend income."
-        },
-        {
-          "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None.",
-          "source": "24/7 Wall St.",
-          "date": "Nov 20, 2026",
-          "snippet": "One simple core fund quietly hands a retiree a stake in the market's biggest tech name, while a dividend-focused rival leaves that company out entirely. Which approach has the edge depends on when you start counting."
         }
       ]
     },
     "KO": {
-      "price": 97.7,
-      "change": 1.61,
-      "changePercent": 1.68,
-      "chg": 1.68,
+      "price": 97.65,
+      "change": 1.56,
+      "changePercent": 1.62,
+      "chg": 1.62,
       "history": [
-        98.8,
         97.56,
         98.12,
         98.14,
@@ -349,10 +348,10 @@
         96.11,
         97.17,
         97.57,
-        97.7
+        97.49,
+        97.65
       ],
       "sp": [
-        98.8,
         97.56,
         98.12,
         98.14,
@@ -369,7 +368,8 @@
         96.11,
         97.17,
         97.57,
-        97.7
+        97.49,
+        97.65
       ],
       "sd": [
         0,
@@ -393,27 +393,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Coca-Cola\u2019s Valuation Is the Highest in 25 Years. Where Does The Stock Go From Here?",
+          "source": "24/7 Wall St.",
+          "date": "Nov 20, 2026",
+          "snippet": "Coca-Cola keeps beating earnings estimates, yet investors are paying a price not seen in a quarter century. Between a looming refranchising hit and rivals like PepsiCo and Monster, can the fizz last, or is a stretched multiple about to go flat?"
+        },
         {
           "title": "The Same $10,000 in Pepsi and Coca-Cola Could Produce Very Different Results by 2030",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
           "snippet": "One stock just surged 42.5% while its rival barely moved, yet the model sees a surprising gap in where each could land by 2030. Dividends, guidance cuts, and valuation risk all shape which $10,000 stake looks smarter."
-        },
-        {
-          "title": "Want Reliable Dividend Passive Income? These 5 Stocks Raise Their Payouts Year After Year",
-          "source": "24/7 Wall St.",
-          "date": "Nov 20, 2026",
-          "snippet": "Your dividends can buy more shares, but they also send a tax bill for cash you never touched. Two simple tools show whether your income is truly compounding, and five payers put them to the test."
         }
       ]
     },
     "MSFT": {
-      "price": 489.39,
-      "change": -8.91,
-      "changePercent": -1.79,
-      "chg": -1.79,
+      "price": 488.0,
+      "change": -10.3,
+      "changePercent": -2.07,
+      "chg": -2.07,
       "history": [
-        506.3,
         504.47,
         502.99,
         504.74,
@@ -430,10 +429,10 @@
         498.16,
         497.39,
         491.69,
-        489.39
+        488.52,
+        488.0
       ],
       "sp": [
-        506.3,
         504.47,
         502.99,
         504.74,
@@ -450,7 +449,8 @@
         498.16,
         497.39,
         491.69,
-        489.39
+        488.52,
+        488.0
       ],
       "sd": [
         0,
@@ -475,27 +475,26 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Could a handful of tech giants control the future of AI?",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 20, 2026",
+          "snippet": "In the Loop host Ejaaz Ahamadeen examines the growing concentration of power in artificial intelligence and why the industry's future could be shaped by just a handful of tech giants. He explores what the dominance of major AI players could mean for competition, innovation, and the companies racing to lead the next wave of AI development."
+        },
+        {
           "title": "Can Microsoft catch up in the frontier AI race?",
           "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
           "snippet": "\"In The Loop\" host Ejaaz Ahamadeen sits down with Deirdre Bosa to share his thoughts on Microsoft's (MSFT) place among AI frontier models."
-        },
-        {
-          "title": "Amazon Stock: What Wall Street\u2019s Latest Forecasts Say About Its Next Move",
-          "source": "24/7 Wall St.",
-          "date": "Nov 20, 2026",
-          "snippet": "AWS just posted its fastest growth in nearly five years, yet Amazon is bleeding cash at a record pace. Can a $220 billion spending binge pay off, or will free cash flow break the bull case first?"
         }
       ]
     },
     "NVDA": {
-      "price": 135.53,
-      "change": -10.45,
-      "changePercent": -7.16,
-      "chg": -7.16,
+      "price": 135.15,
+      "change": -10.83,
+      "changePercent": -7.42,
+      "chg": -7.42,
       "history": [
-        155.46,
-        153.8,
+        153.79,
         152.0,
         152.85,
         152.13,
@@ -504,18 +503,18 @@
         150.87,
         153.51,
         153.24,
-        150.22,
+        150.25,
         149.43,
         148.82,
         147.17,
         146.0,
         138.72,
         136.66,
-        135.53
+        135.41,
+        135.15
       ],
       "sp": [
-        155.46,
-        153.8,
+        153.79,
         152.0,
         152.85,
         152.13,
@@ -524,14 +523,15 @@
         150.87,
         153.51,
         153.24,
-        150.22,
+        150.25,
         149.43,
         148.82,
         147.17,
         146.0,
         138.72,
         136.66,
-        135.53
+        135.41,
+        135.15
       ],
       "sd": [
         0,
@@ -570,12 +570,11 @@
       ]
     },
     "UAL": {
-      "price": 102.95,
-      "change": -2.58,
-      "changePercent": -2.44,
-      "chg": -2.44,
+      "price": 102.03,
+      "change": -3.5,
+      "changePercent": -3.32,
+      "chg": -3.32,
       "history": [
-        106.33,
         108.35,
         108.32,
         109.48,
@@ -592,10 +591,10 @@
         105.55,
         105.91,
         104.26,
-        102.95
+        102.73,
+        102.03
       ],
       "sp": [
-        106.33,
         108.35,
         108.32,
         109.48,
@@ -612,7 +611,8 @@
         105.55,
         105.91,
         104.26,
-        102.95
+        102.73,
+        102.03
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 273.9,
-      "change": 1.24,
-      "changePercent": 0.45,
-      "chg": 0.45,
+      "price": 272.25,
+      "change": -0.41,
+      "changePercent": -0.15,
+      "chg": -0.15,
       "history": [
-        280.18,
         282.38,
         280.85,
         282.27,
@@ -673,10 +672,10 @@
         272.5,
         278.67,
         277.46,
-        273.9
+        273.45,
+        272.25
       ],
       "sp": [
-        280.18,
         282.38,
         280.85,
         282.27,
@@ -693,7 +692,8 @@
         272.5,
         278.67,
         277.46,
-        273.9
+        273.45,
+        272.25
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "A $4.2 Billion Reason Why Google Stock Is Up Today",
-          "source": "GuruFocus.com",
+          "title": "Could a handful of tech giants control the future of AI?",
+          "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
-          "snippet": "Alphabet Returns to Canada's Bond Market With a $4.2 Billion Deal"
+          "snippet": "In the Loop host Ejaaz Ahamadeen examines the growing concentration of power in artificial intelligence and why the industry's future could be shaped by just a handful of tech giants. He explores what the dominance of major AI players could mean for competition, innovation, and the companies racing to lead the next wave of AI development."
         },
         {
-          "title": "Amazon Stock: What Wall Street\u2019s Latest Forecasts Say About Its Next Move",
+          "title": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200?",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "AWS just posted its fastest growth in nearly five years, yet Amazon is bleeding cash at a record pace. Can a $220 billion spending binge pay off, or will free cash flow break the bull case first?"
+          "snippet": "A leadership shake-up has made NVIDIA (NASDAQ:NVDA) one of the market\u2019s biggest decliners, even though the artificial intelligence (AI) chip leader keeps beating forecasts. NVIDIA stock is at $135.47 in trading this afternoon, down 37% over the past month. That slip includes a 7% drop from where the stock closed previously. On October 20, NVIDIA [\u2026]"
         }
       ]
     },
     "CCL": {
-      "price": 27.16,
-      "change": -0.41,
-      "changePercent": -1.49,
-      "chg": -1.49,
+      "price": 27.06,
+      "change": -0.51,
+      "changePercent": -1.85,
+      "chg": -1.85,
       "history": [
-        28.17,
         28.94,
         28.81,
         29.46,
@@ -754,10 +753,10 @@
         27.58,
         27.47,
         27.37,
-        27.16
+        27.14,
+        27.06
       ],
       "sp": [
-        28.17,
         28.94,
         28.81,
         29.46,
@@ -774,7 +773,8 @@
         27.58,
         27.47,
         27.37,
-        27.16
+        27.14,
+        27.06
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.5,
-      "change": -0.15,
-      "changePercent": -23.08,
-      "chg": -23.08,
+      "price": 0.55,
+      "change": -0.1,
+      "changePercent": -15.38,
+      "chg": -15.38,
       "history": [
-        0.64,
         0.65,
         0.61,
         0.59,
@@ -835,10 +834,10 @@
         0.64,
         0.55,
         0.53,
-        0.5
+        0.5,
+        0.55
       ],
       "sp": [
-        0.64,
         0.65,
         0.61,
         0.59,
@@ -855,7 +854,8 @@
         0.64,
         0.55,
         0.53,
-        0.5
+        0.5,
+        0.55
       ],
       "sd": [
         0,
