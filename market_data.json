@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-20T15:16:19.183674+00:00",
-  "updated": "2026-11-20T15:16:19.183681+00:00",
+  "updatedAt": "2026-11-20T16:16:41.371042+00:00",
+  "updated": "2026-11-20T16:16:41.371050+00:00",
   "quotes": {
     "AAPL": {
-      "price": 349.58,
-      "change": 0.37,
-      "changePercent": 0.11,
-      "chg": 0.11,
+      "price": 348.0,
+      "change": -1.21,
+      "changePercent": -0.35,
+      "chg": -0.35,
       "history": [
-        350.48,
         350.48,
         351.92,
         353.25,
@@ -25,11 +24,11 @@
         350.1,
         349.14,
         349.11,
-        349.58
+        348.91,
+        348.0
       ],
       "sp": [
         350.48,
-        350.48,
         351.92,
         353.25,
         352.98,
@@ -45,7 +44,8 @@
         350.1,
         349.14,
         349.11,
-        349.58
+        348.91,
+        348.0
       ],
       "sd": [
         0,
@@ -76,20 +76,19 @@
           "snippet": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss how Apple (AAPL) is building an AI agent, what the hiring signals and enterprise potential suggest, and why the company may feel pressure to move quickly."
         },
         {
-          "title": "Stocks to Watch: Anthropic,  Nvidia, AMD",
-          "source": "The Wall Street Journal",
+          "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
+          "source": "Investor's Business Daily",
           "date": "Nov 20, 2026",
-          "snippet": "\u2198\ufe0f Anthropic (ANT): Analysts are heralding the model maker's record-breaking IPO a success."
+          "snippet": "Making the latest list of new buys by top funds, Apple stock shows strength while fellow AI names Nvidia and Meta flounder."
         }
       ]
     },
     "CSCO": {
-      "price": 94.19,
-      "change": -0.51,
-      "changePercent": -0.54,
-      "chg": -0.54,
+      "price": 93.28,
+      "change": -1.42,
+      "changePercent": -1.5,
+      "chg": -1.5,
       "history": [
-        94.76,
         94.63,
         95.11,
         95.64,
@@ -106,10 +105,10 @@
         95.43,
         94.65,
         94.68,
-        94.19
+        93.95,
+        93.28
       ],
       "sp": [
-        94.76,
         94.63,
         95.11,
         95.64,
@@ -126,7 +125,8 @@
         95.43,
         94.65,
         94.68,
-        94.19
+        93.95,
+        93.28
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 183.53,
-      "change": 1.77,
-      "changePercent": 0.97,
-      "chg": 0.97,
+      "price": 182.6,
+      "change": 0.84,
+      "changePercent": 0.46,
+      "chg": 0.46,
       "history": [
-        187.15,
         186.62,
         186.77,
         186.35,
@@ -187,10 +186,10 @@
         183.56,
         182.26,
         181.71,
-        183.53
+        183.02,
+        182.6
       ],
       "sp": [
-        187.15,
         186.62,
         186.77,
         186.35,
@@ -207,7 +206,8 @@
         183.56,
         182.26,
         181.71,
-        183.53
+        183.02,
+        182.6
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.67,
-      "change": 0.47,
-      "changePercent": 1.37,
-      "chg": 1.37,
+      "price": 34.51,
+      "change": 0.31,
+      "changePercent": 0.91,
+      "chg": 0.91,
       "history": [
-        35.39,
         35.31,
         35.32,
         34.97,
@@ -268,10 +267,10 @@
         34.26,
         34.22,
         34.19,
-        34.67
+        34.56,
+        34.51
       ],
       "sp": [
-        35.39,
         35.31,
         35.32,
         34.97,
@@ -288,7 +287,8 @@
         34.26,
         34.22,
         34.19,
-        34.67
+        34.56,
+        34.51
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.21,
-      "change": 1.12,
-      "changePercent": 1.17,
-      "chg": 1.17,
+      "price": 97.34,
+      "change": 1.25,
+      "changePercent": 1.3,
+      "chg": 1.3,
       "history": [
-        99.22,
         99.18,
         98.8,
         97.56,
@@ -349,10 +348,10 @@
         96.25,
         96.35,
         96.11,
-        97.21
+        97.17,
+        97.34
       ],
       "sp": [
-        99.22,
         99.18,
         98.8,
         97.56,
@@ -369,7 +368,8 @@
         96.25,
         96.35,
         96.11,
-        97.21
+        97.17,
+        97.34
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 499.28,
-      "change": 0.98,
-      "changePercent": 0.2,
-      "chg": 0.2,
+      "price": 493.23,
+      "change": -5.07,
+      "changePercent": -1.02,
+      "chg": -1.02,
       "history": [
-        506.16,
         505.37,
         506.3,
         504.47,
@@ -430,10 +429,10 @@
         503.56,
         500.47,
         498.16,
-        499.28
+        497.39,
+        493.23
       ],
       "sp": [
-        506.16,
         505.37,
         506.3,
         504.47,
@@ -450,7 +449,8 @@
         503.56,
         500.47,
         498.16,
-        499.28
+        497.39,
+        493.23
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "\"In The Loop\" host Ejaaz Ahamadeen sits down with Deirdre Bosa to share his thoughts on Microsoft's (MSFT) place among AI frontier models."
         },
         {
-          "title": "Anthropic IPO: Here's What Its Spending Commitments Mean to Microsoft, SpaceX, Amazon, and Alphabet",
-          "source": "Motley Fool",
+          "title": "Between IREN and CoreWeave Here\u2019s Who Has the Cleaner Path to a Sustained 30% Rebound",
+          "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "One of these four companies has significantly more important exposure to Anthropic's compute needs than the others, and that could be good news for it."
+          "snippet": "Both AI cloud darlings tumbled after NVIDIA flashed a warning on financing, yet one sits on billions in customer prepayments while the other still hunts a $6B funding gap. Which stock can actually power a lasting comeback?"
         }
       ]
     },
     "NVDA": {
-      "price": 139.86,
-      "change": -6.12,
-      "changePercent": -4.19,
-      "chg": -4.19,
+      "price": 137.3,
+      "change": -8.68,
+      "changePercent": -5.95,
+      "chg": -5.95,
       "history": [
-        153.62,
         153.48,
         155.47,
         153.79,
@@ -511,10 +510,10 @@
         148.82,
         147.17,
         146.0,
-        139.86
+        138.72,
+        137.3
       ],
       "sp": [
-        153.62,
         153.48,
         155.47,
         153.79,
@@ -531,7 +530,8 @@
         148.82,
         147.17,
         146.0,
-        139.86
+        138.72,
+        137.3
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Chip stocks lead tech lower, Anthropic stock drops: AlphaCheck",
-          "source": "Yahoo Finance",
+          "title": "How Anthropic compares to other tech companies",
+          "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
-          "snippet": "Stocks were mixed on Friday as the AI trade came under pressure."
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi takes a closer look at how Anthropic  (ANT) compares to other tech giants."
         },
         {
-          "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower",
-          "source": "Yahoo Finance",
+          "title": "Why the markets are being hit with a 'perfect storm' for AI",
+          "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
-          "snippet": "Chip giant Nvidia slid further into red territory on Friday along with the rest of the semiconductor sector."
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the bigger market story investors may have missed amid the frenzy surrounding Anthropic's (ANT) IPO: a broad sell-off in tech stocks. With the Nasdaq Composite (^IXIC) falling 2%, the S&amp;P 500  (^GSPC) closing lower, and chipmakers Nvidia (NVDA) and AMD (AMD) taking hits, Sozzi examines what's driving the weakness and what it could signal for investors"
         }
       ]
     },
     "UAL": {
-      "price": 107.11,
-      "change": 1.58,
-      "changePercent": 1.5,
-      "chg": 1.5,
+      "price": 104.46,
+      "change": -1.07,
+      "changePercent": -1.01,
+      "chg": -1.01,
       "history": [
-        107.46,
         107.14,
         106.33,
         108.35,
@@ -592,10 +591,10 @@
         106.64,
         106.32,
         105.55,
-        107.11
+        105.91,
+        104.46
       ],
       "sp": [
-        107.46,
         107.14,
         106.33,
         108.35,
@@ -612,7 +611,8 @@
         106.64,
         106.32,
         105.55,
-        107.11
+        105.91,
+        104.46
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 279.83,
-      "change": 7.17,
-      "changePercent": 2.63,
-      "chg": 2.63,
+      "price": 278.13,
+      "change": 5.47,
+      "changePercent": 2.01,
+      "chg": 2.01,
       "history": [
-        280.39,
         279.82,
         280.18,
         282.38,
@@ -673,10 +672,10 @@
         279.05,
         273.72,
         272.5,
-        279.83
+        278.67,
+        278.13
       ],
       "sp": [
-        280.39,
         279.82,
         280.18,
         282.38,
@@ -693,7 +692,8 @@
         279.05,
         273.72,
         272.5,
-        279.83
+        278.67,
+        278.13
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Anthropic IPO: Here's What Its Spending Commitments Mean to Microsoft, SpaceX, Amazon, and Alphabet",
-          "source": "Motley Fool",
+          "title": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
+          "source": "Stocktwits",
           "date": "Nov 20, 2026",
-          "snippet": "One of these four companies has significantly more important exposure to Anthropic's compute needs than the others, and that could be good news for it."
+          "snippet": "Alphabet\u2019s market value stood at approximately $3.44 trillion, compared with $3.41 trillion for Nvidia, a difference of about $30 billion."
         },
         {
-          "title": "Stock Market Today: Anthropic\u2019s Mega-IPO Sends Stocks Lower for a Second Day",
-          "source": "24/7 Wall St.",
+          "title": "Big Tech Earned $607 Billion. Where Did It Go?",
+          "source": "Trefis",
           "date": "Nov 20, 2026",
-          "snippet": "NVIDIA posted a blowout quarter and still got hammered, while Anthropic's fresh listing slid again before the open. With rates easing and AI valuations under fire, one early signal could show whether the selloff is fading or just beginning."
+          "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
         }
       ]
     },
     "CCL": {
-      "price": 27.64,
-      "change": 0.07,
-      "changePercent": 0.25,
-      "chg": 0.25,
+      "price": 27.41,
+      "change": -0.16,
+      "changePercent": -0.58,
+      "chg": -0.58,
       "history": [
-        28.53,
         28.36,
         28.17,
         28.94,
@@ -754,10 +753,10 @@
         27.84,
         27.7,
         27.58,
-        27.64
+        27.47,
+        27.41
       ],
       "sp": [
-        28.53,
         28.36,
         28.17,
         28.94,
@@ -774,7 +773,8 @@
         27.84,
         27.7,
         27.58,
-        27.64
+        27.47,
+        27.41
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.57,
-      "change": -0.08,
-      "changePercent": -12.31,
-      "chg": -12.31,
+      "price": 0.52,
+      "change": -0.13,
+      "changePercent": -20.0,
+      "chg": -20.0,
       "history": [
-        0.68,
         0.61,
         0.64,
         0.65,
@@ -835,10 +834,10 @@
         0.63,
         0.63,
         0.64,
-        0.57
+        0.55,
+        0.52
       ],
       "sp": [
-        0.68,
         0.61,
         0.64,
         0.65,
@@ -855,7 +854,8 @@
         0.63,
         0.63,
         0.64,
-        0.57
+        0.55,
+        0.52
       ],
       "sd": [
         0,
