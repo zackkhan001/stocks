@@ -1,15 +1,14 @@
 {
-  "updatedAt": "2026-11-20T16:16:41.371042+00:00",
-  "updated": "2026-11-20T16:16:41.371050+00:00",
+  "updatedAt": "2026-11-20T17:16:32.415961+00:00",
+  "updated": "2026-11-20T17:16:32.415970+00:00",
   "quotes": {
     "AAPL": {
-      "price": 348.0,
-      "change": -1.21,
-      "changePercent": -0.35,
-      "chg": -0.35,
+      "price": 346.25,
+      "change": -2.96,
+      "changePercent": -0.85,
+      "chg": -0.85,
       "history": [
-        350.48,
-        351.92,
+        351.9,
         353.25,
         352.98,
         353.49,
@@ -23,13 +22,13 @@
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
-        348.0
+        347.48,
+        346.25
       ],
       "sp": [
-        350.48,
-        351.92,
+        351.9,
         353.25,
         352.98,
         353.49,
@@ -43,9 +42,10 @@
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
-        348.0
+        347.48,
+        346.25
       ],
       "sd": [
         0,
@@ -70,26 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Apple's secret AI agent shows John Ternus is done sitting out the AI race",
+          "source": "Yahoo Finance",
+          "date": "Nov 20, 2026",
+          "snippet": "Apple's AI agent plans hit Meta and Anthropic stock before the job listing revealing its ambitions disappeared."
+        },
+        {
           "title": "Apple's AI agent push: Why the pressure is mounting",
           "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
           "snippet": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss how Apple (AAPL) is building an AI agent, what the hiring signals and enterprise potential suggest, and why the company may feel pressure to move quickly."
-        },
-        {
-          "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
-          "source": "Investor's Business Daily",
-          "date": "Nov 20, 2026",
-          "snippet": "Making the latest list of new buys by top funds, Apple stock shows strength while fellow AI names Nvidia and Meta flounder."
         }
       ]
     },
     "CSCO": {
-      "price": 93.28,
-      "change": -1.42,
-      "changePercent": -1.5,
-      "chg": -1.5,
+      "price": 92.14,
+      "change": -2.56,
+      "changePercent": -2.7,
+      "chg": -2.7,
       "history": [
-        94.63,
         95.11,
         95.64,
         95.65,
@@ -106,10 +105,10 @@
         94.65,
         94.68,
         93.95,
-        93.28
+        92.86,
+        92.14
       ],
       "sp": [
-        94.63,
         95.11,
         95.64,
         95.65,
@@ -126,7 +125,8 @@
         94.65,
         94.68,
         93.95,
-        93.28
+        92.86,
+        92.14
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 182.6,
-      "change": 0.84,
-      "changePercent": 0.46,
-      "chg": 0.46,
+      "price": 180.99,
+      "change": -0.77,
+      "changePercent": -0.42,
+      "chg": -0.42,
       "history": [
-        186.62,
         186.77,
         186.35,
         185.55,
@@ -187,10 +186,10 @@
         182.26,
         181.71,
         183.02,
-        182.6
+        182.44,
+        180.99
       ],
       "sp": [
-        186.62,
         186.77,
         186.35,
         185.55,
@@ -207,7 +206,8 @@
         182.26,
         181.71,
         183.02,
-        182.6
+        182.44,
+        180.99
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.51,
-      "change": 0.31,
-      "changePercent": 0.91,
-      "chg": 0.91,
+      "price": 34.42,
+      "change": 0.22,
+      "changePercent": 0.64,
+      "chg": 0.64,
       "history": [
-        35.31,
         35.32,
         34.97,
         34.85,
@@ -268,10 +267,10 @@
         34.22,
         34.19,
         34.56,
-        34.51
+        34.53,
+        34.42
       ],
       "sp": [
-        35.31,
         35.32,
         34.97,
         34.85,
@@ -288,7 +287,8 @@
         34.22,
         34.19,
         34.56,
-        34.51
+        34.53,
+        34.42
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.34,
-      "change": 1.25,
-      "changePercent": 1.3,
-      "chg": 1.3,
+      "price": 97.7,
+      "change": 1.61,
+      "changePercent": 1.68,
+      "chg": 1.68,
       "history": [
-        99.18,
         98.8,
         97.56,
         98.12,
@@ -349,10 +348,10 @@
         96.35,
         96.11,
         97.17,
-        97.34
+        97.57,
+        97.7
       ],
       "sp": [
-        99.18,
         98.8,
         97.56,
         98.12,
@@ -369,7 +368,8 @@
         96.35,
         96.11,
         97.17,
-        97.34
+        97.57,
+        97.7
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 493.23,
-      "change": -5.07,
-      "changePercent": -1.02,
-      "chg": -1.02,
+      "price": 489.39,
+      "change": -8.91,
+      "changePercent": -1.79,
+      "chg": -1.79,
       "history": [
-        505.37,
         506.3,
         504.47,
         502.99,
@@ -430,10 +429,10 @@
         500.47,
         498.16,
         497.39,
-        493.23
+        491.69,
+        489.39
       ],
       "sp": [
-        505.37,
         506.3,
         504.47,
         502.99,
@@ -450,7 +449,8 @@
         500.47,
         498.16,
         497.39,
-        493.23
+        491.69,
+        489.39
       ],
       "sd": [
         0,
@@ -481,22 +481,21 @@
           "snippet": "\"In The Loop\" host Ejaaz Ahamadeen sits down with Deirdre Bosa to share his thoughts on Microsoft's (MSFT) place among AI frontier models."
         },
         {
-          "title": "Between IREN and CoreWeave Here\u2019s Who Has the Cleaner Path to a Sustained 30% Rebound",
+          "title": "Amazon Stock: What Wall Street\u2019s Latest Forecasts Say About Its Next Move",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "Both AI cloud darlings tumbled after NVIDIA flashed a warning on financing, yet one sits on billions in customer prepayments while the other still hunts a $6B funding gap. Which stock can actually power a lasting comeback?"
+          "snippet": "AWS just posted its fastest growth in nearly five years, yet Amazon is bleeding cash at a record pace. Can a $220 billion spending binge pay off, or will free cash flow break the bull case first?"
         }
       ]
     },
     "NVDA": {
-      "price": 137.3,
-      "change": -8.68,
-      "changePercent": -5.95,
-      "chg": -5.95,
+      "price": 135.53,
+      "change": -10.45,
+      "changePercent": -7.16,
+      "chg": -7.16,
       "history": [
-        153.48,
-        155.47,
-        153.79,
+        155.46,
+        153.8,
         152.0,
         152.85,
         152.13,
@@ -505,18 +504,18 @@
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
         146.0,
         138.72,
-        137.3
+        136.66,
+        135.53
       ],
       "sp": [
-        153.48,
-        155.47,
-        153.79,
+        155.46,
+        153.8,
         152.0,
         152.85,
         152.13,
@@ -525,13 +524,14 @@
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
         146.0,
         138.72,
-        137.3
+        136.66,
+        135.53
       ],
       "sd": [
         0,
@@ -570,12 +570,11 @@
       ]
     },
     "UAL": {
-      "price": 104.46,
-      "change": -1.07,
-      "changePercent": -1.01,
-      "chg": -1.01,
+      "price": 102.95,
+      "change": -2.58,
+      "changePercent": -2.44,
+      "chg": -2.44,
       "history": [
-        107.14,
         106.33,
         108.35,
         108.32,
@@ -592,10 +591,10 @@
         106.32,
         105.55,
         105.91,
-        104.46
+        104.26,
+        102.95
       ],
       "sp": [
-        107.14,
         106.33,
         108.35,
         108.32,
@@ -612,7 +611,8 @@
         106.32,
         105.55,
         105.91,
-        104.46
+        104.26,
+        102.95
       ],
       "sd": [
         0,
@@ -636,27 +636,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Southwest (LUV) Up 8.5% Since Last Earnings Report: Can It Continue?",
+          "source": "Zacks",
+          "date": "Nov 20, 2026",
+          "snippet": "Southwest (LUV) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
+        },
         {
           "title": "Visa, Mastercard, JPMorgan Hit By Reported Data Leak, Payment Information Not Affected",
           "source": "Stocktwits",
           "date": "Nov 20, 2026",
           "snippet": "According to The Wall Street Journal, the breach reportedly involved a third-party service provider, but none of the three companies identified the provider."
-        },
-        {
-          "title": "Inside Stanley Druckenmiller\u2019s Portfolio: Every Move He Made in the Third Quarter",
-          "source": "TIKR",
-          "date": "Nov 20, 2026",
-          "snippet": "Key TakeawaysStanley Druckenmiller\u2019s Duquesne Family Office sold all of its Alphabet and United Airlines stock in the third quarter and added to Amazon, Fox and Unity Software, its latest 13F shows. Amazon is now the fund\u2019s third-largest holding, at 772,600 shares worth $192 million, plus call options."
         }
       ]
     },
     "GOOGL": {
-      "price": 278.13,
-      "change": 5.47,
-      "changePercent": 2.01,
-      "chg": 2.01,
+      "price": 273.9,
+      "change": 1.24,
+      "changePercent": 0.45,
+      "chg": 0.45,
       "history": [
-        279.82,
         280.18,
         282.38,
         280.85,
@@ -673,10 +672,10 @@
         273.72,
         272.5,
         278.67,
-        278.13
+        277.46,
+        273.9
       ],
       "sp": [
-        279.82,
         280.18,
         282.38,
         280.85,
@@ -693,7 +692,8 @@
         273.72,
         272.5,
         278.67,
-        278.13
+        277.46,
+        273.9
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
-          "source": "Stocktwits",
+          "title": "A $4.2 Billion Reason Why Google Stock Is Up Today",
+          "source": "GuruFocus.com",
           "date": "Nov 20, 2026",
-          "snippet": "Alphabet\u2019s market value stood at approximately $3.44 trillion, compared with $3.41 trillion for Nvidia, a difference of about $30 billion."
+          "snippet": "Alphabet Returns to Canada's Bond Market With a $4.2 Billion Deal"
         },
         {
-          "title": "Big Tech Earned $607 Billion. Where Did It Go?",
-          "source": "Trefis",
+          "title": "Amazon Stock: What Wall Street\u2019s Latest Forecasts Say About Its Next Move",
+          "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
+          "snippet": "AWS just posted its fastest growth in nearly five years, yet Amazon is bleeding cash at a record pace. Can a $220 billion spending binge pay off, or will free cash flow break the bull case first?"
         }
       ]
     },
     "CCL": {
-      "price": 27.41,
-      "change": -0.16,
-      "changePercent": -0.58,
-      "chg": -0.58,
+      "price": 27.16,
+      "change": -0.41,
+      "changePercent": -1.49,
+      "chg": -1.49,
       "history": [
-        28.36,
         28.17,
         28.94,
         28.81,
@@ -754,10 +753,10 @@
         27.7,
         27.58,
         27.47,
-        27.41
+        27.37,
+        27.16
       ],
       "sp": [
-        28.36,
         28.17,
         28.94,
         28.81,
@@ -774,7 +773,8 @@
         27.7,
         27.58,
         27.47,
-        27.41
+        27.37,
+        27.16
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.52,
-      "change": -0.13,
-      "changePercent": -20.0,
-      "chg": -20.0,
+      "price": 0.5,
+      "change": -0.15,
+      "changePercent": -23.08,
+      "chg": -23.08,
       "history": [
-        0.61,
         0.64,
         0.65,
         0.61,
@@ -835,10 +834,10 @@
         0.63,
         0.64,
         0.55,
-        0.52
+        0.53,
+        0.5
       ],
       "sp": [
-        0.61,
         0.64,
         0.65,
         0.61,
@@ -855,7 +854,8 @@
         0.63,
         0.64,
         0.55,
-        0.52
+        0.53,
+        0.5
       ],
       "sd": [
         0,
