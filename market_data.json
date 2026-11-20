@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-20T18:15:14.785517+00:00",
-  "updated": "2026-11-20T18:15:14.785525+00:00",
+  "updatedAt": "2026-11-20T19:25:27.984799+00:00",
+  "updated": "2026-11-20T19:25:27.984805+00:00",
   "quotes": {
     "AAPL": {
-      "price": 345.33,
-      "change": -3.88,
-      "changePercent": -1.11,
-      "chg": -1.11,
+      "price": 343.96,
+      "change": -5.25,
+      "changePercent": -1.5,
+      "chg": -1.5,
       "history": [
-        353.25,
         352.98,
         353.49,
         353.52,
@@ -25,10 +24,10 @@
         348.91,
         347.48,
         345.6,
-        345.33
+        344.96,
+        343.96
       ],
       "sp": [
-        353.25,
         352.98,
         353.49,
         353.52,
@@ -45,7 +44,8 @@
         348.91,
         347.48,
         345.6,
-        345.33
+        344.96,
+        343.96
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 91.76,
-      "change": -2.94,
-      "changePercent": -3.1,
-      "chg": -3.1,
+      "price": 91.33,
+      "change": -3.37,
+      "changePercent": -3.56,
+      "chg": -3.56,
       "history": [
-        95.64,
         95.65,
         96.78,
         96.63,
@@ -106,10 +105,10 @@
         93.95,
         92.86,
         92.1,
-        91.76
+        91.89,
+        91.33
       ],
       "sp": [
-        95.64,
         95.65,
         96.78,
         96.63,
@@ -126,7 +125,8 @@
         93.95,
         92.86,
         92.1,
-        91.76
+        91.89,
+        91.33
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
+          "source": "Trefis",
+          "date": "Nov 20, 2026",
+          "snippet": "Today\u2019s big story: Will 2027 Be A 2022 Repeat For Stocks."
+        },
+        {
           "title": "Cisco Systems, Inc. (CSCO) Posted Record $17.3 Billion Revenue, but Margins Slipped: Is the Stock Still Worth Buying?",
           "source": "Insider Monkey",
           "date": "Nov 20, 2026",
           "snippet": "Investment management company First Pacific Advisors recently released its \u201cFPA Queens Road Value Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the [\u2026]"
-        },
-        {
-          "title": "Can Arista Networks Stock Fall 30%?",
-          "source": "Trefis",
-          "date": "Nov 20, 2026",
-          "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
         }
       ]
     },
     "COF": {
-      "price": 180.6,
-      "change": -1.16,
-      "changePercent": -0.64,
-      "chg": -0.64,
+      "price": 180.65,
+      "change": -1.11,
+      "changePercent": -0.61,
+      "chg": -0.61,
       "history": [
-        186.35,
         185.55,
         186.27,
         184.73,
@@ -187,10 +186,10 @@
         183.02,
         182.44,
         181.07,
-        180.6
+        180.6,
+        180.65
       ],
       "sp": [
-        186.35,
         185.55,
         186.27,
         184.73,
@@ -207,7 +206,8 @@
         183.02,
         182.44,
         181.07,
-        180.6
+        180.6,
+        180.65
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.33,
-      "change": 0.13,
-      "changePercent": 0.38,
-      "chg": 0.38,
+      "price": 34.23,
+      "change": 0.03,
+      "changePercent": 0.09,
+      "chg": 0.09,
       "history": [
-        34.97,
         34.85,
         34.94,
         34.89,
@@ -268,10 +267,10 @@
         34.56,
         34.53,
         34.38,
-        34.33
+        34.31,
+        34.23
       ],
       "sp": [
-        34.97,
         34.85,
         34.94,
         34.89,
@@ -288,7 +287,8 @@
         34.56,
         34.53,
         34.38,
-        34.33
+        34.31,
+        34.23
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.65,
-      "change": 1.56,
-      "changePercent": 1.62,
-      "chg": 1.62,
+      "price": 97.54,
+      "change": 1.45,
+      "changePercent": 1.51,
+      "chg": 1.51,
       "history": [
-        97.56,
         98.12,
         98.14,
         98.08,
@@ -349,10 +348,10 @@
         97.17,
         97.57,
         97.49,
-        97.65
+        97.61,
+        97.54
       ],
       "sp": [
-        97.56,
         98.12,
         98.14,
         98.08,
@@ -369,7 +368,8 @@
         97.17,
         97.57,
         97.49,
-        97.65
+        97.61,
+        97.54
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Coca-Cola\u2019s Valuation Is the Highest in 25 Years. Where Does The Stock Go From Here?",
+          "title": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "Coca-Cola keeps beating earnings estimates, yet investors are paying a price not seen in a quarter century. Between a looming refranchising hit and rivals like PepsiCo and Monster, can the fizz last, or is a stretched multiple about to go flat?"
+          "snippet": "The Dow just shed 1,100 points in a single session, and retirees leaning on dividend income are asking whether their payouts can survive the next drop. Four blue chips kept raising through 2008 and 2020, and none of them needs AI to win."
         },
         {
-          "title": "The Same $10,000 in Pepsi and Coca-Cola Could Produce Very Different Results by 2030",
-          "source": "24/7 Wall St.",
+          "title": "Coke\u2019s (KO) Quiet Collapse: From 45x to 16x and the Gradual Valuation Shift Investors Missed",
+          "source": "Insider Monkey",
           "date": "Nov 20, 2026",
-          "snippet": "One stock just surged 42.5% while its rival barely moved, yet the model sees a surprising gap in where each could land by 2030. Dividends, guidance cuts, and valuation risk all shape which $10,000 stake looks smarter."
+          "snippet": "Troy Asset Management, an investment management firm, released its October 2026 investor letter. A copy of the letter can be downloaded here. The firm, covering its Multi-Asset Strategy, examined the growing tension between the AI-driven equity rally and rising bond yields amid persistent inflation and geopolitical uncertainty. The firm noted that the AI investment boom [\u2026]"
         }
       ]
     },
     "MSFT": {
-      "price": 488.0,
-      "change": -10.3,
-      "changePercent": -2.07,
-      "chg": -2.07,
+      "price": 488.39,
+      "change": -9.91,
+      "changePercent": -1.99,
+      "chg": -1.99,
       "history": [
-        504.47,
         502.99,
         504.74,
         506.86,
@@ -430,10 +429,10 @@
         497.39,
         491.69,
         488.52,
-        488.0
+        489.26,
+        488.39
       ],
       "sp": [
-        504.47,
         502.99,
         504.74,
         506.86,
@@ -450,7 +449,8 @@
         497.39,
         491.69,
         488.52,
-        488.0
+        489.26,
+        488.39
       ],
       "sd": [
         0,
@@ -489,12 +489,11 @@
       ]
     },
     "NVDA": {
-      "price": 135.15,
-      "change": -10.83,
-      "changePercent": -7.42,
-      "chg": -7.42,
+      "price": 130.76,
+      "change": -15.22,
+      "changePercent": -10.43,
+      "chg": -10.43,
       "history": [
-        153.79,
         152.0,
         152.85,
         152.13,
@@ -511,10 +510,10 @@
         138.72,
         136.66,
         135.41,
-        135.15
+        135.79,
+        130.76
       ],
       "sp": [
-        153.79,
         152.0,
         152.85,
         152.13,
@@ -531,7 +530,8 @@
         138.72,
         136.66,
         135.41,
-        135.15
+        135.79,
+        130.76
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "How Anthropic compares to other tech companies",
+          "title": "Is today's market showing warning signs of a 2000 bubble?",
           "source": "Yahoo Finance Video",
           "date": "Nov 20, 2026",
-          "snippet": "Yahoo Finance Executive Editor Brian Sozzi takes a closer look at how Anthropic  (ANT) compares to other tech giants."
+          "snippet": "Host Mark Malek, Siebert Financial's chief investment officer, and his panel of experts weigh in on whether the market is showing signs of a 2000 bubble.\n\nToday's panel includes Raymond James Investment Management Chief Market Strategist Matt Orton, Yahoo Finance Senior Autos Reporter Pras Subramanian, The Wall Street Skinny Co-Founder Kristen Kelly, and Clocktower Group Chief Market Strategist Eric Wallerstein.\n\n"
         },
         {
-          "title": "Why the markets are being hit with a 'perfect storm' for AI",
-          "source": "Yahoo Finance Video",
+          "title": "Broadcom sinks 10%, Nvidia and AMD extend declines as the AI trade melts down",
+          "source": "Yahoo Finance",
           "date": "Nov 20, 2026",
-          "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the bigger market story investors may have missed amid the frenzy surrounding Anthropic's (ANT) IPO: a broad sell-off in tech stocks. With the Nasdaq Composite (^IXIC) falling 2%, the S&amp;P 500  (^GSPC) closing lower, and chipmakers Nvidia (NVDA) and AMD (AMD) taking hits, Sozzi examines what's driving the weakness and what it could signal for investors"
+          "snippet": "Chip giant Nvidia slid further into red territory on Friday along with the rest of the semiconductor sector."
         }
       ]
     },
     "UAL": {
-      "price": 102.03,
-      "change": -3.5,
-      "changePercent": -3.32,
-      "chg": -3.32,
+      "price": 101.86,
+      "change": -3.67,
+      "changePercent": -3.48,
+      "chg": -3.48,
       "history": [
-        108.35,
         108.32,
         109.48,
         108.9,
@@ -592,10 +591,10 @@
         105.91,
         104.26,
         102.73,
-        102.03
+        101.98,
+        101.86
       ],
       "sp": [
-        108.35,
         108.32,
         109.48,
         108.9,
@@ -612,7 +611,8 @@
         105.91,
         104.26,
         102.73,
-        102.03
+        101.98,
+        101.86
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 272.25,
-      "change": -0.41,
-      "changePercent": -0.15,
-      "chg": -0.15,
+      "price": 271.14,
+      "change": -1.52,
+      "changePercent": -0.56,
+      "chg": -0.56,
       "history": [
-        282.38,
         280.85,
         282.27,
         282.41,
@@ -673,10 +672,10 @@
         278.67,
         277.46,
         273.45,
-        272.25
+        272.77,
+        271.14
       ],
       "sp": [
-        282.38,
         280.85,
         282.27,
         282.41,
@@ -693,7 +692,8 @@
         278.67,
         277.46,
         273.45,
-        272.25
+        272.77,
+        271.14
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Could a handful of tech giants control the future of AI?",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 20, 2026",
-          "snippet": "In the Loop host Ejaaz Ahamadeen examines the growing concentration of power in artificial intelligence and why the industry's future could be shaped by just a handful of tech giants. He explores what the dominance of major AI players could mean for competition, innovation, and the companies racing to lead the next wave of AI development."
-        },
-        {
-          "title": "NVIDIA Is Down 37% in a Month. Can NVDA Stock Get Back to $200?",
+          "title": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "A leadership shake-up has made NVIDIA (NASDAQ:NVDA) one of the market\u2019s biggest decliners, even though the artificial intelligence (AI) chip leader keeps beating forecasts. NVIDIA stock is at $135.47 in trading this afternoon, down 37% over the past month. That slip includes a 7% drop from where the stock closed previously. On October 20, NVIDIA [\u2026]"
+          "snippet": "Broadcom fell 12% Friday afternoon after analyst Ming-Chi Kuo said Google cut about 1 million Broadcom-designed AI chips from its 2027 plans. The stock is headed for its worst day since June and sits 36% below its record. Earnings are Dec. 9."
+        },
+        {
+          "title": "Trump vows tax on U.S. firms building data centers abroad",
+          "source": "Investing.com",
+          "date": "Nov 20, 2026",
+          "snippet": "Investing.com -- President Donald Trump said Friday he plans to impose a tax on American companies that construct data centers in foreign countries. The president did not provide details on how such a tax would be implemented or the legal authority the government would use."
         }
       ]
     },
     "CCL": {
-      "price": 27.06,
-      "change": -0.51,
-      "changePercent": -1.85,
-      "chg": -1.85,
+      "price": 26.94,
+      "change": -0.63,
+      "changePercent": -2.29,
+      "chg": -2.29,
       "history": [
-        28.94,
         28.81,
         29.46,
         29.23,
@@ -754,10 +753,10 @@
         27.47,
         27.37,
         27.14,
-        27.06
+        27.06,
+        26.94
       ],
       "sp": [
-        28.94,
         28.81,
         29.46,
         29.23,
@@ -774,7 +773,8 @@
         27.47,
         27.37,
         27.14,
-        27.06
+        27.06,
+        26.94
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.55,
-      "change": -0.1,
-      "changePercent": -15.38,
-      "chg": -15.38,
+      "price": 0.5,
+      "change": -0.15,
+      "changePercent": -23.08,
+      "chg": -23.08,
       "history": [
-        0.65,
         0.61,
         0.59,
         0.59,
@@ -835,10 +834,10 @@
         0.55,
         0.53,
         0.5,
-        0.55
+        0.5,
+        0.5
       ],
       "sp": [
-        0.65,
         0.61,
         0.59,
         0.59,
@@ -855,7 +854,8 @@
         0.55,
         0.53,
         0.5,
-        0.55
+        0.5,
+        0.5
       ],
       "sd": [
         0,
