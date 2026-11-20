@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-20T20:26:13.484895+00:00",
-  "updated": "2026-11-20T20:26:13.484902+00:00",
+  "updatedAt": "2026-11-20T21:27:06.429588+00:00",
+  "updated": "2026-11-20T21:27:06.429596+00:00",
   "quotes": {
     "AAPL": {
-      "price": 343.45,
-      "change": -5.76,
-      "changePercent": -1.65,
-      "chg": -1.65,
+      "price": 342.68,
+      "change": -6.53,
+      "changePercent": -1.87,
+      "chg": -1.87,
       "history": [
-        353.49,
         353.52,
         352.59,
         351.9,
@@ -19,16 +18,16 @@
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
         344.96,
         343.0,
-        343.45
+        343.34,
+        342.68
       ],
       "sp": [
-        353.49,
         353.52,
         352.59,
         351.9,
@@ -39,13 +38,14 @@
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
         344.96,
         343.0,
-        343.45
+        343.34,
+        342.68
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 90.81,
-      "change": -3.89,
-      "changePercent": -4.11,
-      "chg": -4.11,
+      "price": 90.68,
+      "change": -4.02,
+      "changePercent": -4.24,
+      "chg": -4.24,
       "history": [
-        96.78,
         96.63,
         97.09,
         96.44,
@@ -106,10 +105,10 @@
         92.1,
         91.89,
         91.1,
-        90.81
+        90.75,
+        90.68
       ],
       "sp": [
-        96.78,
         96.63,
         97.09,
         96.44,
@@ -126,7 +125,8 @@
         92.1,
         91.89,
         91.1,
-        90.81
+        90.75,
+        90.68
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 179.87,
-      "change": -1.89,
-      "changePercent": -1.04,
-      "chg": -1.04,
+      "price": 178.68,
+      "change": -3.08,
+      "changePercent": -1.69,
+      "chg": -1.69,
       "history": [
-        186.27,
         184.73,
         184.36,
         184.01,
@@ -187,10 +186,10 @@
         181.07,
         180.6,
         180.13,
-        179.87
+        179.72,
+        178.68
       ],
       "sp": [
-        186.27,
         184.73,
         184.36,
         184.01,
@@ -207,7 +206,8 @@
         181.07,
         180.6,
         180.13,
-        179.87
+        179.72,
+        178.68
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.12,
-      "change": -0.08,
-      "changePercent": -0.23,
-      "chg": -0.23,
+      "price": 33.96,
+      "change": -0.24,
+      "changePercent": -0.7,
+      "chg": -0.7,
       "history": [
-        34.94,
         34.89,
         34.69,
         34.74,
@@ -268,10 +267,10 @@
         34.38,
         34.31,
         34.15,
-        34.12
+        34.12,
+        33.96
       ],
       "sp": [
-        34.94,
         34.89,
         34.69,
         34.74,
@@ -288,7 +287,8 @@
         34.38,
         34.31,
         34.15,
-        34.12
+        34.12,
+        33.96
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.25,
-      "change": 1.16,
-      "changePercent": 1.21,
-      "chg": 1.21,
+      "price": 97.0,
+      "change": 0.91,
+      "changePercent": 0.95,
+      "chg": 0.95,
       "history": [
-        98.14,
         98.08,
         97.71,
         98.12,
@@ -349,10 +348,10 @@
         97.49,
         97.61,
         97.32,
-        97.25
+        97.43,
+        97.0
       ],
       "sp": [
-        98.14,
         98.08,
         97.71,
         98.12,
@@ -369,7 +368,8 @@
         97.49,
         97.61,
         97.32,
-        97.25
+        97.43,
+        97.0
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Coca-Cola (KO) After ETF Selling Is It Still Fairly Valued",
+          "source": "Simply Wall St.",
+          "date": "Nov 20, 2026",
+          "snippet": "Coca-Cola (KO) is back on investors\u2019 radar after a one day burst of ETF selling saw around US$176 million flow out, interrupting a recent pattern of institutional buying. In the short term, the share price has given back some ground, with a 1-day share price return of 2.04% lower and a 7-day share price return of 1.39% lower. However, the 30-day and 90-day share price returns of 2.78% and 5.48% respectively point to momentum that aligns with upbeat Q3 news. The 39.02% year-to-date share price..."
+        },
+        {
           "title": "These 4 Conservative Dow Jones Industrials Dividend Stocks Are Built for Sell-Offs",
           "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
           "snippet": "The Dow just shed 1,100 points in a single session, and retirees leaning on dividend income are asking whether their payouts can survive the next drop. Four blue chips kept raising through 2008 and 2020, and none of them needs AI to win."
-        },
-        {
-          "title": "Coke\u2019s (KO) Quiet Collapse: From 45x to 16x and the Gradual Valuation Shift Investors Missed",
-          "source": "Insider Monkey",
-          "date": "Nov 20, 2026",
-          "snippet": "Troy Asset Management, an investment management firm, released its October 2026 investor letter. A copy of the letter can be downloaded here. The firm, covering its Multi-Asset Strategy, examined the growing tension between the AI-driven equity rally and rising bond yields amid persistent inflation and geopolitical uncertainty. The firm noted that the AI investment boom [\u2026]"
         }
       ]
     },
     "MSFT": {
-      "price": 484.42,
-      "change": -13.88,
-      "changePercent": -2.79,
-      "chg": -2.79,
+      "price": 485.01,
+      "change": -13.29,
+      "changePercent": -2.67,
+      "chg": -2.67,
       "history": [
-        504.74,
         506.86,
         508.23,
         506.67,
@@ -430,10 +429,10 @@
         488.52,
         489.26,
         487.34,
-        484.42
+        483.84,
+        485.01
       ],
       "sp": [
-        504.74,
         506.86,
         508.23,
         506.67,
@@ -450,7 +449,8 @@
         488.52,
         489.26,
         487.34,
-        484.42
+        483.84,
+        485.01
       ],
       "sd": [
         0,
@@ -489,19 +489,18 @@
       ]
     },
     "NVDA": {
-      "price": 127.94,
-      "change": -18.04,
-      "changePercent": -12.36,
-      "chg": -12.36,
+      "price": 125.79,
+      "change": -20.19,
+      "changePercent": -13.83,
+      "chg": -13.83,
       "history": [
-        152.85,
         152.13,
         151.75,
         150.59,
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
@@ -511,17 +510,17 @@
         135.41,
         135.79,
         130.54,
-        127.94
+        128.29,
+        125.79
       ],
       "sp": [
-        152.85,
         152.13,
         151.75,
         150.59,
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
@@ -531,7 +530,8 @@
         135.41,
         135.79,
         130.54,
-        127.94
+        128.29,
+        125.79
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Trump critiques Jensen Huang's replacement as he wades deeper into Nvidia turmoil",
+          "source": "Yahoo Finance",
+          "date": "Nov 20, 2026",
+          "snippet": "President Trump on Friday offered a defense of ousted Nvidia CEO Jensen Huang, but \u2014 perhaps more significantly \u2014 criticized the new leadership of the chipmaker."
+        },
+        {
           "title": "Nvidia stock extends $2.5 trillion rout as SEC probe reportedly investigates its accounting",
           "source": "Yahoo Finance",
           "date": "Nov 20, 2026",
           "snippet": "Nvidia's record sell-off deepened as Reuters reported that SEC investigators are examining its accounting."
-        },
-        {
-          "title": "Trump on Jensen Huang: 'We're a country of second chances'",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 20, 2026",
-          "snippet": "President Trump told reporters that former Nvidia (NVDA) CEO Jensen Huang should be given a second chance and allowed to return to the company."
         }
       ]
     },
     "UAL": {
-      "price": 101.06,
-      "change": -4.47,
-      "changePercent": -4.24,
-      "chg": -4.24,
+      "price": 101.11,
+      "change": -4.42,
+      "changePercent": -4.19,
+      "chg": -4.19,
       "history": [
-        109.48,
         108.9,
         108.46,
         108.12,
@@ -592,10 +591,10 @@
         102.73,
         101.98,
         101.44,
-        101.06
+        100.91,
+        101.11
       ],
       "sp": [
-        109.48,
         108.9,
         108.46,
         108.12,
@@ -612,7 +611,8 @@
         102.73,
         101.98,
         101.44,
-        101.06
+        100.91,
+        101.11
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 268.35,
-      "change": -4.31,
-      "changePercent": -1.58,
-      "chg": -1.58,
+      "price": 265.68,
+      "change": -6.98,
+      "changePercent": -2.56,
+      "chg": -2.56,
       "history": [
-        282.27,
         282.41,
         284.22,
         283.33,
@@ -673,10 +672,10 @@
         273.45,
         272.77,
         270.11,
-        268.35
+        267.22,
+        265.68
       ],
       "sp": [
-        282.27,
         282.41,
         284.22,
         283.33,
@@ -693,7 +692,8 @@
         273.45,
         272.77,
         270.11,
-        268.35
+        267.22,
+        265.68
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nvidia, Nasdaq Slide Deepens After Report of SEC Accounting Probe",
-          "source": "Barrons.com",
+          "title": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?",
+          "source": "24/7 Wall St.",
           "date": "Nov 20, 2026",
-          "snippet": "A stock market practically begging for some good news got more bad news instead."
+          "snippet": "One stock just debuted at a $1.5 trillion valuation and promptly sank, while the original crypto rebel sits near its yearly low. Before the December Fed decision, one of them offers a far clearer path to growing a $1,000 bet."
         },
         {
-          "title": "Funds With Anthropic Exposure Got Off To a Rough Start. More Trouble May Be on The Way",
-          "source": "Barrons.com",
+          "title": "Amazon Provides Options To Buy Ads Across Entire Ecosystem",
+          "source": "MediaPost",
           "date": "Nov 20, 2026",
-          "snippet": "ETFs that had ties to Anthropic got crushed Thursday in the AI selloff and tumbled again Friday Single-stock funds tied to Anthropic are set to debut too."
+          "snippet": "Amazon Ads Brand Innovation Lab on Friday launched its Holiday Sponsorship Program in an effort to turn its entire media and shopping ecosystem into a large holiday sponsorship opportunity for advertisers and media buyers."
         }
       ]
     },
     "CCL": {
-      "price": 26.71,
-      "change": -0.86,
-      "changePercent": -3.12,
-      "chg": -3.12,
+      "price": 26.59,
+      "change": -0.98,
+      "changePercent": -3.55,
+      "chg": -3.55,
       "history": [
-        29.46,
         29.23,
         29.27,
         29.1,
@@ -754,10 +753,10 @@
         27.14,
         27.06,
         26.85,
-        26.71
+        26.69,
+        26.59
       ],
       "sp": [
-        29.46,
         29.23,
         29.27,
         29.1,
@@ -774,7 +773,8 @@
         27.14,
         27.06,
         26.85,
-        26.71
+        26.69,
+        26.59
       ],
       "sd": [
         0,
@@ -819,7 +819,6 @@
       "chg": -18.46,
       "history": [
         0.59,
-        0.59,
         0.6,
         0.59,
         0.62,
@@ -835,11 +834,11 @@
         0.5,
         0.5,
         0.5,
+        0.53,
         0.53
       ],
       "sp": [
         0.59,
-        0.59,
         0.6,
         0.59,
         0.62,
@@ -855,6 +854,7 @@
         0.5,
         0.5,
         0.5,
+        0.53,
         0.53
       ],
       "sd": [
