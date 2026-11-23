@@ -1,21 +1,20 @@
 {
-  "updatedAt": "2026-11-23T16:54:15.764408+00:00",
-  "updated": "2026-11-23T16:54:15.764417+00:00",
+  "updatedAt": "2026-11-23T17:53:30.840684+00:00",
+  "updated": "2026-11-23T17:53:30.840693+00:00",
   "quotes": {
     "AAPL": {
-      "price": 347.74,
-      "change": 5.18,
-      "changePercent": 1.51,
-      "chg": 1.51,
+      "price": 348.46,
+      "change": 5.9,
+      "changePercent": 1.72,
+      "chg": 1.72,
       "history": [
-        352.29,
         348.72,
         349.97,
         350.11,
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
         345.6,
@@ -25,17 +24,17 @@
         342.68,
         351.18,
         348.38,
-        347.74
+        348.58,
+        348.46
       ],
       "sp": [
-        352.29,
         348.72,
         349.97,
         350.11,
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
         345.6,
@@ -45,7 +44,8 @@
         342.68,
         351.18,
         348.38,
-        347.74
+        348.58,
+        348.46
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 96.11,
-      "change": 5.47,
-      "changePercent": 6.03,
-      "chg": 6.03,
+      "price": 96.13,
+      "change": 5.49,
+      "changePercent": 6.06,
+      "chg": 6.06,
       "history": [
-        97.15,
         97.32,
         97.37,
         96.54,
@@ -106,10 +105,10 @@
         90.68,
         96.39,
         96.19,
-        96.11
+        96.43,
+        96.13
       ],
       "sp": [
-        97.15,
         97.32,
         97.37,
         96.54,
@@ -126,7 +125,8 @@
         90.68,
         96.39,
         96.19,
-        96.11
+        96.43,
+        96.13
       ],
       "sd": [
         0,
@@ -150,27 +150,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Goldman Sachs Names Top Communication Technology Stock",
+          "source": "Investing.com",
+          "date": "Nov 23, 2026",
+          "snippet": "Investing.com -- Goldman Sachs has released its latest rankings for the communication technology sector, highlighting key players positioned to benefit from ongoing digital transformation and cloud infrastructure growth."
+        },
         {
           "title": "Cisco Systems (CSCO) Lifted Its Outlook, Is It Still 38% Undervalued?",
           "source": "Simply Wall St.",
           "date": "Nov 23, 2026",
           "snippet": "Cisco Systems (CSCO) has given investors a fresh data point to assess by raising its fiscal 2027 outlook, pairing that guidance with stronger recent quarterly results and a reaffirmed dividend. Recent trading tells a mixed story. Cisco Systems\u2019 share price has fallen 4.3% over the past day and is down 14.9% over the past month, yet the year-to-date share price return of 19.2% and 3-year total shareholder return of 104.0% point to longer term momentum that recent guidance, product launches,..."
-        },
-        {
-          "title": "Own Dell Stock? Its Profit Isn't All Cash",
-          "source": "Trefis",
-          "date": "Nov 23, 2026",
-          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
         }
       ]
     },
     "COF": {
-      "price": 179.4,
-      "change": 0.74,
-      "changePercent": 0.41,
-      "chg": 0.41,
+      "price": 179.28,
+      "change": 0.62,
+      "changePercent": 0.35,
+      "chg": 0.35,
       "history": [
-        184.24,
         185.8,
         184.62,
         183.71,
@@ -187,10 +186,10 @@
         178.68,
         180.17,
         180.23,
-        179.4
+        179.39,
+        179.28
       ],
       "sp": [
-        184.24,
         185.8,
         184.62,
         183.71,
@@ -207,7 +206,8 @@
         178.68,
         180.17,
         180.23,
-        179.4
+        179.39,
+        179.28
       ],
       "sd": [
         0,
@@ -232,26 +232,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Do credit card points expire? Rules by issuer, airline, and hotel program",
+          "source": "Yahoo Personal Finance",
+          "date": "Nov 23, 2026",
+          "snippet": "General credit card rewards don\u2019t typically expire as long as your account is active and in good standing, but this can vary by card issuer and rewards program."
+        },
+        {
           "title": "Trump Revives Push for Card Rate Cap: What It Means for C, JPM & COF",
           "source": "Zacks",
           "date": "Nov 23, 2026",
           "snippet": "Trump's push to revive 10% credit-card rate cap could squeeze C, JPM and COF, pressuring interest income, margins and profitability."
-        },
-        {
-          "title": "Trump Backs a 10% Card Rate Cap With Democrats. That\u2019s a Big Risk for JPMorgan and Citigroup",
-          "source": "TIKR",
-          "date": "Nov 23, 2026",
-          "snippet": "Key TakeawaysPresident Trump said Saturday he would cap credit card interest rates at 10%, against a median card rate of about 22. 2%."
         }
       ]
     },
     "SCHD": {
-      "price": 34.35,
-      "change": 0.41,
-      "changePercent": 1.21,
-      "chg": 1.21,
+      "price": 34.29,
+      "change": 0.35,
+      "changePercent": 1.03,
+      "chg": 1.03,
       "history": [
-        34.69,
         34.39,
         34.28,
         34.26,
@@ -268,10 +267,10 @@
         33.96,
         34.35,
         34.42,
-        34.35
+        34.31,
+        34.29
       ],
       "sp": [
-        34.69,
         34.39,
         34.28,
         34.26,
@@ -288,7 +287,8 @@
         33.96,
         34.35,
         34.42,
-        34.35
+        34.31,
+        34.29
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 95.92,
-      "change": -1.07,
-      "changePercent": -1.1,
-      "chg": -1.1,
+      "price": 95.74,
+      "change": -1.25,
+      "changePercent": -1.29,
+      "chg": -1.29,
       "history": [
-        98.08,
         95.88,
         95.56,
         95.78,
@@ -349,10 +348,10 @@
         97.0,
         95.79,
         96.17,
-        95.92
+        95.62,
+        95.74
       ],
       "sp": [
-        98.08,
         95.88,
         95.56,
         95.78,
@@ -369,7 +368,8 @@
         97.0,
         95.79,
         96.17,
-        95.92
+        95.62,
+        95.74
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 498.52,
-      "change": 14.0,
-      "changePercent": 2.89,
-      "chg": 2.89,
+      "price": 496.55,
+      "change": 12.03,
+      "changePercent": 2.48,
+      "chg": 2.48,
       "history": [
-        508.33,
         517.94,
         514.66,
         510.32,
@@ -430,10 +429,10 @@
         485.01,
         503.85,
         499.03,
-        498.52
+        498.1,
+        496.55
       ],
       "sp": [
-        508.33,
         517.94,
         514.66,
         510.32,
@@ -450,7 +449,8 @@
         485.01,
         503.85,
         499.03,
-        498.52
+        498.1,
+        496.55
       ],
       "sd": [
         0,
@@ -475,29 +475,28 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Prediction: This AI Hardware Stock Could Surprise Investors Over the Next 3 Years",
+          "title": "Nebius Keeps Plummeting Amid 50% Drop This Month: This Wall Street Pro Now Predicts 370% Returns After Slight Adjustment",
           "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "Amazon is spending $220 billion on chips and data centers while its free cash flow all but vanishes. Wall Street's near-unanimous bulls are betting one homegrown silicon business justifies the pain, and our model puts a number on it."
+          "snippet": "Nebius posted a blowout quarter, then watched half its value vanish in weeks. One analyst still sees a staggering rebound, but a delayed data center and a massive spending plan could decide who is right."
         },
         {
-          "title": "Is Your AI Stock Healthy? Five Questions That Tell You",
-          "source": "Trefis",
+          "title": "Investors Might Be Underestimating Seagate\u2019s Long-Term AI Growth Opportunity",
+          "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
+          "snippet": "Seagate's stock has already doubled this year, then slid hard in a single month. Wall Street still sees a path to far higher, and one number the CEO calls his North Star may explain why."
         }
       ]
     },
     "NVDA": {
-      "price": 164.85,
-      "change": 39.32,
-      "changePercent": 31.32,
-      "chg": 31.32,
+      "price": 164.12,
+      "change": 38.59,
+      "changePercent": 30.74,
+      "chg": 30.74,
       "history": [
-        150.87,
         153.51,
         153.24,
-        150.22,
+        150.25,
         149.43,
         148.82,
         147.17,
@@ -511,13 +510,13 @@
         125.79,
         169.99,
         166.72,
-        164.85
+        166.08,
+        164.12
       ],
       "sp": [
-        150.87,
         153.51,
         153.24,
-        150.22,
+        150.25,
         149.43,
         148.82,
         147.17,
@@ -531,7 +530,8 @@
         125.79,
         169.99,
         166.72,
-        164.85
+        166.08,
+        164.12
       ],
       "sd": [
         0,
@@ -555,27 +555,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
-        {
-          "title": "Jensen Huang is back atop Nvidia. He has a long road ahead in Washington.",
-          "source": "Yahoo Finance",
-          "date": "Nov 23, 2026",
-          "snippet": "Jense Huang has won his job back at Nvidia. The road in Washington is less clear."
-        },
         {
           "title": "Wall Street analysts cheer Jensen Huang's return to Nvidia \u2014 but they still have concerns",
           "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
           "snippet": "Wall Street analysts weighed rerating Nvidia stock in light of Jensen Huang's return."
+        },
+        {
+          "title": "Jensen Huang is back atop Nvidia. He has a long road ahead in Washington.",
+          "source": "Yahoo Finance",
+          "date": "Nov 23, 2026",
+          "snippet": "Jensen Huang has won his job back at Nvidia. The road in Washington is less clear."
         }
       ]
     },
     "UAL": {
-      "price": 107.5,
-      "change": 6.47,
-      "changePercent": 6.4,
-      "chg": 6.4,
+      "price": 108.15,
+      "change": 7.12,
+      "changePercent": 7.05,
+      "chg": 7.05,
       "history": [
-        107.61,
         106.48,
         107.6,
         107.48,
@@ -592,10 +591,10 @@
         101.11,
         107.51,
         107.79,
-        107.5
+        108.3,
+        108.15
       ],
       "sp": [
-        107.61,
         106.48,
         107.6,
         107.48,
@@ -612,7 +611,8 @@
         101.11,
         107.51,
         107.79,
-        107.5
+        108.3,
+        108.15
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 281.96,
-      "change": 16.67,
-      "changePercent": 6.28,
-      "chg": 6.28,
+      "price": 283.31,
+      "change": 18.02,
+      "changePercent": 6.79,
+      "chg": 6.79,
       "history": [
-        282.34,
         289.64,
         289.26,
         285.62,
@@ -673,10 +672,10 @@
         265.68,
         282.42,
         282.52,
-        281.96
+        283.23,
+        283.31
       ],
       "sp": [
-        282.34,
         289.64,
         289.26,
         285.62,
@@ -693,7 +692,8 @@
         265.68,
         282.42,
         282.52,
-        281.96
+        283.23,
+        283.31
       ],
       "sd": [
         0,
@@ -724,20 +724,19 @@
           "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the stunning news of the morning: Nvidia's board unanimously reinstating founder Jensen Huang as CEO just 12 days after his resignation. Including his five takeaways on what the reversal says about corporate governance, the role Washington played in the decision, and the rally that's lifting the whole AI trade while sending AMD lower.\n\nBrian is joined by New Street Research technology infrastructure analyst Antoine Chkaiban on the new checks around Huang and why he's still a buyer; \"In the Loop\" host Ejaz on key-man risk and whether the \"Bank of Nvidia\" reopens for neoclouds; EMJ Capital founder and president Eric Jackson, who calls the return a win for open-source AI; Yahoo Finance's Julie Hyman on the board's credibility and Colette Kress's future; Moor Insights &amp; Strategy founder and chief analyst Patrick Moorhead on the politics behind the ouster and why nothing changes for AMD for 18 months; and SlateStone Wealth partner and chief market strategist Kenny Polcari on whether this kicks off a year-end rally."
         },
         {
-          "title": "Prediction: This AI Hardware Stock Could Surprise Investors Over the Next 3 Years",
+          "title": "All Broadcom Has to Do is Deliver Modestly to Prove Stanley Druckenmiller Wrong and Hit $500 in 2027",
           "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "Amazon is spending $220 billion on chips and data centers while its free cash flow all but vanishes. Wall Street's near-unanimous bulls are betting one homegrown silicon business justifies the pain, and our model puts a number on it."
+          "snippet": "A star investor dumped every share, a single report knocked the stock down double digits, and yet Wall Street keeps raising its sights. What would Broadcom have to deliver in 2027 to make the sellers look early?"
         }
       ]
     },
     "CCL": {
-      "price": 28.02,
-      "change": 1.43,
-      "changePercent": 5.38,
-      "chg": 5.38,
+      "price": 27.9,
+      "change": 1.31,
+      "changePercent": 4.93,
+      "chg": 4.93,
       "history": [
-        28.98,
         28.06,
         28.23,
         28.25,
@@ -754,10 +753,10 @@
         26.59,
         28.2,
         28.12,
-        28.02
+        27.95,
+        27.9
       ],
       "sp": [
-        28.98,
         28.06,
         28.23,
         28.25,
@@ -774,7 +773,8 @@
         26.59,
         28.2,
         28.12,
-        28.02
+        27.95,
+        27.9
       ],
       "sd": [
         0,
@@ -818,7 +818,6 @@
       "changePercent": 5.3,
       "chg": 5.3,
       "history": [
-        0.62,
         0.67,
         0.66,
         0.65,
@@ -835,10 +834,10 @@
         0.53,
         0.59,
         0.62,
+        0.6,
         0.6
       ],
       "sp": [
-        0.62,
         0.67,
         0.66,
         0.65,
@@ -855,6 +854,7 @@
         0.53,
         0.59,
         0.62,
+        0.6,
         0.6
       ],
       "sd": [
