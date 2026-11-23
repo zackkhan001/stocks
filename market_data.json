@@ -1,18 +1,17 @@
 {
-  "updatedAt": "2026-11-23T19:57:37.033237+00:00",
-  "updated": "2026-11-23T19:57:37.033244+00:00",
+  "updatedAt": "2026-11-23T20:49:07.174067+00:00",
+  "updated": "2026-11-23T20:49:07.174075+00:00",
   "quotes": {
     "AAPL": {
-      "price": 350.11,
-      "change": 7.55,
-      "changePercent": 2.2,
-      "chg": 2.2,
+      "price": 351.32,
+      "change": 8.76,
+      "changePercent": 2.56,
+      "chg": 2.56,
       "history": [
-        350.11,
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
@@ -25,14 +24,14 @@
         348.58,
         349.25,
         350.16,
-        350.11
+        351.4,
+        351.32
       ],
       "sp": [
-        350.11,
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
@@ -45,7 +44,8 @@
         348.58,
         349.25,
         350.16,
-        350.11
+        351.4,
+        351.32
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 96.38,
-      "change": 5.74,
-      "changePercent": 6.33,
-      "chg": 6.33,
+      "price": 96.99,
+      "change": 6.35,
+      "changePercent": 7.01,
+      "chg": 7.01,
       "history": [
-        96.54,
         95.58,
         95.43,
         94.65,
@@ -106,10 +105,10 @@
         96.43,
         96.16,
         96.56,
-        96.38
+        96.85,
+        96.99
       ],
       "sp": [
-        96.54,
         95.58,
         95.43,
         94.65,
@@ -126,7 +125,8 @@
         96.43,
         96.16,
         96.56,
-        96.38
+        96.85,
+        96.99
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 179.8,
-      "change": 1.14,
-      "changePercent": 0.64,
-      "chg": 0.64,
+      "price": 180.15,
+      "change": 1.49,
+      "changePercent": 0.83,
+      "chg": 0.83,
       "history": [
-        183.71,
         184.73,
         183.56,
         182.26,
@@ -187,10 +186,10 @@
         179.39,
         180.31,
         180.27,
-        179.8
+        181.04,
+        180.15
       ],
       "sp": [
-        183.71,
         184.73,
         183.56,
         182.26,
@@ -207,7 +206,8 @@
         179.39,
         180.31,
         180.27,
-        179.8
+        181.04,
+        180.15
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.35,
-      "change": 0.41,
-      "changePercent": 1.21,
-      "chg": 1.21,
+      "price": 34.4,
+      "change": 0.46,
+      "changePercent": 1.36,
+      "chg": 1.36,
       "history": [
-        34.26,
         34.31,
         34.26,
         34.22,
@@ -268,10 +267,10 @@
         34.31,
         34.4,
         34.42,
-        34.35
+        34.39,
+        34.4
       ],
       "sp": [
-        34.26,
         34.31,
         34.26,
         34.22,
@@ -288,7 +287,8 @@
         34.31,
         34.4,
         34.42,
-        34.35
+        34.39,
+        34.4
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 96.22,
-      "change": -0.77,
-      "changePercent": -0.79,
-      "chg": -0.79,
+      "price": 95.98,
+      "change": -1.01,
+      "changePercent": -1.04,
+      "chg": -1.04,
       "history": [
-        95.78,
         96.38,
         96.25,
         96.35,
@@ -349,10 +348,10 @@
         95.62,
         95.96,
         96.19,
-        96.22
+        96.08,
+        95.98
       ],
       "sp": [
-        95.78,
         96.38,
         96.25,
         96.35,
@@ -369,7 +368,8 @@
         95.62,
         95.96,
         96.19,
-        96.22
+        96.08,
+        95.98
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "How Much You Really Need Invested to Generate $50,000 a Year in Retirement",
-          "source": "24/7 Wall St.",
-          "date": "Nov 23, 2026",
-          "snippet": "Safe blue chips have rallied so hard that their yields now trail Treasuries, while the highest payers promise to slash the capital you need. Before you chase either, see what each shortcut quietly puts at risk in year ten."
-        },
-        {
           "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
           "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
           "snippet": "Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time.\n\nThe panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI."
+        },
+        {
+          "title": "How Much You Really Need Invested to Generate $50,000 a Year in Retirement",
+          "source": "24/7 Wall St.",
+          "date": "Nov 23, 2026",
+          "snippet": "Safe blue chips have rallied so hard that their yields now trail Treasuries, while the highest payers promise to slash the capital you need. Before you chase either, see what each shortcut quietly puts at risk in year ten."
         }
       ]
     },
     "MSFT": {
-      "price": 496.32,
-      "change": 11.8,
-      "changePercent": 2.44,
-      "chg": 2.44,
+      "price": 497.65,
+      "change": 13.13,
+      "changePercent": 2.71,
+      "chg": 2.71,
       "history": [
-        510.32,
         503.18,
         503.56,
         500.47,
@@ -430,10 +429,10 @@
         498.1,
         497.9,
         496.24,
-        496.32
+        497.45,
+        497.65
       ],
       "sp": [
-        510.32,
         503.18,
         503.56,
         500.47,
@@ -450,7 +449,8 @@
         498.1,
         497.9,
         496.24,
-        496.32
+        497.45,
+        497.65
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "A week after the worst week any company has ever had, Nvidia is having the best day."
         },
         {
-          "title": "Dell Wants Up to 45% More on Signed AI Deals. IREN Has a Big Problem",
-          "source": "TIKR",
+          "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+          "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
-          "snippet": "Key TakeawaysDell, HPE, Lenovo and Supermicro are asking for up to 45% more for AI servers already under contract, the Financial Times reported. IREN agreed to buy about $5."
+          "snippet": "Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time.\n\nThe panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI."
         }
       ]
     },
     "NVDA": {
-      "price": 165.09,
-      "change": 39.56,
-      "changePercent": 31.51,
-      "chg": 31.51,
+      "price": 165.45,
+      "change": 39.92,
+      "changePercent": 31.8,
+      "chg": 31.8,
       "history": [
-        150.25,
         149.43,
         148.82,
         147.17,
@@ -511,10 +510,10 @@
         166.08,
         165.13,
         165.16,
-        165.09
+        166.4,
+        165.45
       ],
       "sp": [
-        150.25,
         149.43,
         148.82,
         147.17,
@@ -531,7 +530,8 @@
         166.08,
         165.13,
         165.16,
-        165.09
+        166.4,
+        165.45
       ],
       "sd": [
         0,
@@ -570,12 +570,11 @@
       ]
     },
     "UAL": {
-      "price": 108.42,
-      "change": 7.39,
-      "changePercent": 7.31,
-      "chg": 7.31,
+      "price": 109.34,
+      "change": 8.31,
+      "changePercent": 8.23,
+      "chg": 8.23,
       "history": [
-        107.48,
         106.55,
         106.64,
         106.32,
@@ -592,10 +591,10 @@
         108.3,
         108.45,
         108.93,
-        108.42
+        109.64,
+        109.34
       ],
       "sp": [
-        107.48,
         106.55,
         106.64,
         106.32,
@@ -612,7 +611,8 @@
         108.3,
         108.45,
         108.93,
-        108.42
+        109.64,
+        109.34
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 282.67,
-      "change": 17.38,
-      "changePercent": 6.55,
-      "chg": 6.55,
+      "price": 283.52,
+      "change": 18.23,
+      "changePercent": 6.87,
+      "chg": 6.87,
       "history": [
-        285.62,
         280.64,
         279.05,
         273.72,
@@ -673,10 +672,10 @@
         283.23,
         284.18,
         283.51,
-        282.67
+        283.58,
+        283.52
       ],
       "sp": [
-        285.62,
         280.64,
         279.05,
         273.72,
@@ -693,7 +692,8 @@
         283.23,
         284.18,
         283.51,
-        282.67
+        283.58,
+        283.52
       ],
       "sd": [
         0,
@@ -724,20 +724,19 @@
           "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the stunning news of the morning: Nvidia's board unanimously reinstating founder Jensen Huang as CEO just 12 days after his resignation. Including his five takeaways on what the reversal says about corporate governance, the role Washington played in the decision, and the rally that's lifting the whole AI trade while sending AMD lower.\n\nBrian is joined by New Street Research technology infrastructure analyst Antoine Chkaiban on the new checks around Huang and why he's still a buyer; \"In the Loop\" host Ejaz on key-man risk and whether the \"Bank of Nvidia\" reopens for neoclouds; EMJ Capital founder and president Eric Jackson, who calls the return a win for open-source AI; Yahoo Finance's Julie Hyman on the board's credibility and Colette Kress's future; Moor Insights &amp; Strategy founder and chief analyst Patrick Moorhead on the politics behind the ouster and why nothing changes for AMD for 18 months; and SlateStone Wealth partner and chief market strategist Kenny Polcari on whether this kicks off a year-end rally."
         },
         {
-          "title": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
-          "source": "Yahoo Finance",
+          "title": "Google Can Spend $48 Billion More On AI From Its Own Cash. Is That Enough For Nvidia?",
+          "source": "Trefis",
           "date": "Nov 23, 2026",
-          "snippet": "A week after the worst week any company has ever had, Nvidia is having the best day."
+          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
         }
       ]
     },
     "CCL": {
-      "price": 27.9,
-      "change": 1.31,
-      "changePercent": 4.93,
-      "chg": 4.93,
+      "price": 28.01,
+      "change": 1.42,
+      "changePercent": 5.34,
+      "chg": 5.34,
       "history": [
-        28.25,
         27.9,
         27.84,
         27.7,
@@ -754,10 +753,10 @@
         27.95,
         27.96,
         28.02,
-        27.9
+        28.02,
+        28.01
       ],
       "sp": [
-        28.25,
         27.9,
         27.84,
         27.7,
@@ -774,7 +773,8 @@
         27.95,
         27.96,
         28.02,
-        27.9
+        28.02,
+        28.01
       ],
       "sd": [
         0,
@@ -813,10 +813,10 @@
       ]
     },
     "SCLX": {
-      "price": 0.62,
-      "change": 0.05,
-      "changePercent": 8.83,
-      "chg": 8.83,
+      "price": 0.61,
+      "change": 0.04,
+      "changePercent": 7.07,
+      "chg": 7.07,
       "history": [
         0.65,
         0.63,
@@ -835,7 +835,7 @@
         0.6,
         0.63,
         0.6,
-        0.62
+        0.61
       ],
       "sp": [
         0.65,
@@ -855,7 +855,7 @@
         0.6,
         0.63,
         0.6,
-        0.62
+        0.61
       ],
       "sd": [
         0,
