@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-23T14:20:43.627312+00:00",
-  "updated": "2026-11-23T14:20:43.627320+00:00",
+  "updatedAt": "2026-11-23T15:43:14.965683+00:00",
+  "updated": "2026-11-23T15:43:14.965691+00:00",
   "quotes": {
     "AAPL": {
-      "price": 342.68,
-      "change": -6.53,
-      "changePercent": -1.87,
-      "chg": -1.87,
+      "price": 352.0,
+      "change": 9.44,
+      "changePercent": 2.76,
+      "chg": 2.76,
       "history": [
-        353.52,
-        352.59,
         351.9,
         352.29,
         348.72,
@@ -18,18 +16,18 @@
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
         345.6,
         344.96,
         343.0,
         343.34,
-        342.68
+        342.68,
+        351.18,
+        352.0
       ],
       "sp": [
-        353.52,
-        352.59,
         351.9,
         352.29,
         348.72,
@@ -38,14 +36,16 @@
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
         345.6,
         344.96,
         343.0,
         343.34,
-        342.68
+        342.68,
+        351.18,
+        352.0
       ],
       "sd": [
         0,
@@ -70,27 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Apple Is Up 29% This Year and Already Above Wall Street\u2019s Target. Our Model Sees $400+",
-          "source": "24/7 Wall St.",
+          "title": "NYSE Parent's Tokenized Stock Venture Opens With 113 Assets Planned. Apple, Nvidia And Tesla Are Staying Out.",
+          "source": "International Business Times",
           "date": "Nov 23, 2026",
-          "snippet": "Apple has already blown past what Wall Street expects, yet one model keeps flashing buy week after week. Memory costs and a wave of estimate cuts could still spoil the run, so who has it right?"
+          "snippet": "OKX and NYSE parent ICE are launching a 24/7 tokenized securities venue with 113 assets planned for a phased rollout. Apple, Nvidia, Tesla and other major companies have objected to participation."
         },
         {
-          "title": "Trump admin circle the wagons in push for Nvidia to bring  back Jensen Huang",
-          "source": "Investing.com",
+          "title": "Jensen Huang Just Got His Nvidia Job Back. When Steve Jobs, Howard Schultz and Bob Iger Came Back, the Stock Rose, and a Year Later 4 of 6 Comebacks Trailed the Market",
+          "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "Investing.com -- The Trump administration appears to be changing course in the growing controversy surrounding NVIDIA (NASDAQ:NVDA) and its embattled former CEO, Jensen Huang."
+          "snippet": "Nvidia reinstated Jensen Huang as CEO 12 days after he resigned. In six earlier comebacks by a founder or defining CEO, from Steve Jobs at Apple to Bob Iger at Disney, the stock rose the next day five times, trailed the S&P 500 a year later four times, and beat it over five years in three of four."
         }
       ]
     },
     "CSCO": {
-      "price": 90.68,
-      "change": -4.02,
-      "changePercent": -4.24,
-      "chg": -4.24,
+      "price": 96.41,
+      "change": 5.77,
+      "changePercent": 6.37,
+      "chg": 6.37,
       "history": [
-        96.63,
-        97.09,
         96.44,
         97.15,
         97.32,
@@ -106,11 +104,11 @@
         91.89,
         91.1,
         90.75,
-        90.68
+        90.68,
+        96.39,
+        96.41
       ],
       "sp": [
-        96.63,
-        97.09,
         96.44,
         97.15,
         97.32,
@@ -126,7 +124,9 @@
         91.89,
         91.1,
         90.75,
-        90.68
+        90.68,
+        96.39,
+        96.41
       ],
       "sd": [
         0,
@@ -151,270 +151,268 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Ciena vs. Cisco: Which Optical Networking Stock is the Better Buy?",
-          "source": "Zacks",
-          "date": "Nov 23, 2026",
-          "snippet": "CIEN and CSCO ride the AI networking boom, but differences in growth, profitability, stock performance and valuation reveal which stock offers a better buy."
-        },
-        {
-          "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
-          "source": "Trefis",
-          "date": "Nov 23, 2026",
-          "snippet": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks."
-        }
-      ]
-    },
-    "COF": {
-      "price": 178.68,
-      "change": -3.08,
-      "changePercent": -1.69,
-      "chg": -1.69,
-      "history": [
-        184.73,
-        184.36,
-        184.01,
-        184.24,
-        185.8,
-        184.62,
-        183.71,
-        184.73,
-        183.56,
-        182.26,
-        181.71,
-        183.02,
-        182.44,
-        181.07,
-        180.6,
-        180.13,
-        179.72,
-        178.68
-      ],
-      "sp": [
-        184.73,
-        184.36,
-        184.01,
-        184.24,
-        185.8,
-        184.62,
-        183.71,
-        184.73,
-        183.56,
-        182.26,
-        181.71,
-        183.02,
-        182.44,
-        181.07,
-        180.6,
-        180.13,
-        179.72,
-        178.68
-      ],
-      "sd": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17
-      ],
-      "anchorReturn": null,
-      "headlines": [
-        {
-          "title": "Trump Backs a 10% Card Rate Cap With Democrats. That\u2019s a Big Risk for JPMorgan and Citigroup",
-          "source": "TIKR",
-          "date": "Nov 23, 2026",
-          "snippet": "Key TakeawaysPresident Trump said Saturday he would cap credit card interest rates at 10%, against a median card rate of about 22. 2%."
-        },
-        {
-          "title": "Dan Loeb and 8 Other Big Funds Bought Capital One Financial. Berkshire Hathaway and 14 Others Sold. Who\u2019s Right?",
-          "source": "TIKR",
-          "date": "Nov 23, 2026",
-          "snippet": "Key TakeawaysAmong the big funds that filed 13Fs for the third quarter, 9 bought Capital One Financial and 15 sold, and Berkshire Hathaway made the biggest sale. Capital One\u2019s card losses fell in the third quarter, and Synchrony and American Express also reported lower loss rates than a year earlier."
-        }
-      ]
-    },
-    "SCHD": {
-      "price": 33.96,
-      "change": -0.24,
-      "changePercent": -0.7,
-      "chg": -0.7,
-      "history": [
-        34.89,
-        34.69,
-        34.74,
-        34.69,
-        34.39,
-        34.28,
-        34.26,
-        34.31,
-        34.26,
-        34.22,
-        34.19,
-        34.56,
-        34.53,
-        34.38,
-        34.31,
-        34.15,
-        34.12,
-        33.96
-      ],
-      "sp": [
-        34.89,
-        34.69,
-        34.74,
-        34.69,
-        34.39,
-        34.28,
-        34.26,
-        34.31,
-        34.26,
-        34.22,
-        34.19,
-        34.56,
-        34.53,
-        34.38,
-        34.31,
-        34.15,
-        34.12,
-        33.96
-      ],
-      "sd": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17
-      ],
-      "anchorReturn": null,
-      "headlines": [
-        {
-          "title": "The 2 ETFs I'd Buy Today: 1 for Growth, 1 for Dividends",
-          "source": "Motley Fool",
-          "date": "Nov 23, 2026",
-          "snippet": "One of these funds is down around 18% from its record while the other has risen. Why own both?"
-        },
-        {
-          "title": "Week\u2019s Best: Schwab Claims Dividend King Title",
-          "source": "Barrons.com",
-          "date": "Nov 23, 2026",
-          "snippet": "Here\u2019s our weekly roundup of the most-read articles at Barron\u2019s Advisor."
-        }
-      ]
-    },
-    "KO": {
-      "price": 97.0,
-      "change": 0.91,
-      "changePercent": 0.95,
-      "chg": 0.95,
-      "history": [
-        98.08,
-        97.71,
-        98.12,
-        98.08,
-        95.88,
-        95.56,
-        95.78,
-        96.38,
-        96.25,
-        96.35,
-        96.11,
-        97.17,
-        97.57,
-        97.49,
-        97.61,
-        97.32,
-        97.43,
-        97.0
-      ],
-      "sp": [
-        98.08,
-        97.71,
-        98.12,
-        98.08,
-        95.88,
-        95.56,
-        95.78,
-        96.38,
-        96.25,
-        96.35,
-        96.11,
-        97.17,
-        97.57,
-        97.49,
-        97.61,
-        97.32,
-        97.43,
-        97.0
-      ],
-      "sd": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17
-      ],
-      "anchorReturn": null,
-      "headlines": [
-        {
-          "title": "Coca-Cola Stock Returned 40%. How Much Is Left?",
+          "title": "Own Dell Stock? Its Profit Isn't All Cash",
           "source": "Trefis",
           "date": "Nov 23, 2026",
           "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
         },
         {
-          "title": "EU Commission opens anti-trust probe into CCEP",
-          "source": "Just Drinks",
+          "title": "Nvidia Stock: Where's The Floor Now?",
+          "source": "Trefis",
           "date": "Nov 23, 2026",
-          "snippet": "\"We are firmly committed to complying with all applicable laws and regulations in every market in which we operate, globally,\" CCEP said."
+          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
+        }
+      ]
+    },
+    "COF": {
+      "price": 178.98,
+      "change": 0.32,
+      "changePercent": 0.18,
+      "chg": 0.18,
+      "history": [
+        184.01,
+        184.24,
+        185.8,
+        184.62,
+        183.71,
+        184.73,
+        183.56,
+        182.26,
+        181.71,
+        183.02,
+        182.44,
+        181.07,
+        180.6,
+        180.13,
+        179.72,
+        178.68,
+        180.17,
+        178.98
+      ],
+      "sp": [
+        184.01,
+        184.24,
+        185.8,
+        184.62,
+        183.71,
+        184.73,
+        183.56,
+        182.26,
+        181.71,
+        183.02,
+        182.44,
+        181.07,
+        180.6,
+        180.13,
+        179.72,
+        178.68,
+        180.17,
+        178.98
+      ],
+      "sd": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "anchorReturn": null,
+      "headlines": [
+        {
+          "title": "Trump Revives Push for Card Rate Cap: What It Means for C, JPM & COF",
+          "source": "Zacks",
+          "date": "Nov 23, 2026",
+          "snippet": "Trump's push to revive 10% credit-card rate cap could squeeze C, JPM and COF, pressuring interest income, margins and profitability."
+        },
+        {
+          "title": "Trump Backs a 10% Card Rate Cap With Democrats. That\u2019s a Big Risk for JPMorgan and Citigroup",
+          "source": "TIKR",
+          "date": "Nov 23, 2026",
+          "snippet": "Key TakeawaysPresident Trump said Saturday he would cap credit card interest rates at 10%, against a median card rate of about 22. 2%."
+        }
+      ]
+    },
+    "SCHD": {
+      "price": 34.35,
+      "change": 0.41,
+      "changePercent": 1.21,
+      "chg": 1.21,
+      "history": [
+        34.74,
+        34.69,
+        34.39,
+        34.28,
+        34.26,
+        34.31,
+        34.26,
+        34.22,
+        34.19,
+        34.56,
+        34.53,
+        34.38,
+        34.31,
+        34.15,
+        34.12,
+        33.96,
+        34.35,
+        34.35
+      ],
+      "sp": [
+        34.74,
+        34.69,
+        34.39,
+        34.28,
+        34.26,
+        34.31,
+        34.26,
+        34.22,
+        34.19,
+        34.56,
+        34.53,
+        34.38,
+        34.31,
+        34.15,
+        34.12,
+        33.96,
+        34.35,
+        34.35
+      ],
+      "sd": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "anchorReturn": null,
+      "headlines": [
+        {
+          "title": "3 Dividend ETFs Retirees Can Buy Before the End of November for Hands-Off Income",
+          "source": "24/7 Wall St.",
+          "date": "Nov 23, 2026",
+          "snippet": "Put $100,000 into three popular dividend ETFs and the yearly income can differ by more than threefold. One fund pays big now, another raises its checks over time, and each one hides a catch retirees rarely see coming."
+        },
+        {
+          "title": "The 2 ETFs I'd Buy Today: 1 for Growth, 1 for Dividends",
+          "source": "Motley Fool",
+          "date": "Nov 23, 2026",
+          "snippet": "One of these funds is down around 18% from its record while the other has risen. Why own both?"
+        }
+      ]
+    },
+    "KO": {
+      "price": 96.13,
+      "change": -0.86,
+      "changePercent": -0.89,
+      "chg": -0.89,
+      "history": [
+        98.12,
+        98.08,
+        95.88,
+        95.56,
+        95.78,
+        96.38,
+        96.25,
+        96.35,
+        96.11,
+        97.17,
+        97.57,
+        97.49,
+        97.61,
+        97.32,
+        97.43,
+        97.0,
+        95.79,
+        96.13
+      ],
+      "sp": [
+        98.12,
+        98.08,
+        95.88,
+        95.56,
+        95.78,
+        96.38,
+        96.25,
+        96.35,
+        96.11,
+        97.17,
+        97.57,
+        97.49,
+        97.61,
+        97.32,
+        97.43,
+        97.0,
+        95.79,
+        96.13
+      ],
+      "sd": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "anchorReturn": null,
+      "headlines": [
+        {
+          "title": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
+          "source": "24/7 Wall St.",
+          "date": "Nov 23, 2026",
+          "snippet": "Your CD just matured, and the bank's clock is ticking. Doing nothing triggers an automatic rollover, while three dividend giants tempt you with raises, risks, and a very different tax bill. Which choice quietly costs more?"
+        },
+        {
+          "title": "Take the Zacks Approach to Beat the Markets: BRK.B, VRA & ULTA",
+          "source": "Zacks",
+          "date": "Nov 23, 2026",
+          "snippet": "Berkshire Hathaway, Vera Bradley and Ulta Beauty outpace the market as Zacks' research-driven strategies deliver gains amid heightened volatility."
         }
       ]
     },
     "MSFT": {
-      "price": 485.01,
-      "change": -13.29,
-      "changePercent": -2.67,
-      "chg": -2.67,
+      "price": 502.27,
+      "change": 17.75,
+      "changePercent": 3.66,
+      "chg": 3.66,
       "history": [
-        506.86,
-        508.23,
         506.67,
         508.33,
         517.94,
@@ -430,11 +428,11 @@
         489.26,
         487.34,
         483.84,
-        485.01
+        485.01,
+        503.85,
+        502.27
       ],
       "sp": [
-        506.86,
-        508.23,
         506.67,
         508.33,
         517.94,
@@ -450,7 +448,9 @@
         489.26,
         487.34,
         483.84,
-        485.01
+        485.01,
+        503.85,
+        502.27
       ],
       "sd": [
         0,
@@ -475,32 +475,30 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nebius Rallies 9% Despite New U.S. Curbs Threatening Neocloud Business in Southeast Asia; IREN Jumps 8%, CoreWeave Climbs 7%",
-          "source": "24/7 Wall St.",
+          "title": "3 Unstoppable AI Stocks to Buy Hand Over Fist Before the End of 2026",
+          "source": "Motley Fool",
           "date": "Nov 23, 2026",
-          "snippet": "AI cloud stocks are surging, yet Washington just targeted the rental loophole Chinese firms use to reach restricted chips. A February deadline looms over the neocloud business model, and the three rivals are not equally exposed."
+          "snippet": "AI chips can\u2019t be designed, built, or put to work without these three companies."
         },
         {
-          "title": "Apple Is Up 29% This Year and Already Above Wall Street\u2019s Target. Our Model Sees $400+",
-          "source": "24/7 Wall St.",
+          "title": "NYSE Parent's Tokenized Stock Venture Opens With 113 Assets Planned. Apple, Nvidia And Tesla Are Staying Out.",
+          "source": "International Business Times",
           "date": "Nov 23, 2026",
-          "snippet": "Apple has already blown past what Wall Street expects, yet one model keeps flashing buy week after week. Memory costs and a wave of estimate cuts could still spoil the run, so who has it right?"
+          "snippet": "OKX and NYSE parent ICE are launching a 24/7 tokenized securities venue with 113 assets planned for a phased rollout. Apple, Nvidia, Tesla and other major companies have objected to participation."
         }
       ]
     },
     "NVDA": {
-      "price": 125.79,
-      "change": -20.19,
-      "changePercent": -13.83,
-      "chg": -13.83,
+      "price": 168.49,
+      "change": 42.96,
+      "changePercent": 34.22,
+      "chg": 34.22,
       "history": [
-        152.13,
-        151.75,
         150.59,
         150.87,
         153.51,
         153.24,
-        150.22,
+        150.25,
         149.43,
         148.82,
         147.17,
@@ -511,16 +509,16 @@
         135.79,
         130.54,
         128.29,
-        125.79
+        125.79,
+        169.99,
+        168.49
       ],
       "sp": [
-        152.13,
-        151.75,
         150.59,
         150.87,
         153.51,
         153.24,
-        150.22,
+        150.25,
         149.43,
         148.82,
         147.17,
@@ -531,7 +529,9 @@
         135.79,
         130.54,
         128.29,
-        125.79
+        125.79,
+        169.99,
+        168.49
       ],
       "sd": [
         0,
@@ -556,27 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nvidia soars 25% as board reinstates Jensen Huang as CEO, chip stocks jump",
+          "title": "Nvidia live updates: Jensen Huang reinstated as CEO;  Trump says no reason to believe Huang a national security risk",
           "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
-          "snippet": "Chip giant Nvidia led semiconductor stocks higher on Monday in a chip rebound."
+          "snippet": "Nvidia's (NVDA) board on Monday announced that it has reinstated Jensen Huang as CEO and president of the chip giant."
         },
         {
-          "title": "Nvidia reinstates Jensen Huang as CEO, stock rockets",
-          "source": "Yahoo Finance",
+          "title": "What does Jensen's return mean for AMD?",
+          "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
-          "snippet": "Nvidia reinstates Jensen Huang as CEO"
+          "snippet": "Patrick Moorhead, founder, CEO, and chief analyst for Moor Insights and Strategy, joins Yahoo Finance Executive Editor Brian Sozzi to discuss how AMD (AMD) will be affected after Nvidia (NVDA) reinstated Jensen Huang as its CEO."
         }
       ]
     },
     "UAL": {
-      "price": 101.11,
-      "change": -4.42,
-      "changePercent": -4.19,
-      "chg": -4.19,
+      "price": 107.49,
+      "change": 6.46,
+      "changePercent": 6.39,
+      "chg": 6.39,
       "history": [
-        108.9,
-        108.46,
         108.12,
         107.61,
         106.48,
@@ -592,11 +590,11 @@
         101.98,
         101.44,
         100.91,
-        101.11
+        101.11,
+        107.51,
+        107.49
       ],
       "sp": [
-        108.9,
-        108.46,
         108.12,
         107.61,
         106.48,
@@ -612,7 +610,9 @@
         101.98,
         101.44,
         100.91,
-        101.11
+        101.11,
+        107.51,
+        107.49
       ],
       "sd": [
         0,
@@ -636,28 +636,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "5 Stocks Stanley Druckenmiller Just Dumped\u2014and What His Big Exit Signals Next",
+          "source": "Insider Monkey",
+          "date": "Nov 23, 2026",
+          "snippet": "On November 16, 2026, Stanley Druckenmiller\u2019s family office filed its third-quarter 13F, and the numbers show a portfolio that shrank fast: 65 positions worth $4.47 billion at September 30, down from 95 at June 30. He explained his caution in an interview with Morgan Stanley\u2019s Iliana Bouzali, which we covered in our video on his [\u2026]"
+        },
         {
           "title": "Why Expedia and Booking Can Beat the Muse Test\u2014and the Stocks Can Rally",
           "source": "Barrons.com",
           "date": "Nov 23, 2026",
           "snippet": "Both businesses recognize the existential threat that AI agents represent and are hard at work mitigating it."
-        },
-        {
-          "title": "United Airlines Has Warned Air Traffic Control Isn\u2019t Ready for Air Taxis. That\u2019s a Bigger Problem for Archer Than Its Cash Burn.",
-          "source": "Motley Fool",
-          "date": "Nov 23, 2026",
-          "snippet": "The recent air delays don't have anything to do with Archer Aviation, but they could mean a more delayed regulatory process for the eVTOL maker."
         }
       ]
     },
     "GOOGL": {
-      "price": 265.68,
-      "change": -6.98,
-      "changePercent": -2.56,
-      "chg": -2.56,
+      "price": 282.77,
+      "change": 17.48,
+      "changePercent": 6.59,
+      "chg": 6.59,
       "history": [
-        282.41,
-        284.22,
         283.33,
         282.34,
         289.64,
@@ -673,11 +671,11 @@
         272.77,
         270.11,
         267.22,
-        265.68
+        265.68,
+        282.42,
+        282.77
       ],
       "sp": [
-        282.41,
-        284.22,
         283.33,
         282.34,
         289.64,
@@ -693,7 +691,9 @@
         272.77,
         270.11,
         267.22,
-        265.68
+        265.68,
+        282.42,
+        282.77
       ],
       "sd": [
         0,
@@ -718,27 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Stock Market Today: Tech Futures Surge After Market Sell-Off; Nvidia Soars 30% On Jensen Huang Return (Live Coverage)",
-          "source": "Investor's Business Daily",
+          "title": "Is Broadcom Stock's Drop A Chance To Buy?",
+          "source": "Trefis",
           "date": "Nov 23, 2026",
-          "snippet": "Stock Market Today: Tech futures and surge after Friday's market sell-off. Nvidia stock soars 30% on the return of Jensen Huang."
+          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
         },
         {
-          "title": "Apple Is Up 29% This Year and Already Above Wall Street\u2019s Target. Our Model Sees $400+",
-          "source": "24/7 Wall St.",
+          "title": "5 Stocks Stanley Druckenmiller Just Dumped\u2014and What His Big Exit Signals Next",
+          "source": "Insider Monkey",
           "date": "Nov 23, 2026",
-          "snippet": "Apple has already blown past what Wall Street expects, yet one model keeps flashing buy week after week. Memory costs and a wave of estimate cuts could still spoil the run, so who has it right?"
+          "snippet": "On November 16, 2026, Stanley Druckenmiller\u2019s family office filed its third-quarter 13F, and the numbers show a portfolio that shrank fast: 65 positions worth $4.47 billion at September 30, down from 95 at June 30. He explained his caution in an interview with Morgan Stanley\u2019s Iliana Bouzali, which we covered in our video on his [\u2026]"
         }
       ]
     },
     "CCL": {
-      "price": 26.59,
-      "change": -0.98,
-      "changePercent": -3.55,
-      "chg": -3.55,
+      "price": 28.16,
+      "change": 1.57,
+      "changePercent": 5.9,
+      "chg": 5.9,
       "history": [
-        29.23,
-        29.27,
         29.1,
         28.98,
         28.06,
@@ -754,11 +752,11 @@
         27.06,
         26.85,
         26.69,
-        26.59
+        26.59,
+        28.2,
+        28.16
       ],
       "sp": [
-        29.23,
-        29.27,
         29.1,
         28.98,
         28.06,
@@ -774,7 +772,9 @@
         27.06,
         26.85,
         26.69,
-        26.59
+        26.59,
+        28.2,
+        28.16
       ],
       "sd": [
         0,
@@ -813,13 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.53,
-      "change": -0.12,
-      "changePercent": -18.46,
-      "chg": -18.46,
+      "price": 0.59,
+      "change": 0.02,
+      "changePercent": 3.53,
+      "chg": 3.53,
       "history": [
-        0.59,
-        0.6,
         0.59,
         0.62,
         0.67,
@@ -835,12 +833,12 @@
         0.5,
         0.5,
         0.53,
-        0.53
+        0.53,
+        0.59,
+        0.59
       ],
       "sp": [
         0.59,
-        0.6,
-        0.59,
         0.62,
         0.67,
         0.66,
@@ -855,7 +853,9 @@
         0.5,
         0.5,
         0.53,
-        0.53
+        0.53,
+        0.59,
+        0.59
       ],
       "sd": [
         0,
