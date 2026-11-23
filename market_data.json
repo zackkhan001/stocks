@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T20:49:07.174067+00:00",
-  "updated": "2026-11-23T20:49:07.174075+00:00",
+  "updatedAt": "2026-11-23T21:44:35.486736+00:00",
+  "updated": "2026-11-23T21:44:35.486744+00:00",
   "quotes": {
     "AAPL": {
-      "price": 351.32,
-      "change": 8.76,
-      "changePercent": 2.56,
-      "chg": 2.56,
+      "price": 349.62,
+      "change": 7.06,
+      "changePercent": 2.06,
+      "chg": 2.06,
       "history": [
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
         345.6,
@@ -25,13 +25,13 @@
         349.25,
         350.16,
         351.4,
-        351.32
+        349.62
       ],
       "sp": [
         349.48,
         350.1,
         349.14,
-        349.1,
+        349.11,
         348.91,
         347.48,
         345.6,
@@ -45,7 +45,7 @@
         349.25,
         350.16,
         351.4,
-        351.32
+        349.62
       ],
       "sd": [
         0,
@@ -84,10 +84,10 @@
       ]
     },
     "CSCO": {
-      "price": 96.99,
-      "change": 6.35,
-      "changePercent": 7.01,
-      "chg": 7.01,
+      "price": 96.85,
+      "change": 6.21,
+      "changePercent": 6.85,
+      "chg": 6.85,
       "history": [
         95.58,
         95.43,
@@ -106,7 +106,7 @@
         96.16,
         96.56,
         96.85,
-        96.99
+        96.85
       ],
       "sp": [
         95.58,
@@ -126,7 +126,7 @@
         96.16,
         96.56,
         96.85,
-        96.99
+        96.85
       ],
       "sd": [
         0,
@@ -151,24 +151,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Jensen Huang's reinstatement changes how politics, business interact forever",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 23, 2026",
+          "snippet": "The White House played a role in pressing Nvidia's (NVDA) board to reinstate Jensen Huang as CEO, president, and chairman, all of which came just hours after President Trump called into a board meeting early Monday morning.\n\nDeirdre Bosa raises questions about how involved the White House should be with Big Tech assets and the public markets."
+        },
+        {
           "title": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
           "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
           "snippet": "A week after the worst week any company has ever had, Nvidia is having the best day."
-        },
-        {
-          "title": "Belden (BDC) Stock Is Up 9.4% Today: Nvidia Rally Lifts AI Hardware Stocks",
-          "source": "GuruFocus.com",
-          "date": "Nov 23, 2026",
-          "snippet": "On Monday, Nov. 23, Belden rose 9.4% as the Nvidia rally lifted AI hardware and networking stocks"
         }
       ]
     },
     "COF": {
-      "price": 180.15,
-      "change": 1.49,
-      "changePercent": 0.83,
-      "chg": 0.83,
+      "price": 180.09,
+      "change": 1.43,
+      "changePercent": 0.8,
+      "chg": 0.8,
       "history": [
         184.73,
         183.56,
@@ -187,7 +187,7 @@
         180.31,
         180.27,
         181.04,
-        180.15
+        180.09
       ],
       "sp": [
         184.73,
@@ -207,7 +207,7 @@
         180.31,
         180.27,
         181.04,
-        180.15
+        180.09
       ],
       "sd": [
         0,
@@ -246,10 +246,10 @@
       ]
     },
     "SCHD": {
-      "price": 34.4,
-      "change": 0.46,
-      "changePercent": 1.36,
-      "chg": 1.36,
+      "price": 34.37,
+      "change": 0.43,
+      "changePercent": 1.27,
+      "chg": 1.27,
       "history": [
         34.31,
         34.26,
@@ -268,7 +268,7 @@
         34.4,
         34.42,
         34.39,
-        34.4
+        34.37
       ],
       "sp": [
         34.31,
@@ -288,7 +288,7 @@
         34.4,
         34.42,
         34.39,
-        34.4
+        34.37
       ],
       "sd": [
         0,
@@ -408,10 +408,10 @@
       ]
     },
     "MSFT": {
-      "price": 497.65,
-      "change": 13.13,
-      "changePercent": 2.71,
-      "chg": 2.71,
+      "price": 492.97,
+      "change": 8.45,
+      "changePercent": 1.74,
+      "chg": 1.74,
       "history": [
         503.18,
         503.56,
@@ -430,7 +430,7 @@
         497.9,
         496.24,
         497.45,
-        497.65
+        492.97
       ],
       "sp": [
         503.18,
@@ -450,7 +450,7 @@
         497.9,
         496.24,
         497.45,
-        497.65
+        492.97
       ],
       "sd": [
         0,
@@ -489,10 +489,10 @@
       ]
     },
     "NVDA": {
-      "price": 165.45,
-      "change": 39.92,
-      "changePercent": 31.8,
-      "chg": 31.8,
+      "price": 165.18,
+      "change": 39.65,
+      "changePercent": 31.59,
+      "chg": 31.59,
       "history": [
         149.43,
         148.82,
@@ -511,7 +511,7 @@
         165.13,
         165.16,
         166.4,
-        165.45
+        165.18
       ],
       "sp": [
         149.43,
@@ -531,7 +531,7 @@
         165.13,
         165.16,
         166.4,
-        165.45
+        165.18
       ],
       "sd": [
         0,
@@ -556,24 +556,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nvidia gains nearly $1T as Trump says nobody could 'revive the stock like it's being revived'",
-          "source": "Yahoo Finance",
+          "title": "3 truths that Jensen Huang's return to Nvidia made clear",
+          "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
-          "snippet": "A week after the worst week any company has ever had, Nvidia is having the best day."
+          "snippet": "General Catalyst managing director Madhu Namburi sits down with Deirdre Bosa to share some of his thoughts about Jensen Huang's reinstatement as Nvidia (NVDA) CEO."
         },
         {
-          "title": "'The exact tick-tock': A prominent Democrat previews what to expect when lawmakers question Jensen Huang",
+          "title": "Elon Musk on his support for Jensen Huang: 'Fair-weather friends are worthless'",
           "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
-          "snippet": "Democratic Sen. Ruben Gallego of Arizona said to expect \"a stronger hearing than normal\" when lawmakers question Jensen Huang next week."
+          "snippet": "Elon Musk once again came out in support of his friend Jensen Huang after the board unanimously decided to reinstate him as CEO."
         }
       ]
     },
     "UAL": {
-      "price": 109.34,
-      "change": 8.31,
-      "changePercent": 8.23,
-      "chg": 8.23,
+      "price": 108.76,
+      "change": 7.73,
+      "changePercent": 7.65,
+      "chg": 7.65,
       "history": [
         106.55,
         106.64,
@@ -592,7 +592,7 @@
         108.45,
         108.93,
         109.64,
-        109.34
+        108.76
       ],
       "sp": [
         106.55,
@@ -612,7 +612,7 @@
         108.45,
         108.93,
         109.64,
-        109.34
+        108.76
       ],
       "sd": [
         0,
@@ -651,10 +651,10 @@
       ]
     },
     "GOOGL": {
-      "price": 283.52,
-      "change": 18.23,
-      "changePercent": 6.87,
-      "chg": 6.87,
+      "price": 282.31,
+      "change": 17.02,
+      "changePercent": 6.42,
+      "chg": 6.42,
       "history": [
         280.64,
         279.05,
@@ -673,7 +673,7 @@
         284.18,
         283.51,
         283.58,
-        283.52
+        282.31
       ],
       "sp": [
         280.64,
@@ -693,7 +693,7 @@
         284.18,
         283.51,
         283.58,
-        283.52
+        282.31
       ],
       "sd": [
         0,
@@ -724,18 +724,18 @@
           "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the stunning news of the morning: Nvidia's board unanimously reinstating founder Jensen Huang as CEO just 12 days after his resignation. Including his five takeaways on what the reversal says about corporate governance, the role Washington played in the decision, and the rally that's lifting the whole AI trade while sending AMD lower.\n\nBrian is joined by New Street Research technology infrastructure analyst Antoine Chkaiban on the new checks around Huang and why he's still a buyer; \"In the Loop\" host Ejaz on key-man risk and whether the \"Bank of Nvidia\" reopens for neoclouds; EMJ Capital founder and president Eric Jackson, who calls the return a win for open-source AI; Yahoo Finance's Julie Hyman on the board's credibility and Colette Kress's future; Moor Insights &amp; Strategy founder and chief analyst Patrick Moorhead on the politics behind the ouster and why nothing changes for AMD for 18 months; and SlateStone Wealth partner and chief market strategist Kenny Polcari on whether this kicks off a year-end rally."
         },
         {
-          "title": "Google Can Spend $48 Billion More On AI From Its Own Cash. Is That Enough For Nvidia?",
-          "source": "Trefis",
+          "title": "Google AI Bridges Search And Wallet To Unlock Spending Signals",
+          "source": "MediaPost",
           "date": "Nov 23, 2026",
-          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
+          "snippet": "Google Search's AI Mode can now access a consumer's Google Wallet spending habits and card data when opted in to provide personalized answers based on actual purchase history and budgets."
         }
       ]
     },
     "CCL": {
-      "price": 28.01,
-      "change": 1.42,
-      "changePercent": 5.34,
-      "chg": 5.34,
+      "price": 27.92,
+      "change": 1.33,
+      "changePercent": 5.0,
+      "chg": 5.0,
       "history": [
         27.9,
         27.84,
@@ -754,7 +754,7 @@
         27.96,
         28.02,
         28.02,
-        28.01
+        27.92
       ],
       "sp": [
         27.9,
@@ -774,7 +774,7 @@
         27.96,
         28.02,
         28.02,
-        28.01
+        27.92
       ],
       "sd": [
         0,
@@ -818,7 +818,6 @@
       "changePercent": 7.07,
       "chg": 7.07,
       "history": [
-        0.65,
         0.63,
         0.63,
         0.63,
@@ -835,10 +834,10 @@
         0.6,
         0.63,
         0.6,
+        0.61,
         0.61
       ],
       "sp": [
-        0.65,
         0.63,
         0.63,
         0.63,
@@ -855,6 +854,7 @@
         0.6,
         0.63,
         0.6,
+        0.61,
         0.61
       ],
       "sd": [
