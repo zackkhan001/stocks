@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-23T15:43:14.965683+00:00",
-  "updated": "2026-11-23T15:43:14.965691+00:00",
+  "updatedAt": "2026-11-23T16:54:15.764408+00:00",
+  "updated": "2026-11-23T16:54:15.764417+00:00",
   "quotes": {
     "AAPL": {
-      "price": 352.0,
-      "change": 9.44,
-      "changePercent": 2.76,
-      "chg": 2.76,
+      "price": 347.74,
+      "change": 5.18,
+      "changePercent": 1.51,
+      "chg": 1.51,
       "history": [
-        351.9,
         352.29,
         348.72,
         349.97,
@@ -16,7 +15,7 @@
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
@@ -25,10 +24,10 @@
         343.34,
         342.68,
         351.18,
-        352.0
+        348.38,
+        347.74
       ],
       "sp": [
-        351.9,
         352.29,
         348.72,
         349.97,
@@ -36,7 +35,7 @@
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
@@ -45,7 +44,8 @@
         343.34,
         342.68,
         351.18,
-        352.0
+        348.38,
+        347.74
       ],
       "sd": [
         0,
@@ -70,26 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "NYSE Parent's Tokenized Stock Venture Opens With 113 Assets Planned. Apple, Nvidia And Tesla Are Staying Out.",
-          "source": "International Business Times",
+          "title": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+          "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
-          "snippet": "OKX and NYSE parent ICE are launching a 24/7 tokenized securities venue with 113 assets planned for a phased rollout. Apple, Nvidia, Tesla and other major companies have objected to participation."
+          "snippet": "The 8:30 team is joined by Roundhill Investments Chief Investment Strategist Drew Pettit to discuss why washed-out sentiment doesn't mean a fundamental bottom, his $50-to-$250 bull-bear range on Anthropic, and how to handicap the \"Jensen premium\" coming back into Nvidia. Deirdre Bosa Live host Deirdre Bosa also joins to break down Silicon Valley's reaction to Huang's return and what it means for the AI trade."
         },
         {
-          "title": "Jensen Huang Just Got His Nvidia Job Back. When Steve Jobs, Howard Schultz and Bob Iger Came Back, the Stock Rose, and a Year Later 4 of 6 Comebacks Trailed the Market",
-          "source": "24/7 Wall St.",
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
-          "snippet": "Nvidia reinstated Jensen Huang as CEO 12 days after he resigned. In six earlier comebacks by a founder or defining CEO, from Steve Jobs at Apple to Bob Iger at Disney, the stock rose the next day five times, trailed the S&P 500 a year later four times, and beat it over five years in three of four."
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the stunning news of the morning: Nvidia's board unanimously reinstating founder Jensen Huang as CEO just 12 days after his resignation. Including his five takeaways on what the reversal says about corporate governance, the role Washington played in the decision, and the rally that's lifting the whole AI trade while sending AMD lower.\n\nBrian is joined by New Street Research technology infrastructure analyst Antoine Chkaiban on the new checks around Huang and why he's still a buyer; \"In the Loop\" host Ejaz on key-man risk and whether the \"Bank of Nvidia\" reopens for neoclouds; EMJ Capital founder and president Eric Jackson, who calls the return a win for open-source AI; Yahoo Finance's Julie Hyman on the board's credibility and Colette Kress's future; Moor Insights &amp; Strategy founder and chief analyst Patrick Moorhead on the politics behind the ouster and why nothing changes for AMD for 18 months; and SlateStone Wealth partner and chief market strategist Kenny Polcari on whether this kicks off a year-end rally."
         }
       ]
     },
     "CSCO": {
-      "price": 96.41,
-      "change": 5.77,
-      "changePercent": 6.37,
-      "chg": 6.37,
+      "price": 96.11,
+      "change": 5.47,
+      "changePercent": 6.03,
+      "chg": 6.03,
       "history": [
-        96.44,
         97.15,
         97.32,
         97.37,
@@ -106,10 +105,10 @@
         90.75,
         90.68,
         96.39,
-        96.41
+        96.19,
+        96.11
       ],
       "sp": [
-        96.44,
         97.15,
         97.32,
         97.37,
@@ -126,7 +125,8 @@
         90.75,
         90.68,
         96.39,
-        96.41
+        96.19,
+        96.11
       ],
       "sd": [
         0,
@@ -151,13 +151,13 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Own Dell Stock? Its Profit Isn't All Cash",
-          "source": "Trefis",
+          "title": "Cisco Systems (CSCO) Lifted Its Outlook, Is It Still 38% Undervalued?",
+          "source": "Simply Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
+          "snippet": "Cisco Systems (CSCO) has given investors a fresh data point to assess by raising its fiscal 2027 outlook, pairing that guidance with stronger recent quarterly results and a reaffirmed dividend. Recent trading tells a mixed story. Cisco Systems\u2019 share price has fallen 4.3% over the past day and is down 14.9% over the past month, yet the year-to-date share price return of 19.2% and 3-year total shareholder return of 104.0% point to longer term momentum that recent guidance, product launches,..."
         },
         {
-          "title": "Nvidia Stock: Where's The Floor Now?",
+          "title": "Own Dell Stock? Its Profit Isn't All Cash",
           "source": "Trefis",
           "date": "Nov 23, 2026",
           "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 178.98,
-      "change": 0.32,
-      "changePercent": 0.18,
-      "chg": 0.18,
+      "price": 179.4,
+      "change": 0.74,
+      "changePercent": 0.41,
+      "chg": 0.41,
       "history": [
-        184.01,
         184.24,
         185.8,
         184.62,
@@ -187,10 +186,10 @@
         179.72,
         178.68,
         180.17,
-        178.98
+        180.23,
+        179.4
       ],
       "sp": [
-        184.01,
         184.24,
         185.8,
         184.62,
@@ -207,7 +206,8 @@
         179.72,
         178.68,
         180.17,
-        178.98
+        180.23,
+        179.4
       ],
       "sd": [
         0,
@@ -251,7 +251,6 @@
       "changePercent": 1.21,
       "chg": 1.21,
       "history": [
-        34.74,
         34.69,
         34.39,
         34.28,
@@ -268,10 +267,10 @@
         34.12,
         33.96,
         34.35,
+        34.42,
         34.35
       ],
       "sp": [
-        34.74,
         34.69,
         34.39,
         34.28,
@@ -288,6 +287,7 @@
         34.12,
         33.96,
         34.35,
+        34.42,
         34.35
       ],
       "sd": [
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 96.13,
-      "change": -0.86,
-      "changePercent": -0.89,
-      "chg": -0.89,
+      "price": 95.92,
+      "change": -1.07,
+      "changePercent": -1.1,
+      "chg": -1.1,
       "history": [
-        98.12,
         98.08,
         95.88,
         95.56,
@@ -349,10 +348,10 @@
         97.43,
         97.0,
         95.79,
-        96.13
+        96.17,
+        95.92
       ],
       "sp": [
-        98.12,
         98.08,
         95.88,
         95.56,
@@ -369,7 +368,8 @@
         97.43,
         97.0,
         95.79,
-        96.13
+        96.17,
+        95.92
       ],
       "sd": [
         0,
@@ -393,27 +393,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Berkshire Has Owned These 2 Consumer Stocks for Decades. I'd Buy Both Before December and Never Sell.",
+          "source": "Motley Fool",
+          "date": "Nov 23, 2026",
+          "snippet": "These two Berkshire holdings have outlasted almost everything else; here's why I'd own both before the calendar flips."
+        },
         {
           "title": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
           "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
           "snippet": "Your CD just matured, and the bank's clock is ticking. Doing nothing triggers an automatic rollover, while three dividend giants tempt you with raises, risks, and a very different tax bill. Which choice quietly costs more?"
-        },
-        {
-          "title": "Take the Zacks Approach to Beat the Markets: BRK.B, VRA & ULTA",
-          "source": "Zacks",
-          "date": "Nov 23, 2026",
-          "snippet": "Berkshire Hathaway, Vera Bradley and Ulta Beauty outpace the market as Zacks' research-driven strategies deliver gains amid heightened volatility."
         }
       ]
     },
     "MSFT": {
-      "price": 502.27,
-      "change": 17.75,
-      "changePercent": 3.66,
-      "chg": 3.66,
+      "price": 498.52,
+      "change": 14.0,
+      "changePercent": 2.89,
+      "chg": 2.89,
       "history": [
-        506.67,
         508.33,
         517.94,
         514.66,
@@ -430,10 +429,10 @@
         483.84,
         485.01,
         503.85,
-        502.27
+        499.03,
+        498.52
       ],
       "sp": [
-        506.67,
         508.33,
         517.94,
         514.66,
@@ -450,7 +449,8 @@
         483.84,
         485.01,
         503.85,
-        502.27
+        499.03,
+        498.52
       ],
       "sd": [
         0,
@@ -475,30 +475,29 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "3 Unstoppable AI Stocks to Buy Hand Over Fist Before the End of 2026",
-          "source": "Motley Fool",
+          "title": "Prediction: This AI Hardware Stock Could Surprise Investors Over the Next 3 Years",
+          "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "AI chips can\u2019t be designed, built, or put to work without these three companies."
+          "snippet": "Amazon is spending $220 billion on chips and data centers while its free cash flow all but vanishes. Wall Street's near-unanimous bulls are betting one homegrown silicon business justifies the pain, and our model puts a number on it."
         },
         {
-          "title": "NYSE Parent's Tokenized Stock Venture Opens With 113 Assets Planned. Apple, Nvidia And Tesla Are Staying Out.",
-          "source": "International Business Times",
+          "title": "Is Your AI Stock Healthy? Five Questions That Tell You",
+          "source": "Trefis",
           "date": "Nov 23, 2026",
-          "snippet": "OKX and NYSE parent ICE are launching a 24/7 tokenized securities venue with 113 assets planned for a phased rollout. Apple, Nvidia, Tesla and other major companies have objected to participation."
+          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
         }
       ]
     },
     "NVDA": {
-      "price": 168.49,
-      "change": 42.96,
-      "changePercent": 34.22,
-      "chg": 34.22,
+      "price": 164.85,
+      "change": 39.32,
+      "changePercent": 31.32,
+      "chg": 31.32,
       "history": [
-        150.59,
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
@@ -511,14 +510,14 @@
         128.29,
         125.79,
         169.99,
-        168.49
+        166.72,
+        164.85
       ],
       "sp": [
-        150.59,
         150.87,
         153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
@@ -531,7 +530,8 @@
         128.29,
         125.79,
         169.99,
-        168.49
+        166.72,
+        164.85
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nvidia live updates: Jensen Huang reinstated as CEO;  Trump says no reason to believe Huang a national security risk",
+          "title": "Jensen Huang is back atop Nvidia. He has a long road ahead in Washington.",
           "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
-          "snippet": "Nvidia's (NVDA) board on Monday announced that it has reinstated Jensen Huang as CEO and president of the chip giant."
+          "snippet": "Jense Huang has won his job back at Nvidia. The road in Washington is less clear."
         },
         {
-          "title": "What does Jensen's return mean for AMD?",
-          "source": "Yahoo Finance Video",
+          "title": "Wall Street analysts cheer Jensen Huang's return to Nvidia \u2014 but they still have concerns",
+          "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
-          "snippet": "Patrick Moorhead, founder, CEO, and chief analyst for Moor Insights and Strategy, joins Yahoo Finance Executive Editor Brian Sozzi to discuss how AMD (AMD) will be affected after Nvidia (NVDA) reinstated Jensen Huang as its CEO."
+          "snippet": "Wall Street analysts weighed rerating Nvidia stock in light of Jensen Huang's return."
         }
       ]
     },
     "UAL": {
-      "price": 107.49,
-      "change": 6.46,
-      "changePercent": 6.39,
-      "chg": 6.39,
+      "price": 107.5,
+      "change": 6.47,
+      "changePercent": 6.4,
+      "chg": 6.4,
       "history": [
-        108.12,
         107.61,
         106.48,
         107.6,
@@ -592,10 +591,10 @@
         100.91,
         101.11,
         107.51,
-        107.49
+        107.79,
+        107.5
       ],
       "sp": [
-        108.12,
         107.61,
         106.48,
         107.6,
@@ -612,7 +611,8 @@
         100.91,
         101.11,
         107.51,
-        107.49
+        107.79,
+        107.5
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 282.77,
-      "change": 17.48,
-      "changePercent": 6.59,
-      "chg": 6.59,
+      "price": 281.96,
+      "change": 16.67,
+      "changePercent": 6.28,
+      "chg": 6.28,
       "history": [
-        283.33,
         282.34,
         289.64,
         289.26,
@@ -673,10 +672,10 @@
         267.22,
         265.68,
         282.42,
-        282.77
+        282.52,
+        281.96
       ],
       "sp": [
-        283.33,
         282.34,
         289.64,
         289.26,
@@ -693,7 +692,8 @@
         267.22,
         265.68,
         282.42,
-        282.77
+        282.52,
+        281.96
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Is Broadcom Stock's Drop A Chance To Buy?",
-          "source": "Trefis",
+          "title": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+          "source": "Yahoo Finance Video",
           "date": "Nov 23, 2026",
-          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the stunning news of the morning: Nvidia's board unanimously reinstating founder Jensen Huang as CEO just 12 days after his resignation. Including his five takeaways on what the reversal says about corporate governance, the role Washington played in the decision, and the rally that's lifting the whole AI trade while sending AMD lower.\n\nBrian is joined by New Street Research technology infrastructure analyst Antoine Chkaiban on the new checks around Huang and why he's still a buyer; \"In the Loop\" host Ejaz on key-man risk and whether the \"Bank of Nvidia\" reopens for neoclouds; EMJ Capital founder and president Eric Jackson, who calls the return a win for open-source AI; Yahoo Finance's Julie Hyman on the board's credibility and Colette Kress's future; Moor Insights &amp; Strategy founder and chief analyst Patrick Moorhead on the politics behind the ouster and why nothing changes for AMD for 18 months; and SlateStone Wealth partner and chief market strategist Kenny Polcari on whether this kicks off a year-end rally."
         },
         {
-          "title": "5 Stocks Stanley Druckenmiller Just Dumped\u2014and What His Big Exit Signals Next",
-          "source": "Insider Monkey",
+          "title": "Prediction: This AI Hardware Stock Could Surprise Investors Over the Next 3 Years",
+          "source": "24/7 Wall St.",
           "date": "Nov 23, 2026",
-          "snippet": "On November 16, 2026, Stanley Druckenmiller\u2019s family office filed its third-quarter 13F, and the numbers show a portfolio that shrank fast: 65 positions worth $4.47 billion at September 30, down from 95 at June 30. He explained his caution in an interview with Morgan Stanley\u2019s Iliana Bouzali, which we covered in our video on his [\u2026]"
+          "snippet": "Amazon is spending $220 billion on chips and data centers while its free cash flow all but vanishes. Wall Street's near-unanimous bulls are betting one homegrown silicon business justifies the pain, and our model puts a number on it."
         }
       ]
     },
     "CCL": {
-      "price": 28.16,
-      "change": 1.57,
-      "changePercent": 5.9,
-      "chg": 5.9,
+      "price": 28.02,
+      "change": 1.43,
+      "changePercent": 5.38,
+      "chg": 5.38,
       "history": [
-        29.1,
         28.98,
         28.06,
         28.23,
@@ -754,10 +753,10 @@
         26.69,
         26.59,
         28.2,
-        28.16
+        28.12,
+        28.02
       ],
       "sp": [
-        29.1,
         28.98,
         28.06,
         28.23,
@@ -774,7 +773,8 @@
         26.69,
         26.59,
         28.2,
-        28.16
+        28.12,
+        28.02
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.59,
-      "change": 0.02,
-      "changePercent": 3.53,
-      "chg": 3.53,
+      "price": 0.6,
+      "change": 0.03,
+      "changePercent": 5.3,
+      "chg": 5.3,
       "history": [
-        0.59,
         0.62,
         0.67,
         0.66,
@@ -835,10 +834,10 @@
         0.53,
         0.53,
         0.59,
-        0.59
+        0.62,
+        0.6
       ],
       "sp": [
-        0.59,
         0.62,
         0.67,
         0.66,
@@ -855,7 +854,8 @@
         0.53,
         0.53,
         0.59,
-        0.59
+        0.62,
+        0.6
       ],
       "sd": [
         0,
