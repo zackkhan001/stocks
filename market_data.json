@@ -1,20 +1,19 @@
 {
-  "updatedAt": "2026-11-23T17:53:30.840684+00:00",
-  "updated": "2026-11-23T17:53:30.840693+00:00",
+  "updatedAt": "2026-11-23T18:53:07.218470+00:00",
+  "updated": "2026-11-23T18:53:07.218478+00:00",
   "quotes": {
     "AAPL": {
-      "price": 348.46,
-      "change": 5.9,
-      "changePercent": 1.72,
-      "chg": 1.72,
+      "price": 348.3,
+      "change": 5.74,
+      "changePercent": 1.68,
+      "chg": 1.68,
       "history": [
-        348.72,
         349.97,
         350.11,
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
@@ -25,16 +24,16 @@
         351.18,
         348.38,
         348.58,
-        348.46
+        349.25,
+        348.3
       ],
       "sp": [
-        348.72,
         349.97,
         350.11,
         349.48,
         350.1,
         349.14,
-        349.11,
+        349.1,
         348.91,
         347.48,
         345.6,
@@ -45,7 +44,8 @@
         351.18,
         348.38,
         348.58,
-        348.46
+        349.25,
+        348.3
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 96.13,
-      "change": 5.49,
-      "changePercent": 6.06,
-      "chg": 6.06,
+      "price": 96.19,
+      "change": 5.55,
+      "changePercent": 6.12,
+      "chg": 6.12,
       "history": [
-        97.32,
         97.37,
         96.54,
         95.58,
@@ -106,10 +105,10 @@
         96.39,
         96.19,
         96.43,
-        96.13
+        96.16,
+        96.19
       ],
       "sp": [
-        97.32,
         97.37,
         96.54,
         95.58,
@@ -126,7 +125,8 @@
         96.39,
         96.19,
         96.43,
-        96.13
+        96.16,
+        96.19
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 179.28,
-      "change": 0.62,
-      "changePercent": 0.35,
-      "chg": 0.35,
+      "price": 180.05,
+      "change": 1.39,
+      "changePercent": 0.78,
+      "chg": 0.78,
       "history": [
-        185.8,
         184.62,
         183.71,
         184.73,
@@ -187,10 +186,10 @@
         180.17,
         180.23,
         179.39,
-        179.28
+        180.31,
+        180.05
       ],
       "sp": [
-        185.8,
         184.62,
         183.71,
         184.73,
@@ -207,7 +206,8 @@
         180.17,
         180.23,
         179.39,
-        179.28
+        180.31,
+        180.05
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.29,
-      "change": 0.35,
-      "changePercent": 1.03,
-      "chg": 1.03,
+      "price": 34.33,
+      "change": 0.39,
+      "changePercent": 1.15,
+      "chg": 1.15,
       "history": [
-        34.39,
         34.28,
         34.26,
         34.31,
@@ -268,10 +267,10 @@
         34.35,
         34.42,
         34.31,
-        34.29
+        34.4,
+        34.33
       ],
       "sp": [
-        34.39,
         34.28,
         34.26,
         34.31,
@@ -288,7 +287,8 @@
         34.35,
         34.42,
         34.31,
-        34.29
+        34.4,
+        34.33
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 95.74,
-      "change": -1.25,
-      "changePercent": -1.29,
-      "chg": -1.29,
+      "price": 95.93,
+      "change": -1.06,
+      "changePercent": -1.09,
+      "chg": -1.09,
       "history": [
-        95.88,
         95.56,
         95.78,
         96.38,
@@ -349,10 +348,10 @@
         95.79,
         96.17,
         95.62,
-        95.74
+        95.96,
+        95.93
       ],
       "sp": [
-        95.88,
         95.56,
         95.78,
         96.38,
@@ -369,7 +368,8 @@
         95.79,
         96.17,
         95.62,
-        95.74
+        95.96,
+        95.93
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Berkshire Has Owned These 2 Consumer Stocks for Decades. I'd Buy Both Before December and Never Sell.",
+          "title": "If a Recession Hits in 2027, This Is the Dividend Stock I Want to Own",
           "source": "Motley Fool",
           "date": "Nov 23, 2026",
-          "snippet": "These two Berkshire holdings have outlasted almost everything else; here's why I'd own both before the calendar flips."
+          "snippet": "Coca-Cola stock has crushed the market this year, but its real appeal shows up when the economy turns."
         },
         {
-          "title": "The Average 1-Year CD Pays 1.81%. Dividend Stocks Offer a Different Trade-Off",
-          "source": "24/7 Wall St.",
+          "title": "Coca-Cola vs. PepsiCo: Which Consumer Goods Stock Is a Better Buy for 2027?",
+          "source": "Motley Fool",
           "date": "Nov 23, 2026",
-          "snippet": "Your CD just matured, and the bank's clock is ticking. Doing nothing triggers an automatic rollover, while three dividend giants tempt you with raises, risks, and a very different tax bill. Which choice quietly costs more?"
+          "snippet": "Coca-Cola's asset-light model and PepsiCo's snack empire take very different routes to the same shelf, and their valuation gap may decide the winner."
         }
       ]
     },
     "MSFT": {
-      "price": 496.55,
-      "change": 12.03,
-      "changePercent": 2.48,
-      "chg": 2.48,
+      "price": 496.06,
+      "change": 11.54,
+      "changePercent": 2.38,
+      "chg": 2.38,
       "history": [
-        517.94,
         514.66,
         510.32,
         503.18,
@@ -430,10 +429,10 @@
         503.85,
         499.03,
         498.1,
-        496.55
+        497.9,
+        496.06
       ],
       "sp": [
-        517.94,
         514.66,
         510.32,
         503.18,
@@ -450,7 +449,8 @@
         503.85,
         499.03,
         498.1,
-        496.55
+        497.9,
+        496.06
       ],
       "sd": [
         0,
@@ -475,28 +475,27 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nebius Keeps Plummeting Amid 50% Drop This Month: This Wall Street Pro Now Predicts 370% Returns After Slight Adjustment",
-          "source": "24/7 Wall St.",
+          "title": "Billionaire Ray Dalio Is Going All-In on These 10 AI and Chip Stocks: Should You Buy?",
+          "source": "Insider Monkey",
           "date": "Nov 23, 2026",
-          "snippet": "Nebius posted a blowout quarter, then watched half its value vanish in weeks. One analyst still sees a staggering rebound, but a delayed data center and a massive spending plan could decide who is right."
+          "snippet": "Speaking at the Forbes Global CEO Conference in Singapore on October 7, Ray Dalio was of the opinion that the AI boom had entered a \u201cclassic bubble,\u201d and that there was a distinction between \u201chow terrific a technology is and how terrific an investment is.\u201d Gain insight into the AI sector through our list of [\u2026]"
         },
         {
-          "title": "Investors Might Be Underestimating Seagate\u2019s Long-Term AI Growth Opportunity",
-          "source": "24/7 Wall St.",
+          "title": "Here\u2019s What Drove Microsoft Corporation\u2019s (MSFT) Q3 Outperformance",
+          "source": "Insider Monkey",
           "date": "Nov 23, 2026",
-          "snippet": "Seagate's stock has already doubled this year, then slid hard in a single month. Wall Street still sees a path to far higher, and one number the CEO calls his North Star may explain why."
+          "snippet": "Meridian Funds, managed by ArrowMark Partners, released its third-quarter 2026 investor letter for \u201cMeridian Hedged Equity Fund\u201d. The letter can be downloaded here. In the quarter, a modest gain in U.S. equities masked a significant sector rotation and sharply narrowing leadership. The S&P 500 rose 2.30% in the quarter, bringing the year-to-date gain to 12.75%. [\u2026]"
         }
       ]
     },
     "NVDA": {
-      "price": 164.12,
-      "change": 38.59,
-      "changePercent": 30.74,
-      "chg": 30.74,
+      "price": 163.62,
+      "change": 38.09,
+      "changePercent": 30.34,
+      "chg": 30.34,
       "history": [
-        153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
@@ -511,12 +510,12 @@
         169.99,
         166.72,
         166.08,
-        164.12
+        165.13,
+        163.62
       ],
       "sp": [
-        153.51,
         153.24,
-        150.25,
+        150.22,
         149.43,
         148.82,
         147.17,
@@ -531,7 +530,8 @@
         169.99,
         166.72,
         166.08,
-        164.12
+        165.13,
+        163.62
       ],
       "sd": [
         0,
@@ -555,27 +555,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Why Trump thinks Jensen Huang leading Nvidia is worth the risk",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 23, 2026",
+          "snippet": "D.A. Davidson head of technology research Gil Luria and CAZ Investments chairman and chief investment officer Christopher Zook share their thoughts on the national security risks inherent in Jensen Huang's return to Nvidia (NVDA) as CEO."
+        },
         {
           "title": "Wall Street analysts cheer Jensen Huang's return to Nvidia \u2014 but they still have concerns",
           "source": "Yahoo Finance",
           "date": "Nov 23, 2026",
           "snippet": "Wall Street analysts weighed rerating Nvidia stock in light of Jensen Huang's return."
-        },
-        {
-          "title": "Jensen Huang is back atop Nvidia. He has a long road ahead in Washington.",
-          "source": "Yahoo Finance",
-          "date": "Nov 23, 2026",
-          "snippet": "Jensen Huang has won his job back at Nvidia. The road in Washington is less clear."
         }
       ]
     },
     "UAL": {
-      "price": 108.15,
-      "change": 7.12,
-      "changePercent": 7.05,
-      "chg": 7.05,
+      "price": 108.56,
+      "change": 7.53,
+      "changePercent": 7.45,
+      "chg": 7.45,
       "history": [
-        106.48,
         107.6,
         107.48,
         106.55,
@@ -592,10 +591,10 @@
         107.51,
         107.79,
         108.3,
-        108.15
+        108.45,
+        108.56
       ],
       "sp": [
-        106.48,
         107.6,
         107.48,
         106.55,
@@ -612,7 +611,8 @@
         107.51,
         107.79,
         108.3,
-        108.15
+        108.45,
+        108.56
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 283.31,
-      "change": 18.02,
-      "changePercent": 6.79,
-      "chg": 6.79,
+      "price": 283.46,
+      "change": 18.17,
+      "changePercent": 6.85,
+      "chg": 6.85,
       "history": [
-        289.64,
         289.26,
         285.62,
         280.64,
@@ -673,10 +672,10 @@
         282.42,
         282.52,
         283.23,
-        283.31
+        284.18,
+        283.46
       ],
       "sp": [
-        289.64,
         289.26,
         285.62,
         280.64,
@@ -693,7 +692,8 @@
         282.42,
         282.52,
         283.23,
-        283.31
+        284.18,
+        283.46
       ],
       "sd": [
         0,
@@ -724,20 +724,19 @@
           "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the stunning news of the morning: Nvidia's board unanimously reinstating founder Jensen Huang as CEO just 12 days after his resignation. Including his five takeaways on what the reversal says about corporate governance, the role Washington played in the decision, and the rally that's lifting the whole AI trade while sending AMD lower.\n\nBrian is joined by New Street Research technology infrastructure analyst Antoine Chkaiban on the new checks around Huang and why he's still a buyer; \"In the Loop\" host Ejaz on key-man risk and whether the \"Bank of Nvidia\" reopens for neoclouds; EMJ Capital founder and president Eric Jackson, who calls the return a win for open-source AI; Yahoo Finance's Julie Hyman on the board's credibility and Colette Kress's future; Moor Insights &amp; Strategy founder and chief analyst Patrick Moorhead on the politics behind the ouster and why nothing changes for AMD for 18 months; and SlateStone Wealth partner and chief market strategist Kenny Polcari on whether this kicks off a year-end rally."
         },
         {
-          "title": "All Broadcom Has to Do is Deliver Modestly to Prove Stanley Druckenmiller Wrong and Hit $500 in 2027",
-          "source": "24/7 Wall St.",
+          "title": "Jim Cramer sees a Google bargain after $120 million exit",
+          "source": "TheStreet",
           "date": "Nov 23, 2026",
-          "snippet": "A star investor dumped every share, a single report knocked the stock down double digits, and yet Wall Street keeps raising its sights. What would Broadcom have to deliver in 2027 to make the sellers look early?"
+          "snippet": "Alphabet\u2019s beaten-down shares have attracted a bullish call."
         }
       ]
     },
     "CCL": {
-      "price": 27.9,
-      "change": 1.31,
-      "changePercent": 4.93,
-      "chg": 4.93,
+      "price": 27.84,
+      "change": 1.25,
+      "changePercent": 4.7,
+      "chg": 4.7,
       "history": [
-        28.06,
         28.23,
         28.25,
         27.9,
@@ -754,10 +753,10 @@
         28.2,
         28.12,
         27.95,
-        27.9
+        27.96,
+        27.84
       ],
       "sp": [
-        28.06,
         28.23,
         28.25,
         27.9,
@@ -774,7 +773,8 @@
         28.2,
         28.12,
         27.95,
-        27.9
+        27.96,
+        27.84
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.6,
-      "change": 0.03,
-      "changePercent": 5.3,
-      "chg": 5.3,
+      "price": 0.61,
+      "change": 0.04,
+      "changePercent": 7.07,
+      "chg": 7.07,
       "history": [
-        0.67,
         0.66,
         0.65,
         0.63,
@@ -835,10 +834,10 @@
         0.59,
         0.62,
         0.6,
-        0.6
+        0.63,
+        0.61
       ],
       "sp": [
-        0.67,
         0.66,
         0.65,
         0.63,
@@ -855,7 +854,8 @@
         0.59,
         0.62,
         0.6,
-        0.6
+        0.63,
+        0.61
       ],
       "sd": [
         0,
