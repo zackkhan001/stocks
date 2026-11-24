@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-24T16:41:37.822806+00:00",
-  "updated": "2026-11-24T16:41:37.822814+00:00",
+  "updatedAt": "2026-11-24T17:47:05.274738+00:00",
+  "updated": "2026-11-24T17:47:05.274747+00:00",
   "quotes": {
     "AAPL": {
-      "price": 351.39,
-      "change": 2.31,
-      "changePercent": 0.66,
-      "chg": 0.66,
+      "price": 352.99,
+      "change": 3.91,
+      "changePercent": 1.12,
+      "chg": 1.12,
       "history": [
-        349.1,
         348.91,
         347.48,
         345.6,
@@ -22,13 +21,13 @@
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
-        351.39
+        352.9,
+        352.99
       ],
       "sp": [
-        349.1,
         348.91,
         347.48,
         345.6,
@@ -42,10 +41,11 @@
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
-        351.39
+        352.9,
+        352.99
       ],
       "sd": [
         0,
@@ -69,27 +69,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Stocks give back gains as Anthropic dips below IPO price",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 24, 2026",
+          "snippet": "Hosts Julie Hyman and Jake Conley, joined on the couch by Barron's markets reporter Jacob Sonenshine, tackle the top stories of the day. Including futures sliding after Monday's biggest rally since April 2025, Anthropic briefly trading below its $83 IPO price, a Wall Street Journal report that the U.S. is preparing new tariffs on China and dozens of other countries, and whether Jensen Huang's return leaves Nvidia owing a favor to the White House.\n\nThe team is joined by Seaport Research Partners senior analyst Jay Goldberg and Creative Strategies CEO and principal analyst Ben Bajarin to discuss what Jensen Huang needs to tell shareholders, the competitive threat from Broadcom and AMD, and whether Nvidia's financing of neoclouds is a wobbly foundation. The show closes on Strategy trading below the value of its Bitcoin, Sanofi's $41 billion deal for Insmed, and a strong day for retail earnings from Best Buy, Dollar Tree, Dick's, Abercrombie, and Kohl's."
+        },
         {
           "title": "Who is holding Jensen Huang accountable? It sure looks like nobody",
           "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
           "snippet": "Sozzi Unleashed host Brian Sozzi digs into day two of Jensen Huang's return to Nvidia. Including a Financial Times report that interim CEO Colette Kress was left out of the talks to bring Huang back, a Wall Street Journal report that Huang disclosed more affairs to the board than previously known, why Brian says Nvidia is effectively a \"board of one,\" and what history says about returning founders from Steve Jobs and Howard Schultz to Kevin Plank."
-        },
-        {
-          "title": "Jensen Huang's return revives an old Wall Street trade: Bet on the comeback CEO",
-          "source": "Yahoo Finance",
-          "date": "Nov 24, 2026",
-          "snippet": "Investors have often cheered when big-name CEOs like Jensen Huang return."
         }
       ]
     },
     "CSCO": {
-      "price": 92.87,
-      "change": -3.93,
-      "changePercent": -4.06,
-      "chg": -4.06,
+      "price": 93.37,
+      "change": -3.43,
+      "changePercent": -3.54,
+      "chg": -3.54,
       "history": [
-        94.68,
         93.95,
         92.86,
         92.1,
@@ -106,10 +105,10 @@
         96.85,
         93.72,
         93.04,
-        92.87
+        93.2,
+        93.37
       ],
       "sp": [
-        94.68,
         93.95,
         92.86,
         92.1,
@@ -126,7 +125,8 @@
         96.85,
         93.72,
         93.04,
-        92.87
+        93.2,
+        93.37
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Can Arista Networks Stock Hit $270?",
+          "source": "Trefis",
+          "date": "Nov 24, 2026",
+          "snippet": "For questions about this article or underlying research, email help@trefis.com."
+        },
+        {
           "title": "HPE Sinks 14% Despite Raised Outlook as CFO Expects \u201cGross Margin to Moderate\u201d",
           "source": "TIKR",
           "date": "Nov 24, 2026",
           "snippet": "Key TakeawaysHPE fell 14% despite a fourth-quarter beat and a raised 2027 outlook. With more AI servers in the mix, HPE expects operating profit to grow more slowly than revenue."
-        },
-        {
-          "title": "The Zacks Analyst Blog Highlights NVIDIA, Cisco Systems, BHP, GEE and Tandy Leather Factory",
-          "source": "Zacks",
-          "date": "Nov 24, 2026",
-          "snippet": "NVIDIA rides AI computing demand, Cisco benefits from networking upgrades and BHP taps low-cost iron ore and copper growth, but challenges cloud their outlooks."
         }
       ]
     },
     "COF": {
-      "price": 181.77,
-      "change": 1.76,
-      "changePercent": 0.98,
-      "chg": 0.98,
+      "price": 182.65,
+      "change": 2.64,
+      "changePercent": 1.47,
+      "chg": 1.47,
       "history": [
-        181.71,
         183.02,
         182.44,
         181.07,
@@ -187,10 +186,10 @@
         180.09,
         181.24,
         181.88,
-        181.77
+        182.66,
+        182.65
       ],
       "sp": [
-        181.71,
         183.02,
         182.44,
         181.07,
@@ -207,7 +206,8 @@
         180.09,
         181.24,
         181.88,
-        181.77
+        182.66,
+        182.65
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.75,
-      "change": 0.36,
-      "changePercent": 1.05,
-      "chg": 1.05,
+      "price": 34.93,
+      "change": 0.54,
+      "changePercent": 1.57,
+      "chg": 1.57,
       "history": [
-        34.19,
         34.56,
         34.53,
         34.38,
@@ -268,10 +267,10 @@
         34.37,
         34.66,
         34.81,
-        34.75
+        34.9,
+        34.93
       ],
       "sp": [
-        34.19,
         34.56,
         34.53,
         34.38,
@@ -288,7 +287,8 @@
         34.37,
         34.66,
         34.81,
-        34.75
+        34.9,
+        34.93
       ],
       "sd": [
         0,
@@ -312,27 +312,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "A 62-Year-Old Swapped SCHD for SPYI in a $975,000 Portfolio. Here\u2019s What Happened to Her $4,903 Monthly Paycheck",
+          "source": "24/7 Wall St.",
+          "date": "Nov 24, 2026",
+          "snippet": "A newly retired investor gave herself a raise of nearly $2,000 a month with one swap. The extra income looks irresistible until you see what she gave up, what the IRS eventually claims, and what happens in the next downturn."
+        },
         {
           "title": "I Own SCHD. Here\u2019s Why I Also Own This 7%-Yielding Income ETF.",
           "source": "Motley Fool",
           "date": "Nov 24, 2026",
           "snippet": "These income-focused ETFs play complementary roles in my portfolio."
-        },
-        {
-          "title": "Retiring On $2 Million? Sell BND Before SCHD",
-          "source": "Trefis",
-          "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92."
         }
       ]
     },
     "KO": {
-      "price": 98.04,
-      "change": 2.16,
-      "changePercent": 2.25,
-      "chg": 2.25,
+      "price": 98.0,
+      "change": 2.12,
+      "changePercent": 2.21,
+      "chg": 2.21,
       "history": [
-        96.11,
         97.17,
         97.57,
         97.49,
@@ -349,10 +348,10 @@
         95.98,
         97.4,
         98.14,
-        98.04
+        97.98,
+        98.0
       ],
       "sp": [
-        96.11,
         97.17,
         97.57,
         97.49,
@@ -369,7 +368,8 @@
         95.98,
         97.4,
         98.14,
-        98.04
+        97.98,
+        98.0
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Coca-Cola (KO) Appoints David Elkins As CFO Effective April 2027",
-          "source": "Simply Wall St.",
+          "title": "Can Coca-Cola Navigate Rising Costs While Protecting Margins?",
+          "source": "Zacks",
           "date": "Nov 24, 2026",
-          "snippet": "Coca-Cola (NYSE:KO) faces a formal E.U. antitrust investigation into Coca-Cola Europacific Partners for possible abuse of market dominance. The European Commission is examining whether Coca-Cola Europacific Partners restricted rival soft drinks from key retail channels across several member states. The Coca-Cola Company has appointed David Elkins as its next Chief Financial Officer, with his tenure scheduled to begin in April 2027. The E.U. antitrust probe and David Elkins' 2027 CFO..."
+          "snippet": "KO tackles rising logistics and transportation costs through productivity gains and strategic pricing while sustaining margin expansion and brand investments."
         },
         {
-          "title": "Coca-Cola at $95 or PepsiCo at $140: Which Dividend King Could Turn $1,000 Into More Money by 2036?",
-          "source": "Motley Fool",
+          "title": "Is PepsiCo Sacrificing Pricing Power to Regain Snack Volumes?",
+          "source": "Zacks",
           "date": "Nov 24, 2026",
-          "snippet": "Coca-Cola and PepsiCo have rewarded investors with decades of dividend growth. But which Dividend King offers the better opportunity to turn $1,000 into substantially more money over the next decade?"
+          "snippet": "PEP's affordability push is reviving snack volumes and market share, but mounting margin pressure raises questions about sustainable growth and pricing power."
         }
       ]
     },
     "MSFT": {
-      "price": 495.58,
-      "change": 3.08,
-      "changePercent": 0.63,
-      "chg": 0.63,
+      "price": 499.25,
+      "change": 6.75,
+      "changePercent": 1.37,
+      "chg": 1.37,
       "history": [
-        498.16,
         497.39,
         491.69,
         488.52,
@@ -430,10 +429,10 @@
         492.97,
         494.48,
         496.14,
-        495.58
+        500.99,
+        499.25
       ],
       "sp": [
-        498.16,
         497.39,
         491.69,
         488.52,
@@ -450,7 +449,8 @@
         492.97,
         494.48,
         496.14,
-        495.58
+        500.99,
+        499.25
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "Sozzi Unleashed host Brian Sozzi digs into day two of Jensen Huang's return to Nvidia. Including a Financial Times report that interim CEO Colette Kress was left out of the talks to bring Huang back, a Wall Street Journal report that Huang disclosed more affairs to the board than previously known, why Brian says Nvidia is effectively a \"board of one,\" and what history says about returning founders from Steve Jobs and Howard Schultz to Kevin Plank."
         },
         {
-          "title": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-          "source": "24/7 Wall St.",
+          "title": "Why Did Alphabet Stock Move?",
+          "source": "Trefis",
           "date": "Nov 24, 2026",
-          "snippet": "The same spending spree powering America's growth is now pushing the Fed toward moves that could hurt the industry behind it. A New York Fed president points to a paradox that reaches well beyond tech investors and into household budgets."
+          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
         }
       ]
     },
     "NVDA": {
-      "price": 150.57,
-      "change": -14.48,
-      "changePercent": -8.77,
-      "chg": -8.77,
+      "price": 153.16,
+      "change": -11.89,
+      "changePercent": -7.2,
+      "chg": -7.2,
       "history": [
-        146.0,
         138.72,
         136.66,
         135.41,
@@ -511,10 +510,10 @@
         165.18,
         152.46,
         151.47,
-        150.57
+        153.83,
+        153.16
       ],
       "sp": [
-        146.0,
         138.72,
         136.66,
         135.41,
@@ -531,7 +530,8 @@
         165.18,
         152.46,
         151.47,
-        150.57
+        153.83,
+        153.16
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Who is holding Jensen Huang accountable? It sure looks like nobody",
-          "source": "Yahoo Finance Video",
+          "title": "Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December",
+          "source": "Yahoo Finance",
           "date": "Nov 24, 2026",
-          "snippet": "Sozzi Unleashed host Brian Sozzi digs into day two of Jensen Huang's return to Nvidia. Including a Financial Times report that interim CEO Colette Kress was left out of the talks to bring Huang back, a Wall Street Journal report that Huang disclosed more affairs to the board than previously known, why Brian says Nvidia is effectively a \"board of one,\" and what history says about returning founders from Steve Jobs and Howard Schultz to Kevin Plank."
+          "snippet": "Stocks are replaying 2018, only this time inflation keeps the Fed from riding to the rescue."
         },
         {
-          "title": "What social media is saying about Jensen Huang's Nvidia comeback",
-          "source": "Yahoo Finance Video",
+          "title": "Huang faces 3 camps of GOP skeptics ahead of congressional grilling",
+          "source": "Yahoo Finance",
           "date": "Nov 24, 2026",
-          "snippet": "Yahoo Finance Executive Editor Brian Sozzi breaks down the reactions he's receiving on X and LinkedIn to reports of Jensen Huang's reinstatement as Nvidia  (NVDA) CEO. Sozzi examines how sentiment differs across the two platforms"
+          "snippet": "Republican lawmakers say they intend to keep the pressure on the chipmaker."
         }
       ]
     },
     "UAL": {
-      "price": 105.96,
-      "change": -2.75,
-      "changePercent": -2.53,
-      "chg": -2.53,
+      "price": 107.46,
+      "change": -1.25,
+      "changePercent": -1.15,
+      "chg": -1.15,
       "history": [
-        105.55,
         105.91,
         104.26,
         102.73,
@@ -592,10 +591,10 @@
         108.76,
         106.39,
         106.22,
-        105.96
+        107.46,
+        107.46
       ],
       "sp": [
-        105.55,
         105.91,
         104.26,
         102.73,
@@ -612,7 +611,8 @@
         108.76,
         106.39,
         106.22,
-        105.96
+        107.46,
+        107.46
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 276.83,
-      "change": -5.27,
-      "changePercent": -1.87,
-      "chg": -1.87,
+      "price": 278.61,
+      "change": -3.49,
+      "changePercent": -1.24,
+      "chg": -1.24,
       "history": [
-        272.5,
         278.67,
         277.46,
         273.45,
@@ -673,10 +672,10 @@
         282.31,
         278.22,
         277.02,
-        276.83
+        278.47,
+        278.61
       ],
       "sp": [
-        272.5,
         278.67,
         277.46,
         273.45,
@@ -693,7 +692,8 @@
         282.31,
         278.22,
         277.02,
-        276.83
+        278.47,
+        278.61
       ],
       "sd": [
         0,
@@ -717,27 +717,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Stocks give back gains as Anthropic dips below IPO price",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 24, 2026",
+          "snippet": "Hosts Julie Hyman and Jake Conley, joined on the couch by Barron's markets reporter Jacob Sonenshine, tackle the top stories of the day. Including futures sliding after Monday's biggest rally since April 2025, Anthropic briefly trading below its $83 IPO price, a Wall Street Journal report that the U.S. is preparing new tariffs on China and dozens of other countries, and whether Jensen Huang's return leaves Nvidia owing a favor to the White House.\n\nThe team is joined by Seaport Research Partners senior analyst Jay Goldberg and Creative Strategies CEO and principal analyst Ben Bajarin to discuss what Jensen Huang needs to tell shareholders, the competitive threat from Broadcom and AMD, and whether Nvidia's financing of neoclouds is a wobbly foundation. The show closes on Strategy trading below the value of its Bitcoin, Sanofi's $41 billion deal for Insmed, and a strong day for retail earnings from Best Buy, Dollar Tree, Dick's, Abercrombie, and Kohl's."
+        },
         {
           "title": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
           "source": "Yahoo Finance",
           "date": "Nov 24, 2026",
           "snippet": "Robotaxis are seemingly everywhere, especially if you live in a major city, but the robotaxi tipping point may be upon us."
-        },
-        {
-          "title": "Anthropic Broke Its $83 IPO Price Overnight. Jim Cramer Blames \u201cthe Achilles Heel of Overnight Trading\u201d",
-          "source": "TIKR",
-          "date": "Nov 24, 2026",
-          "snippet": "Key TakeawaysAnthropic slipped below its $83 IPO price overnight, a day after missing the AI rally on Jensen Huang\u2019s return as Nvidia\u2019s CEO. Jim Cramer blamed small overnight bids and said there will be no OpenAI IPO unless Anthropic rallies."
         }
       ]
     },
     "CCL": {
-      "price": 27.59,
-      "change": -0.32,
-      "changePercent": -1.15,
-      "chg": -1.15,
+      "price": 28.13,
+      "change": 0.22,
+      "changePercent": 0.79,
+      "chg": 0.79,
       "history": [
-        27.58,
         27.47,
         27.37,
         27.14,
@@ -753,11 +752,11 @@
         28.02,
         27.92,
         27.53,
-        27.6,
-        27.59
+        27.61,
+        28.04,
+        28.13
       ],
       "sp": [
-        27.58,
         27.47,
         27.37,
         27.14,
@@ -773,8 +772,9 @@
         28.02,
         27.92,
         27.53,
-        27.6,
-        27.59
+        27.61,
+        28.04,
+        28.13
       ],
       "sd": [
         0,
@@ -799,24 +799,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Royal Caribbean's 2026 and 2027 Earnings Estimates Rise: What's Ahead?",
+          "title": "Can RCL's 50% Sandals Stake Drive Long-Term Earnings Growth?",
           "source": "Zacks",
           "date": "Nov 24, 2026",
-          "snippet": "RCL's rising 2026 and 2027 earnings estimates reflect strong bookings, higher onboard spending and fleet expansion. Can growth momentum continue?"
+          "snippet": "Royal Caribbean's proposed $3B Sandals investment can unlock new earnings growth opportunities through resort expansion, cross-selling and operating synergies."
         },
         {
-          "title": "Carnival (CCL) Unveiled Two New LNG Powered Ace Class Ships",
-          "source": "Simply Wall St.",
+          "title": "Can NCLH's 30M-Traveler Target Strengthen Its 2027 Recovery?",
+          "source": "Zacks",
           "date": "Nov 24, 2026",
-          "snippet": "Carnival (NYSE:CCL) unveiled a new Ace Class of two LNG-powered cruise ships, expanding its future fleet plans. The company outlined a major build-out of its Paradise Collection, adding capacity and new features across its exclusive destinations. Management described the Ace Class design as tailored for broader port access and upgraded onboard amenities for Carnival guests. The Ace Class LNG ships and Paradise Collection expansion are set to reshape Carnival's future route options and guest..."
+          "snippet": "Norwegian Cruise targets 30 million higher-income vacationers with a new marketing strategy to boost awareness and attract cruise guests in 2027."
         }
       ]
     },
     "SCLX": {
-      "price": 0.58,
-      "change": -0.03,
-      "changePercent": -4.96,
-      "chg": -4.96,
+      "price": 0.59,
+      "change": -0.02,
+      "changePercent": -3.31,
+      "chg": -3.31,
       "history": [
         0.63,
         0.64,
@@ -835,7 +835,7 @@
         0.61,
         0.61,
         0.58,
-        0.58
+        0.59
       ],
       "sp": [
         0.63,
@@ -855,7 +855,7 @@
         0.61,
         0.61,
         0.58,
-        0.58
+        0.59
       ],
       "sd": [
         0,
