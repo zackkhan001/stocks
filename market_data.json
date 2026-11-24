@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-24T19:56:54.468058+00:00",
-  "updated": "2026-11-24T19:56:54.468066+00:00",
+  "updatedAt": "2026-11-24T20:48:40.549985+00:00",
+  "updated": "2026-11-24T20:48:40.549993+00:00",
   "quotes": {
     "AAPL": {
-      "price": 352.06,
-      "change": 2.98,
-      "changePercent": 0.85,
-      "chg": 0.85,
+      "price": 352.78,
+      "change": 3.7,
+      "changePercent": 1.06,
+      "chg": 1.06,
       "history": [
-        345.6,
         344.96,
         343.0,
         343.34,
@@ -19,16 +18,16 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
         353.22,
         352.65,
-        352.06
+        351.88,
+        352.78
       ],
       "sp": [
-        345.6,
         344.96,
         343.0,
         343.34,
@@ -39,13 +38,14 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
         353.22,
         352.65,
-        352.06
+        351.88,
+        352.78
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 94.1,
-      "change": -2.7,
-      "changePercent": -2.79,
-      "chg": -2.79,
+      "price": 94.04,
+      "change": -2.76,
+      "changePercent": -2.85,
+      "chg": -2.85,
       "history": [
-        92.1,
         91.89,
         91.1,
         90.75,
@@ -106,10 +105,10 @@
         93.2,
         94.18,
         94.29,
-        94.1
+        93.83,
+        94.04
       ],
       "sp": [
-        92.1,
         91.89,
         91.1,
         90.75,
@@ -126,7 +125,8 @@
         93.2,
         94.18,
         94.29,
-        94.1
+        93.83,
+        94.04
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 181.51,
-      "change": 1.5,
-      "changePercent": 0.83,
-      "chg": 0.83,
+      "price": 181.21,
+      "change": 1.2,
+      "changePercent": 0.67,
+      "chg": 0.67,
       "history": [
-        181.07,
         180.6,
         180.13,
         179.72,
@@ -187,10 +186,10 @@
         182.66,
         182.77,
         181.9,
-        181.51
+        181.14,
+        181.21
       ],
       "sp": [
-        181.07,
         180.6,
         180.13,
         179.72,
@@ -207,7 +206,8 @@
         182.66,
         182.77,
         181.9,
-        181.51
+        181.14,
+        181.21
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.86,
-      "change": 0.47,
-      "changePercent": 1.37,
-      "chg": 1.37,
+      "price": 34.9,
+      "change": 0.51,
+      "changePercent": 1.48,
+      "chg": 1.48,
       "history": [
-        34.38,
         34.31,
         34.15,
         34.12,
@@ -268,10 +267,10 @@
         34.9,
         34.95,
         34.96,
-        34.86
+        34.87,
+        34.9
       ],
       "sp": [
-        34.38,
         34.31,
         34.15,
         34.12,
@@ -288,7 +287,8 @@
         34.9,
         34.95,
         34.96,
-        34.86
+        34.87,
+        34.9
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.61,
-      "change": 1.73,
-      "changePercent": 1.8,
-      "chg": 1.8,
+      "price": 97.7,
+      "change": 1.82,
+      "changePercent": 1.9,
+      "chg": 1.9,
       "history": [
-        97.49,
         97.61,
         97.32,
         97.43,
@@ -349,10 +348,10 @@
         97.98,
         97.93,
         97.81,
-        97.61
+        97.72,
+        97.7
       ],
       "sp": [
-        97.49,
         97.61,
         97.32,
         97.43,
@@ -369,7 +368,8 @@
         97.98,
         97.93,
         97.81,
-        97.61
+        97.72,
+        97.7
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 493.08,
-      "change": 0.58,
-      "changePercent": 0.12,
-      "chg": 0.12,
+      "price": 494.73,
+      "change": 2.23,
+      "changePercent": 0.45,
+      "chg": 0.45,
       "history": [
-        488.52,
         489.26,
         487.34,
         483.84,
@@ -430,10 +429,10 @@
         500.99,
         496.7,
         494.62,
-        493.08
+        493.9,
+        494.73
       ],
       "sp": [
-        488.52,
         489.26,
         487.34,
         483.84,
@@ -450,7 +449,8 @@
         500.99,
         496.7,
         494.62,
-        493.08
+        493.9,
+        494.73
       ],
       "sd": [
         0,
@@ -489,12 +489,11 @@
       ]
     },
     "NVDA": {
-      "price": 152.75,
-      "change": -12.3,
-      "changePercent": -7.45,
-      "chg": -7.45,
+      "price": 153.54,
+      "change": -11.51,
+      "changePercent": -6.97,
+      "chg": -6.97,
       "history": [
-        135.41,
         135.79,
         130.54,
         128.29,
@@ -511,10 +510,10 @@
         153.83,
         153.48,
         153.23,
-        152.75
+        152.79,
+        153.54
       ],
       "sp": [
-        135.41,
         135.79,
         130.54,
         128.29,
@@ -531,7 +530,8 @@
         153.83,
         153.48,
         153.23,
-        152.75
+        152.79,
+        153.54
       ],
       "sd": [
         0,
@@ -570,12 +570,11 @@
       ]
     },
     "UAL": {
-      "price": 107.01,
-      "change": -1.7,
-      "changePercent": -1.56,
-      "chg": -1.56,
+      "price": 107.18,
+      "change": -1.53,
+      "changePercent": -1.41,
+      "chg": -1.41,
       "history": [
-        102.73,
         101.98,
         101.44,
         100.91,
@@ -592,10 +591,10 @@
         107.46,
         107.49,
         107.54,
-        107.01
+        107.07,
+        107.18
       ],
       "sp": [
-        102.73,
         101.98,
         101.44,
         100.91,
@@ -612,7 +611,8 @@
         107.46,
         107.49,
         107.54,
-        107.01
+        107.07,
+        107.18
       ],
       "sd": [
         0,
@@ -637,26 +637,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Microsoft initiaties \u2018Code Red\u2019 after most disruptive outage in company\u2019s history: report",
+          "source": "NY Post",
+          "date": "Nov 24, 2026",
+          "snippet": "From Nov. 12 - 13, Teams, Outlook, Copilot and other Microsoft products went down due to an undetected Windows defect introduced in July, according to Microsoft CEO Satya Nadella."
+        },
+        {
           "title": "Stanley Druckenmiller Sold Every Airline Stock He Owned Last Quarter, Including $108 Million of United Airlines",
           "source": "TIKR",
           "date": "Nov 24, 2026",
           "snippet": "Key TakeawaysStanley Druckenmiller\u2019s Duquesne Family Office held no airline stocks at Sept. 30, after holding $108 million of United Airlines and $56 million of Delta Air Lines at the end of June."
-        },
-        {
-          "title": "United Airlines leads Thanksgiving airline gains on pricing power and premium mix",
-          "source": "Investing.com",
-          "date": "Nov 24, 2026",
-          "snippet": "Investing.com -- United Airlines appears best positioned to benefit from Thanksgiving\u2019s high-fare, capacity-constrained environment."
         }
       ]
     },
     "GOOGL": {
-      "price": 277.4,
-      "change": -4.7,
-      "changePercent": -1.67,
-      "chg": -1.67,
+      "price": 278.14,
+      "change": -3.96,
+      "changePercent": -1.4,
+      "chg": -1.4,
       "history": [
-        273.45,
         272.77,
         270.11,
         267.22,
@@ -673,10 +672,10 @@
         278.47,
         278.96,
         278.68,
-        277.4
+        277.37,
+        278.14
       ],
       "sp": [
-        273.45,
         272.77,
         270.11,
         267.22,
@@ -693,7 +692,8 @@
         278.47,
         278.96,
         278.68,
-        277.4
+        277.37,
+        278.14
       ],
       "sd": [
         0,
@@ -732,12 +732,11 @@
       ]
     },
     "CCL": {
-      "price": 28.15,
-      "change": 0.24,
-      "changePercent": 0.86,
-      "chg": 0.86,
+      "price": 28.26,
+      "change": 0.35,
+      "changePercent": 1.25,
+      "chg": 1.25,
       "history": [
-        27.14,
         27.06,
         26.85,
         26.69,
@@ -754,10 +753,10 @@
         28.04,
         28.17,
         28.26,
-        28.15
+        28.16,
+        28.26
       ],
       "sp": [
-        27.14,
         27.06,
         26.85,
         26.69,
@@ -774,7 +773,8 @@
         28.04,
         28.17,
         28.26,
-        28.15
+        28.16,
+        28.26
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.57,
-      "change": -0.04,
-      "changePercent": -6.61,
-      "chg": -6.61,
+      "price": 0.59,
+      "change": -0.02,
+      "changePercent": -3.31,
+      "chg": -3.31,
       "history": [
-        0.53,
         0.5,
         0.5,
         0.5,
@@ -835,10 +834,10 @@
         0.59,
         0.6,
         0.61,
-        0.57
+        0.6,
+        0.59
       ],
       "sp": [
-        0.53,
         0.5,
         0.5,
         0.5,
@@ -855,7 +854,8 @@
         0.59,
         0.6,
         0.61,
-        0.57
+        0.6,
+        0.59
       ],
       "sd": [
         0,
