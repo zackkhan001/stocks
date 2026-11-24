@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-24T18:51:31.835775+00:00",
-  "updated": "2026-11-24T18:51:31.835782+00:00",
+  "updatedAt": "2026-11-24T19:56:54.468058+00:00",
+  "updated": "2026-11-24T19:56:54.468066+00:00",
   "quotes": {
     "AAPL": {
-      "price": 352.77,
-      "change": 3.69,
-      "changePercent": 1.06,
-      "chg": 1.06,
+      "price": 352.06,
+      "change": 2.98,
+      "changePercent": 0.85,
+      "chg": 0.85,
       "history": [
-        347.48,
         345.6,
         344.96,
         343.0,
@@ -20,15 +19,15 @@
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
         353.22,
-        352.77
+        352.65,
+        352.06
       ],
       "sp": [
-        347.48,
         345.6,
         344.96,
         343.0,
@@ -40,12 +39,13 @@
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
         353.22,
-        352.77
+        352.65,
+        352.06
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 94.02,
-      "change": -2.78,
-      "changePercent": -2.87,
-      "chg": -2.87,
+      "price": 94.1,
+      "change": -2.7,
+      "changePercent": -2.79,
+      "chg": -2.79,
       "history": [
-        92.86,
         92.1,
         91.89,
         91.1,
@@ -106,10 +105,10 @@
         93.04,
         93.2,
         94.18,
-        94.02
+        94.29,
+        94.1
       ],
       "sp": [
-        92.86,
         92.1,
         91.89,
         91.1,
@@ -126,7 +125,8 @@
         93.04,
         93.2,
         94.18,
-        94.02
+        94.29,
+        94.1
       ],
       "sd": [
         0,
@@ -151,13 +151,13 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Can Ciena Stock Hit $400?",
-          "source": "Trefis",
+          "title": "$75,000 in These 5 Dividend Stocks Could Pay More Than $1,700 a Year Across 5 Sectors",
+          "source": "24/7 Wall St.",
           "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+          "snippet": "When one industry stumbles, a retiree's dividend checks can shrink overnight. One approach spreads five equal bets across very different corners of the market, and the pick with the highest payout is not the one most investors would guess."
         },
         {
-          "title": "Why Did Cisco Stock Jump?",
+          "title": "Can Ciena Stock Hit $400?",
           "source": "Trefis",
           "date": "Nov 24, 2026",
           "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 182.09,
-      "change": 2.08,
-      "changePercent": 1.16,
-      "chg": 1.16,
+      "price": 181.51,
+      "change": 1.5,
+      "changePercent": 0.83,
+      "chg": 0.83,
       "history": [
-        182.44,
         181.07,
         180.6,
         180.13,
@@ -187,10 +186,10 @@
         181.88,
         182.66,
         182.77,
-        182.09
+        181.9,
+        181.51
       ],
       "sp": [
-        182.44,
         181.07,
         180.6,
         180.13,
@@ -207,7 +206,8 @@
         181.88,
         182.66,
         182.77,
-        182.09
+        181.9,
+        181.51
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.9,
-      "change": 0.51,
-      "changePercent": 1.48,
-      "chg": 1.48,
+      "price": 34.86,
+      "change": 0.47,
+      "changePercent": 1.37,
+      "chg": 1.37,
       "history": [
-        34.53,
         34.38,
         34.31,
         34.15,
@@ -268,10 +267,10 @@
         34.81,
         34.9,
         34.95,
-        34.9
+        34.96,
+        34.86
       ],
       "sp": [
-        34.53,
         34.38,
         34.31,
         34.15,
@@ -288,7 +287,8 @@
         34.81,
         34.9,
         34.95,
-        34.9
+        34.96,
+        34.86
       ],
       "sd": [
         0,
@@ -312,27 +312,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Why Dividend Growth ETFs Deserve a Place in Tech-Heavy Portfolios",
+          "source": "Zacks",
+          "date": "Nov 24, 2026",
+          "snippet": "Adding dividend growth ETFs can improve diversification, and boost long-term returns."
+        },
         {
           "title": "A 62-Year-Old Swapped SCHD for SPYI in a $975,000 Portfolio. Here\u2019s What Happened to Her $4,903 Monthly Paycheck",
           "source": "24/7 Wall St.",
           "date": "Nov 24, 2026",
           "snippet": "A newly retired investor gave herself a raise of nearly $2,000 a month with one swap. The extra income looks irresistible until you see what she gave up, what the IRS eventually claims, and what happens in the next downturn."
-        },
-        {
-          "title": "I Own SCHD. Here\u2019s Why I Also Own This 7%-Yielding Income ETF.",
-          "source": "Motley Fool",
-          "date": "Nov 24, 2026",
-          "snippet": "These income-focused ETFs play complementary roles in my portfolio."
         }
       ]
     },
     "KO": {
-      "price": 97.75,
-      "change": 1.87,
-      "changePercent": 1.95,
-      "chg": 1.95,
+      "price": 97.61,
+      "change": 1.73,
+      "changePercent": 1.8,
+      "chg": 1.8,
       "history": [
-        97.57,
         97.49,
         97.61,
         97.32,
@@ -349,10 +348,10 @@
         98.14,
         97.98,
         97.93,
-        97.75
+        97.81,
+        97.61
       ],
       "sp": [
-        97.57,
         97.49,
         97.61,
         97.32,
@@ -369,7 +368,8 @@
         98.14,
         97.98,
         97.93,
-        97.75
+        97.81,
+        97.61
       ],
       "sd": [
         0,
@@ -393,27 +393,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Short-Term Bond Funds vs. Dividend Stocks: Which Income Holds Up Better for Retirees?",
+          "source": "24/7 Wall St.",
+          "date": "Nov 24, 2026",
+          "snippet": "Treasury bills out-yield Exxon and Coca-Cola today, but that paycheck resets with every Fed move while dividends answer to a board. Before choosing, retirees should weigh what each income stream can lose, and what the tax code lets them keep."
+        },
         {
           "title": "What Did Coca-Cola Do That PepsiCo Did Not?",
           "source": "Trefis",
           "date": "Nov 24, 2026",
           "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
-        },
-        {
-          "title": "Can Coca-Cola Navigate Rising Costs While Protecting Margins?",
-          "source": "Zacks",
-          "date": "Nov 24, 2026",
-          "snippet": "KO tackles rising logistics and transportation costs through productivity gains and strategic pricing while sustaining margin expansion and brand investments."
         }
       ]
     },
     "MSFT": {
-      "price": 495.66,
-      "change": 3.16,
-      "changePercent": 0.64,
-      "chg": 0.64,
+      "price": 493.08,
+      "change": 0.58,
+      "changePercent": 0.12,
+      "chg": 0.12,
       "history": [
-        491.69,
         488.52,
         489.26,
         487.34,
@@ -430,10 +429,10 @@
         496.14,
         500.99,
         496.7,
-        495.66
+        494.62,
+        493.08
       ],
       "sp": [
-        491.69,
         488.52,
         489.26,
         487.34,
@@ -450,7 +449,8 @@
         496.14,
         500.99,
         496.7,
-        495.66
+        494.62,
+        493.08
       ],
       "sd": [
         0,
@@ -475,26 +475,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
+          "source": "Yahoo Finance",
+          "date": "Nov 24, 2026",
+          "snippet": "After a 24-hour outage, Microsoft is racing to speed up fixes that took nearly a week to reach customers."
+        },
+        {
           "title": "Who is holding Jensen Huang accountable? It sure looks like nobody",
           "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
           "snippet": "Sozzi Unleashed host Brian Sozzi digs into day two of Jensen Huang's return to Nvidia. Including a Financial Times report that interim CEO Colette Kress was left out of the talks to bring Huang back, a Wall Street Journal report that Huang disclosed more affairs to the board than previously known, why Brian says Nvidia is effectively a \"board of one,\" and what history says about returning founders from Steve Jobs and Howard Schultz to Kevin Plank."
-        },
-        {
-          "title": "How Low Can Intuit Stock Go?",
-          "source": "Trefis",
-          "date": "Nov 24, 2026",
-          "snippet": "For questions about this article or underlying research, email help@trefis.com."
         }
       ]
     },
     "NVDA": {
-      "price": 153.64,
-      "change": -11.41,
-      "changePercent": -6.91,
-      "chg": -6.91,
+      "price": 152.75,
+      "change": -12.3,
+      "changePercent": -7.45,
+      "chg": -7.45,
       "history": [
-        136.66,
         135.41,
         135.79,
         130.54,
@@ -511,10 +510,10 @@
         151.47,
         153.83,
         153.48,
-        153.64
+        153.23,
+        152.75
       ],
       "sp": [
-        136.66,
         135.41,
         135.79,
         130.54,
@@ -531,7 +530,8 @@
         151.47,
         153.83,
         153.48,
-        153.64
+        153.23,
+        152.75
       ],
       "sd": [
         0,
@@ -570,12 +570,11 @@
       ]
     },
     "UAL": {
-      "price": 107.32,
-      "change": -1.39,
-      "changePercent": -1.28,
-      "chg": -1.28,
+      "price": 107.01,
+      "change": -1.7,
+      "changePercent": -1.56,
+      "chg": -1.56,
       "history": [
-        104.26,
         102.73,
         101.98,
         101.44,
@@ -592,10 +591,10 @@
         106.22,
         107.46,
         107.49,
-        107.32
+        107.54,
+        107.01
       ],
       "sp": [
-        104.26,
         102.73,
         101.98,
         101.44,
@@ -612,7 +611,8 @@
         106.22,
         107.46,
         107.49,
-        107.32
+        107.54,
+        107.01
       ],
       "sd": [
         0,
@@ -637,26 +637,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Stanley Druckenmiller Sold Every Airline Stock He Owned Last Quarter, Including $108 Million of United Airlines",
+          "source": "TIKR",
+          "date": "Nov 24, 2026",
+          "snippet": "Key TakeawaysStanley Druckenmiller\u2019s Duquesne Family Office held no airline stocks at Sept. 30, after holding $108 million of United Airlines and $56 million of Delta Air Lines at the end of June."
+        },
+        {
           "title": "United Airlines leads Thanksgiving airline gains on pricing power and premium mix",
           "source": "Investing.com",
           "date": "Nov 24, 2026",
           "snippet": "Investing.com -- United Airlines appears best positioned to benefit from Thanksgiving\u2019s high-fare, capacity-constrained environment."
-        },
-        {
-          "title": "5 Stocks Stanley Druckenmiller Just Dumped\u2014and What His Big Exit Signals Next",
-          "source": "Insider Monkey",
-          "date": "Nov 24, 2026",
-          "snippet": "On November 16, 2026, Stanley Druckenmiller\u2019s family office filed its third-quarter 13F, and the numbers show a portfolio that shrank fast: 65 positions worth $4.47 billion at September 30, down from 95 at June 30. He explained his caution in an interview with Morgan Stanley\u2019s Iliana Bouzali, which we covered in our video on his [\u2026]"
         }
       ]
     },
     "GOOGL": {
-      "price": 278.32,
-      "change": -3.78,
-      "changePercent": -1.34,
-      "chg": -1.34,
+      "price": 277.4,
+      "change": -4.7,
+      "changePercent": -1.67,
+      "chg": -1.67,
       "history": [
-        277.46,
         273.45,
         272.77,
         270.11,
@@ -673,10 +672,10 @@
         277.02,
         278.47,
         278.96,
-        278.32
+        278.68,
+        277.4
       ],
       "sp": [
-        277.46,
         273.45,
         272.77,
         270.11,
@@ -693,7 +692,8 @@
         277.02,
         278.47,
         278.96,
-        278.32
+        278.68,
+        277.4
       ],
       "sd": [
         0,
@@ -732,12 +732,11 @@
       ]
     },
     "CCL": {
-      "price": 28.14,
-      "change": 0.23,
-      "changePercent": 0.82,
-      "chg": 0.82,
+      "price": 28.15,
+      "change": 0.24,
+      "changePercent": 0.86,
+      "chg": 0.86,
       "history": [
-        27.37,
         27.14,
         27.06,
         26.85,
@@ -754,10 +753,10 @@
         27.61,
         28.04,
         28.17,
-        28.14
+        28.26,
+        28.15
       ],
       "sp": [
-        27.37,
         27.14,
         27.06,
         26.85,
@@ -774,7 +773,8 @@
         27.61,
         28.04,
         28.17,
-        28.14
+        28.26,
+        28.15
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.6,
-      "change": -0.01,
-      "changePercent": -1.65,
-      "chg": -1.65,
+      "price": 0.57,
+      "change": -0.04,
+      "changePercent": -6.61,
+      "chg": -6.61,
       "history": [
-        0.55,
         0.53,
         0.5,
         0.5,
@@ -835,10 +834,10 @@
         0.58,
         0.59,
         0.6,
-        0.6
+        0.61,
+        0.57
       ],
       "sp": [
-        0.55,
         0.53,
         0.5,
         0.5,
@@ -855,7 +854,8 @@
         0.58,
         0.59,
         0.6,
-        0.6
+        0.61,
+        0.57
       ],
       "sd": [
         0,
