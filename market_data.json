@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-24T20:48:40.549985+00:00",
-  "updated": "2026-11-24T20:48:40.549993+00:00",
+  "updatedAt": "2026-11-24T21:49:57.323297+00:00",
+  "updated": "2026-11-24T21:49:57.323304+00:00",
   "quotes": {
     "AAPL": {
-      "price": 352.78,
-      "change": 3.7,
-      "changePercent": 1.06,
-      "chg": 1.06,
+      "price": 354.19,
+      "change": 5.11,
+      "changePercent": 1.46,
+      "chg": 1.46,
       "history": [
         344.96,
         343.0,
@@ -25,7 +25,7 @@
         353.22,
         352.65,
         351.88,
-        352.78
+        354.19
       ],
       "sp": [
         344.96,
@@ -45,7 +45,7 @@
         353.22,
         352.65,
         351.88,
-        352.78
+        354.19
       ],
       "sd": [
         0,
@@ -70,24 +70,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Why the Jensen Huang rally faded so quickly",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 24, 2026",
+          "snippet": "Market Hang tackles the top stories of the day. Including why Monday's Jensen Huang rally faded within a day, what teeth the congressional hearings and board investigation can have given why he was reinstated, and whether the market is sniffing out a peak in the AI CapEx cycle the way it has in past build-outs. The panel debates what the VIX and implied correlations say about last week's selloff, why small caps lagged even in the rally, how a Fed rate hike changes the cost of capital for data center projects, and why investors now have to \"take out the pencil\" and discount AI earnings years out, before closing with a lighter debate on whether anyone would watch the Super Bowl in an IMAX theater.\n\n"
+        },
+        {
           "title": "Stocks give back gains as Anthropic dips below IPO price",
           "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
           "snippet": "Hosts Julie Hyman and Jake Conley, joined on the couch by Barron's markets reporter Jacob Sonenshine, tackle the top stories of the day. Including futures sliding after Monday's biggest rally since April 2025, Anthropic briefly trading below its $83 IPO price, a Wall Street Journal report that the U.S. is preparing new tariffs on China and dozens of other countries, and whether Jensen Huang's return leaves Nvidia owing a favor to the White House.\n\nThe team is joined by Seaport Research Partners senior analyst Jay Goldberg and Creative Strategies CEO and principal analyst Ben Bajarin to discuss what Jensen Huang needs to tell shareholders, the competitive threat from Broadcom and AMD, and whether Nvidia's financing of neoclouds is a wobbly foundation. The show closes on Strategy trading below the value of its Bitcoin, Sanofi's $41 billion deal for Insmed, and a strong day for retail earnings from Best Buy, Dollar Tree, Dick's, Abercrombie, and Kohl's."
-        },
-        {
-          "title": "Who is holding Jensen Huang accountable? It sure looks like nobody",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 24, 2026",
-          "snippet": "Sozzi Unleashed host Brian Sozzi digs into day two of Jensen Huang's return to Nvidia. Including a Financial Times report that interim CEO Colette Kress was left out of the talks to bring Huang back, a Wall Street Journal report that Huang disclosed more affairs to the board than previously known, why Brian says Nvidia is effectively a \"board of one,\" and what history says about returning founders from Steve Jobs and Howard Schultz to Kevin Plank."
         }
       ]
     },
     "CSCO": {
-      "price": 94.04,
-      "change": -2.76,
-      "changePercent": -2.85,
-      "chg": -2.85,
+      "price": 94.01,
+      "change": -2.79,
+      "changePercent": -2.88,
+      "chg": -2.88,
       "history": [
         91.89,
         91.1,
@@ -106,7 +106,7 @@
         94.18,
         94.29,
         93.83,
-        94.04
+        94.01
       ],
       "sp": [
         91.89,
@@ -126,7 +126,7 @@
         94.18,
         94.29,
         93.83,
-        94.04
+        94.01
       ],
       "sd": [
         0,
@@ -165,10 +165,10 @@
       ]
     },
     "COF": {
-      "price": 181.21,
-      "change": 1.2,
-      "changePercent": 0.67,
-      "chg": 0.67,
+      "price": 181.43,
+      "change": 1.42,
+      "changePercent": 0.79,
+      "chg": 0.79,
       "history": [
         180.6,
         180.13,
@@ -187,7 +187,7 @@
         182.77,
         181.9,
         181.14,
-        181.21
+        181.43
       ],
       "sp": [
         180.6,
@@ -207,7 +207,7 @@
         182.77,
         181.9,
         181.14,
-        181.21
+        181.43
       ],
       "sd": [
         0,
@@ -231,25 +231,25 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "7 Firms Downgraded Zscaler After CrowdStrike\u2019s $43.9 Billion Deal. Is There Still Money to Make?",
+          "source": "TIKR",
+          "date": "Nov 24, 2026",
+          "snippet": "Key TakeawaysSeven firms, including Jefferies, Stifel and Capital One, downgraded Zscaler to Hold or the same rating under another name after CrowdStrike agreed to buy it in an all-stock deal valued at about $43. 9 billion."
+        },
         {
           "title": "Will Cards & Acquisition Synergies Sustain COF's Revenue Growth?",
           "source": "Zacks",
           "date": "Nov 24, 2026",
           "snippet": "Discover's integration, rising credit card spending & strategic buyouts are positioning Capital One for sustained revenue growth, while NII gains add momentum."
-        },
-        {
-          "title": "Forget JPMorgan: Upstart Has More to Lose From a 10% Card Rate Cap",
-          "source": "TIKR",
-          "date": "Nov 24, 2026",
-          "snippet": "Key TakeawaysPresident Trump said on Nov. 21 that he would work with the incoming Democratic Congress to cap credit card interest rates at 10%, which would hit card issuers like JPMorgan and Capital One."
         }
       ]
     },
     "SCHD": {
-      "price": 34.9,
-      "change": 0.51,
-      "changePercent": 1.48,
-      "chg": 1.48,
+      "price": 34.88,
+      "change": 0.49,
+      "changePercent": 1.42,
+      "chg": 1.42,
       "history": [
         34.31,
         34.15,
@@ -268,7 +268,7 @@
         34.95,
         34.96,
         34.87,
-        34.9
+        34.88
       ],
       "sp": [
         34.31,
@@ -288,7 +288,7 @@
         34.95,
         34.96,
         34.87,
-        34.9
+        34.88
       ],
       "sd": [
         0,
@@ -312,25 +312,25 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Mixing Bonds Into VTI Cost Over $1.2 Million",
+          "source": "Trefis",
+          "date": "Nov 24, 2026",
+          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+        },
         {
           "title": "Why Dividend Growth ETFs Deserve a Place in Tech-Heavy Portfolios",
           "source": "Zacks",
           "date": "Nov 24, 2026",
           "snippet": "Adding dividend growth ETFs can improve diversification, and boost long-term returns."
-        },
-        {
-          "title": "A 62-Year-Old Swapped SCHD for SPYI in a $975,000 Portfolio. Here\u2019s What Happened to Her $4,903 Monthly Paycheck",
-          "source": "24/7 Wall St.",
-          "date": "Nov 24, 2026",
-          "snippet": "A newly retired investor gave herself a raise of nearly $2,000 a month with one swap. The extra income looks irresistible until you see what she gave up, what the IRS eventually claims, and what happens in the next downturn."
         }
       ]
     },
     "KO": {
-      "price": 97.7,
-      "change": 1.82,
-      "changePercent": 1.9,
-      "chg": 1.9,
+      "price": 97.73,
+      "change": 1.85,
+      "changePercent": 1.93,
+      "chg": 1.93,
       "history": [
         97.61,
         97.32,
@@ -349,7 +349,7 @@
         97.93,
         97.81,
         97.72,
-        97.7
+        97.73
       ],
       "sp": [
         97.61,
@@ -369,7 +369,7 @@
         97.93,
         97.81,
         97.72,
-        97.7
+        97.73
       ],
       "sd": [
         0,
@@ -394,24 +394,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Coca-Cola hires pharma vet for CFO",
+          "source": "CFO Dive",
+          "date": "Nov 24, 2026",
+          "snippet": "The beverage giant is breaking from its typical practice of appointing insiders by naming pharma finance alum David Elkins as its incoming CFO, analysts noted."
+        },
+        {
           "title": "Short-Term Bond Funds vs. Dividend Stocks: Which Income Holds Up Better for Retirees?",
           "source": "24/7 Wall St.",
           "date": "Nov 24, 2026",
           "snippet": "Treasury bills out-yield Exxon and Coca-Cola today, but that paycheck resets with every Fed move while dividends answer to a board. Before choosing, retirees should weigh what each income stream can lose, and what the tax code lets them keep."
-        },
-        {
-          "title": "What Did Coca-Cola Do That PepsiCo Did Not?",
-          "source": "Trefis",
-          "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
         }
       ]
     },
     "MSFT": {
-      "price": 494.73,
-      "change": 2.23,
-      "changePercent": 0.45,
-      "chg": 0.45,
+      "price": 496.47,
+      "change": 3.97,
+      "changePercent": 0.81,
+      "chg": 0.81,
       "history": [
         489.26,
         487.34,
@@ -430,7 +430,7 @@
         496.7,
         494.62,
         493.9,
-        494.73
+        496.47
       ],
       "sp": [
         489.26,
@@ -450,7 +450,7 @@
         496.7,
         494.62,
         493.9,
-        494.73
+        496.47
       ],
       "sd": [
         0,
@@ -489,10 +489,10 @@
       ]
     },
     "NVDA": {
-      "price": 153.54,
-      "change": -11.51,
-      "changePercent": -6.97,
-      "chg": -6.97,
+      "price": 155.47,
+      "change": -9.58,
+      "changePercent": -5.8,
+      "chg": -5.8,
       "history": [
         135.79,
         130.54,
@@ -511,7 +511,7 @@
         153.48,
         153.23,
         152.79,
-        153.54
+        155.47
       ],
       "sp": [
         135.79,
@@ -531,7 +531,7 @@
         153.48,
         153.23,
         152.79,
-        153.54
+        155.47
       ],
       "sd": [
         0,
@@ -556,24 +556,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Why HubSpot's CEO thinks Jensen Huang came back to Nvidia too soon",
-          "source": "Yahoo Finance",
+          "title": "Why Nvidia is 'bar none' the 'cheapest growth stock in the market'",
+          "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
-          "snippet": "More time away for Jensen Huang would have brought some much-needed clarity, HubSpot's CEO says."
+          "snippet": "GCG Advisory Partners partner, Bill Gunderson, sits down with Yahoo Finance Executive Editor Brian Sozzi to share his thoughts on Nvidia's (NVDA) value, especially with Jensen Huang back at the helm."
         },
         {
-          "title": "Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December",
-          "source": "Yahoo Finance",
+          "title": "Why the Jensen Huang rally faded so quickly",
+          "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
-          "snippet": "Stocks are replaying 2018, only this time inflation keeps the Fed from riding to the rescue."
+          "snippet": "Market Hang tackles the top stories of the day. Including why Monday's Jensen Huang rally faded within a day, what teeth the congressional hearings and board investigation can have given why he was reinstated, and whether the market is sniffing out a peak in the AI CapEx cycle the way it has in past build-outs. The panel debates what the VIX and implied correlations say about last week's selloff, why small caps lagged even in the rally, how a Fed rate hike changes the cost of capital for data center projects, and why investors now have to \"take out the pencil\" and discount AI earnings years out, before closing with a lighter debate on whether anyone would watch the Super Bowl in an IMAX theater.\n\n"
         }
       ]
     },
     "UAL": {
-      "price": 107.18,
-      "change": -1.53,
-      "changePercent": -1.41,
-      "chg": -1.41,
+      "price": 107.8,
+      "change": -0.91,
+      "changePercent": -0.84,
+      "chg": -0.84,
       "history": [
         101.98,
         101.44,
@@ -592,7 +592,7 @@
         107.49,
         107.54,
         107.07,
-        107.18
+        107.8
       ],
       "sp": [
         101.98,
@@ -612,7 +612,7 @@
         107.49,
         107.54,
         107.07,
-        107.18
+        107.8
       ],
       "sd": [
         0,
@@ -637,7 +637,7 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Microsoft initiaties \u2018Code Red\u2019 after most disruptive outage in company\u2019s history: report",
+          "title": "Microsoft initiates \u2018Code Red\u2019 after most disruptive outage in company\u2019s history: report",
           "source": "NY Post",
           "date": "Nov 24, 2026",
           "snippet": "From Nov. 12 - 13, Teams, Outlook, Copilot and other Microsoft products went down due to an undetected Windows defect introduced in July, according to Microsoft CEO Satya Nadella."
@@ -651,10 +651,10 @@
       ]
     },
     "GOOGL": {
-      "price": 278.14,
-      "change": -3.96,
-      "changePercent": -1.4,
-      "chg": -1.4,
+      "price": 279.03,
+      "change": -3.07,
+      "changePercent": -1.09,
+      "chg": -1.09,
       "history": [
         272.77,
         270.11,
@@ -673,7 +673,7 @@
         278.96,
         278.68,
         277.37,
-        278.14
+        279.03
       ],
       "sp": [
         272.77,
@@ -693,7 +693,7 @@
         278.96,
         278.68,
         277.37,
-        278.14
+        279.03
       ],
       "sd": [
         0,
@@ -732,10 +732,10 @@
       ]
     },
     "CCL": {
-      "price": 28.26,
-      "change": 0.35,
-      "changePercent": 1.25,
-      "chg": 1.25,
+      "price": 28.4,
+      "change": 0.49,
+      "changePercent": 1.76,
+      "chg": 1.76,
       "history": [
         27.06,
         26.85,
@@ -754,7 +754,7 @@
         28.17,
         28.26,
         28.16,
-        28.26
+        28.4
       ],
       "sp": [
         27.06,
@@ -774,7 +774,7 @@
         28.17,
         28.26,
         28.16,
-        28.26
+        28.4
       ],
       "sd": [
         0,
@@ -813,10 +813,10 @@
       ]
     },
     "SCLX": {
-      "price": 0.59,
-      "change": -0.02,
-      "changePercent": -3.31,
-      "chg": -3.31,
+      "price": 0.6,
+      "change": -0.01,
+      "changePercent": -1.65,
+      "chg": -1.65,
       "history": [
         0.5,
         0.5,
@@ -835,7 +835,7 @@
         0.6,
         0.61,
         0.6,
-        0.59
+        0.6
       ],
       "sp": [
         0.5,
@@ -855,7 +855,7 @@
         0.6,
         0.61,
         0.6,
-        0.59
+        0.6
       ],
       "sd": [
         0,
