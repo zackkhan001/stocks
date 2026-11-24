@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-24T17:47:05.274738+00:00",
-  "updated": "2026-11-24T17:47:05.274747+00:00",
+  "updatedAt": "2026-11-24T18:51:31.835775+00:00",
+  "updated": "2026-11-24T18:51:31.835782+00:00",
   "quotes": {
     "AAPL": {
-      "price": 352.99,
-      "change": 3.91,
-      "changePercent": 1.12,
-      "chg": 1.12,
+      "price": 352.77,
+      "change": 3.69,
+      "changePercent": 1.06,
+      "chg": 1.06,
       "history": [
-        348.91,
         347.48,
         345.6,
         344.96,
@@ -21,14 +20,14 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
-        352.99
+        353.22,
+        352.77
       ],
       "sp": [
-        348.91,
         347.48,
         345.6,
         344.96,
@@ -41,11 +40,12 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
-        352.99
+        353.22,
+        352.77
       ],
       "sd": [
         0,
@@ -84,12 +84,11 @@
       ]
     },
     "CSCO": {
-      "price": 93.37,
-      "change": -3.43,
-      "changePercent": -3.54,
-      "chg": -3.54,
+      "price": 94.02,
+      "change": -2.78,
+      "changePercent": -2.87,
+      "chg": -2.87,
       "history": [
-        93.95,
         92.86,
         92.1,
         91.89,
@@ -106,10 +105,10 @@
         93.72,
         93.04,
         93.2,
-        93.37
+        94.18,
+        94.02
       ],
       "sp": [
-        93.95,
         92.86,
         92.1,
         91.89,
@@ -126,7 +125,8 @@
         93.72,
         93.04,
         93.2,
-        93.37
+        94.18,
+        94.02
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Can Arista Networks Stock Hit $270?",
+          "title": "Can Ciena Stock Hit $400?",
           "source": "Trefis",
           "date": "Nov 24, 2026",
-          "snippet": "For questions about this article or underlying research, email help@trefis.com."
+          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
         },
         {
-          "title": "HPE Sinks 14% Despite Raised Outlook as CFO Expects \u201cGross Margin to Moderate\u201d",
-          "source": "TIKR",
+          "title": "Why Did Cisco Stock Jump?",
+          "source": "Trefis",
           "date": "Nov 24, 2026",
-          "snippet": "Key TakeawaysHPE fell 14% despite a fourth-quarter beat and a raised 2027 outlook. With more AI servers in the mix, HPE expects operating profit to grow more slowly than revenue."
+          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
         }
       ]
     },
     "COF": {
-      "price": 182.65,
-      "change": 2.64,
-      "changePercent": 1.47,
-      "chg": 1.47,
+      "price": 182.09,
+      "change": 2.08,
+      "changePercent": 1.16,
+      "chg": 1.16,
       "history": [
-        183.02,
         182.44,
         181.07,
         180.6,
@@ -187,10 +186,10 @@
         181.24,
         181.88,
         182.66,
-        182.65
+        182.77,
+        182.09
       ],
       "sp": [
-        183.02,
         182.44,
         181.07,
         180.6,
@@ -207,7 +206,8 @@
         181.24,
         181.88,
         182.66,
-        182.65
+        182.77,
+        182.09
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.93,
-      "change": 0.54,
-      "changePercent": 1.57,
-      "chg": 1.57,
+      "price": 34.9,
+      "change": 0.51,
+      "changePercent": 1.48,
+      "chg": 1.48,
       "history": [
-        34.56,
         34.53,
         34.38,
         34.31,
@@ -268,10 +267,10 @@
         34.66,
         34.81,
         34.9,
-        34.93
+        34.95,
+        34.9
       ],
       "sp": [
-        34.56,
         34.53,
         34.38,
         34.31,
@@ -288,7 +287,8 @@
         34.66,
         34.81,
         34.9,
-        34.93
+        34.95,
+        34.9
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 98.0,
-      "change": 2.12,
-      "changePercent": 2.21,
-      "chg": 2.21,
+      "price": 97.75,
+      "change": 1.87,
+      "changePercent": 1.95,
+      "chg": 1.95,
       "history": [
-        97.17,
         97.57,
         97.49,
         97.61,
@@ -349,10 +348,10 @@
         97.4,
         98.14,
         97.98,
-        98.0
+        97.93,
+        97.75
       ],
       "sp": [
-        97.17,
         97.57,
         97.49,
         97.61,
@@ -369,7 +368,8 @@
         97.4,
         98.14,
         97.98,
-        98.0
+        97.93,
+        97.75
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "What Did Coca-Cola Do That PepsiCo Did Not?",
+          "source": "Trefis",
+          "date": "Nov 24, 2026",
+          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+        },
+        {
           "title": "Can Coca-Cola Navigate Rising Costs While Protecting Margins?",
           "source": "Zacks",
           "date": "Nov 24, 2026",
           "snippet": "KO tackles rising logistics and transportation costs through productivity gains and strategic pricing while sustaining margin expansion and brand investments."
-        },
-        {
-          "title": "Is PepsiCo Sacrificing Pricing Power to Regain Snack Volumes?",
-          "source": "Zacks",
-          "date": "Nov 24, 2026",
-          "snippet": "PEP's affordability push is reviving snack volumes and market share, but mounting margin pressure raises questions about sustainable growth and pricing power."
         }
       ]
     },
     "MSFT": {
-      "price": 499.25,
-      "change": 6.75,
-      "changePercent": 1.37,
-      "chg": 1.37,
+      "price": 495.66,
+      "change": 3.16,
+      "changePercent": 0.64,
+      "chg": 0.64,
       "history": [
-        497.39,
         491.69,
         488.52,
         489.26,
@@ -430,10 +429,10 @@
         494.48,
         496.14,
         500.99,
-        499.25
+        496.7,
+        495.66
       ],
       "sp": [
-        497.39,
         491.69,
         488.52,
         489.26,
@@ -450,7 +449,8 @@
         494.48,
         496.14,
         500.99,
-        499.25
+        496.7,
+        495.66
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "Sozzi Unleashed host Brian Sozzi digs into day two of Jensen Huang's return to Nvidia. Including a Financial Times report that interim CEO Colette Kress was left out of the talks to bring Huang back, a Wall Street Journal report that Huang disclosed more affairs to the board than previously known, why Brian says Nvidia is effectively a \"board of one,\" and what history says about returning founders from Steve Jobs and Howard Schultz to Kevin Plank."
         },
         {
-          "title": "Why Did Alphabet Stock Move?",
+          "title": "How Low Can Intuit Stock Go?",
           "source": "Trefis",
           "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+          "snippet": "For questions about this article or underlying research, email help@trefis.com."
         }
       ]
     },
     "NVDA": {
-      "price": 153.16,
-      "change": -11.89,
-      "changePercent": -7.2,
-      "chg": -7.2,
+      "price": 153.64,
+      "change": -11.41,
+      "changePercent": -6.91,
+      "chg": -6.91,
       "history": [
-        138.72,
         136.66,
         135.41,
         135.79,
@@ -511,10 +510,10 @@
         152.46,
         151.47,
         153.83,
-        153.16
+        153.48,
+        153.64
       ],
       "sp": [
-        138.72,
         136.66,
         135.41,
         135.79,
@@ -531,7 +530,8 @@
         152.46,
         151.47,
         153.83,
-        153.16
+        153.48,
+        153.64
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Why HubSpot's CEO thinks Jensen Huang came back to Nvidia too soon",
+          "source": "Yahoo Finance",
+          "date": "Nov 24, 2026",
+          "snippet": "More time away for Jensen Huang would have brought some much-needed clarity, HubSpot's CEO says."
+        },
+        {
           "title": "Wall Street's 2027 earnings hopes may be dead on arrival unless the Fed blinks in December",
           "source": "Yahoo Finance",
           "date": "Nov 24, 2026",
           "snippet": "Stocks are replaying 2018, only this time inflation keeps the Fed from riding to the rescue."
-        },
-        {
-          "title": "Huang faces 3 camps of GOP skeptics ahead of congressional grilling",
-          "source": "Yahoo Finance",
-          "date": "Nov 24, 2026",
-          "snippet": "Republican lawmakers say they intend to keep the pressure on the chipmaker."
         }
       ]
     },
     "UAL": {
-      "price": 107.46,
-      "change": -1.25,
-      "changePercent": -1.15,
-      "chg": -1.15,
+      "price": 107.32,
+      "change": -1.39,
+      "changePercent": -1.28,
+      "chg": -1.28,
       "history": [
-        105.91,
         104.26,
         102.73,
         101.98,
@@ -592,10 +591,10 @@
         106.39,
         106.22,
         107.46,
-        107.46
+        107.49,
+        107.32
       ],
       "sp": [
-        105.91,
         104.26,
         102.73,
         101.98,
@@ -612,7 +611,8 @@
         106.39,
         106.22,
         107.46,
-        107.46
+        107.49,
+        107.32
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 278.61,
-      "change": -3.49,
-      "changePercent": -1.24,
-      "chg": -1.24,
+      "price": 278.32,
+      "change": -3.78,
+      "changePercent": -1.34,
+      "chg": -1.34,
       "history": [
-        278.67,
         277.46,
         273.45,
         272.77,
@@ -673,10 +672,10 @@
         278.22,
         277.02,
         278.47,
-        278.61
+        278.96,
+        278.32
       ],
       "sp": [
-        278.67,
         277.46,
         273.45,
         272.77,
@@ -693,7 +692,8 @@
         278.22,
         277.02,
         278.47,
-        278.61
+        278.96,
+        278.32
       ],
       "sd": [
         0,
@@ -732,12 +732,11 @@
       ]
     },
     "CCL": {
-      "price": 28.13,
-      "change": 0.22,
-      "changePercent": 0.79,
-      "chg": 0.79,
+      "price": 28.14,
+      "change": 0.23,
+      "changePercent": 0.82,
+      "chg": 0.82,
       "history": [
-        27.47,
         27.37,
         27.14,
         27.06,
@@ -754,10 +753,10 @@
         27.53,
         27.61,
         28.04,
-        28.13
+        28.17,
+        28.14
       ],
       "sp": [
-        27.47,
         27.37,
         27.14,
         27.06,
@@ -774,7 +773,8 @@
         27.53,
         27.61,
         28.04,
-        28.13
+        28.17,
+        28.14
       ],
       "sd": [
         0,
@@ -813,13 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.59,
-      "change": -0.02,
-      "changePercent": -3.31,
-      "chg": -3.31,
+      "price": 0.6,
+      "change": -0.01,
+      "changePercent": -1.65,
+      "chg": -1.65,
       "history": [
-        0.63,
-        0.64,
         0.55,
         0.53,
         0.5,
@@ -835,11 +833,11 @@
         0.61,
         0.61,
         0.58,
-        0.59
+        0.59,
+        0.6,
+        0.6
       ],
       "sp": [
-        0.63,
-        0.64,
         0.55,
         0.53,
         0.5,
@@ -855,7 +853,9 @@
         0.61,
         0.61,
         0.58,
-        0.59
+        0.59,
+        0.6,
+        0.6
       ],
       "sd": [
         0,
