@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-24T14:15:53.652076+00:00",
-  "updated": "2026-11-24T14:15:53.652083+00:00",
+  "updatedAt": "2026-11-24T15:24:13.462664+00:00",
+  "updated": "2026-11-24T15:24:13.462676+00:00",
   "quotes": {
     "AAPL": {
-      "price": 349.62,
-      "change": 7.06,
-      "changePercent": 2.06,
-      "chg": 2.06,
+      "price": 351.92,
+      "change": 2.84,
+      "changePercent": 0.81,
+      "chg": 0.81,
       "history": [
-        349.48,
         350.1,
         349.14,
         349.11,
@@ -25,10 +24,10 @@
         349.25,
         350.16,
         351.4,
-        349.62
+        349.62,
+        351.92
       ],
       "sp": [
-        349.48,
         350.1,
         349.14,
         349.11,
@@ -45,7 +44,8 @@
         349.25,
         350.16,
         351.4,
-        349.62
+        349.62,
+        351.92
       ],
       "sd": [
         0,
@@ -76,20 +76,19 @@
           "snippet": "Investors have often cheered when big-name CEOs like Jensen Huang return."
         },
         {
-          "title": "America Has Had Indispensable Men Before. Why Is Jensen Huang Different?",
-          "source": "Trefis",
+          "title": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
+          "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+          "snippet": "After Nvidia (NVDA) stock surged 31% following news of Jensen Huang's reinstatement as CEO, Yahoo Finance Executive Editor Brian Sozzi takes a closer look at what CEO comebacks have historically done for their respective stocks."
         }
       ]
     },
     "CSCO": {
-      "price": 96.85,
-      "change": 6.21,
-      "changePercent": 6.85,
-      "chg": 6.85,
+      "price": 94.26,
+      "change": -2.54,
+      "changePercent": -2.62,
+      "chg": -2.62,
       "history": [
-        95.58,
         95.43,
         94.65,
         94.68,
@@ -106,10 +105,10 @@
         96.16,
         96.56,
         96.85,
-        96.85
+        96.85,
+        94.26
       ],
       "sp": [
-        95.58,
         95.43,
         94.65,
         94.68,
@@ -126,7 +125,8 @@
         96.16,
         96.56,
         96.85,
-        96.85
+        96.85,
+        94.26
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "HPE Sinks 14% Despite Raised Outlook as CFO Expects \u201cGross Margin to Moderate\u201d",
+          "source": "TIKR",
+          "date": "Nov 24, 2026",
+          "snippet": "Key TakeawaysHPE fell 14% despite a fourth-quarter beat and a raised 2027 outlook. With more AI servers in the mix, HPE expects operating profit to grow more slowly than revenue."
+        },
+        {
           "title": "Dell Just Dropped 26% in a Month. Steve Eisman Warns It Will \u201cSlow Along With Nvidia.\u201d Is He Right?",
           "source": "TIKR",
           "date": "Nov 24, 2026",
           "snippet": "Key TakeawaysDell fell 27% in a month with Super Micro and Nvidia, even after Monday\u2019s rebound. Estimates barely moved, so the selloff came out of the multiple, now back near its average."
-        },
-        {
-          "title": "Why Cisco Fans May Look To ETFs After Its OpenAI Security Push",
-          "source": "Simply Wall St.",
-          "date": "Nov 24, 2026",
-          "snippet": "Own Cisco Systems directly and you carry its specific problems on your shoulders. Simply Wall St flags that reports of a China-linked group targeting Cisco routers create a clear risk. Successful attacks on Cisco Systems infrastructure could weaken customer trust in its secure networking and security products. Holding Cisco inside a fund such as CIBR, VLUE or FDN mixes that single risk with many others. That also dilutes any upside from Cisco\u2019s successes. The fresh twist is Shirudo. Cisco and..."
         }
       ]
     },
     "COF": {
-      "price": 180.09,
-      "change": 1.43,
-      "changePercent": 0.8,
-      "chg": 0.8,
+      "price": 181.94,
+      "change": 1.93,
+      "changePercent": 1.07,
+      "chg": 1.07,
       "history": [
-        184.73,
         183.56,
         182.26,
         181.71,
@@ -187,10 +186,10 @@
         180.31,
         180.27,
         181.04,
-        180.09
+        180.09,
+        181.94
       ],
       "sp": [
-        184.73,
         183.56,
         182.26,
         181.71,
@@ -207,7 +206,8 @@
         180.31,
         180.27,
         181.04,
-        180.09
+        180.09,
+        181.94
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.37,
-      "change": 0.43,
-      "changePercent": 1.27,
-      "chg": 1.27,
+      "price": 34.69,
+      "change": 0.3,
+      "changePercent": 0.87,
+      "chg": 0.87,
       "history": [
-        34.31,
         34.26,
         34.22,
         34.19,
@@ -268,10 +267,10 @@
         34.4,
         34.42,
         34.39,
-        34.37
+        34.37,
+        34.69
       ],
       "sp": [
-        34.31,
         34.26,
         34.22,
         34.19,
@@ -288,7 +287,8 @@
         34.4,
         34.42,
         34.39,
-        34.37
+        34.37,
+        34.69
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 95.98,
-      "change": -1.01,
-      "changePercent": -1.04,
-      "chg": -1.04,
+      "price": 97.51,
+      "change": 1.63,
+      "changePercent": 1.7,
+      "chg": 1.7,
       "history": [
-        96.38,
         96.25,
         96.35,
         96.11,
@@ -349,10 +348,10 @@
         95.96,
         96.19,
         96.08,
-        95.98
+        95.98,
+        97.51
       ],
       "sp": [
-        96.38,
         96.25,
         96.35,
         96.11,
@@ -369,7 +368,8 @@
         95.96,
         96.19,
         96.08,
-        95.98
+        95.98,
+        97.51
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "These 3 Stocks Have Raised Their Dividends Annually for at Least 49 Years. Should you Buy Them?",
+          "title": "Coca-Cola at $95 or PepsiCo at $140: Which Dividend King Could Turn $1,000 Into More Money by 2036?",
           "source": "Motley Fool",
           "date": "Nov 24, 2026",
-          "snippet": "One of their annual raise streaks stands at 64."
+          "snippet": "Coca-Cola and PepsiCo have rewarded investors with decades of dividend growth. But which Dividend King offers the better opportunity to turn $1,000 into substantially more money over the next decade?"
         },
         {
-          "title": "BofA spots opportunities in these nine consumer staples stocks for 2027",
-          "source": "Investing.com",
+          "title": "Coca-Cola Shakes up Leadership, Names Pharma Veteran as CFO",
+          "source": "Benzinga",
           "date": "Nov 24, 2026",
-          "snippet": "Investing.com -- Bank of America has highlighted several U.S. consumer staples stocks as potential winners heading into 2027, as investors reconsider defensive holdings following a recent sector rally and look for companies with stronger earnings growth and improving sales prospects."
+          "snippet": "Coca-Cola Company (NYSE:KO) announced Monday the appointment of David Elkins as its incoming executive vice president and chief financial officer, effective April 2, 2027. Elkins will succeed John Murphy, who plans to retire in 2027 after nearly four decades with the beverage giant. Murphy, who has been CFO since 2019, will continue serving as president, supporting the CFO transition and advancing key enterprise priorities during 2027. Incoming CFO Brings Extensive Global Experience Elkins will"
         }
       ]
     },
     "MSFT": {
-      "price": 492.97,
-      "change": 8.45,
-      "changePercent": 1.74,
-      "chg": 1.74,
+      "price": 494.05,
+      "change": 1.55,
+      "changePercent": 0.31,
+      "chg": 0.31,
       "history": [
-        503.18,
         503.56,
         500.47,
         498.16,
@@ -430,10 +429,10 @@
         497.9,
         496.24,
         497.45,
-        492.97
+        492.97,
+        494.05
       ],
       "sp": [
-        503.18,
         503.56,
         500.47,
         498.16,
@@ -450,7 +449,8 @@
         497.9,
         496.24,
         497.45,
-        492.97
+        492.97,
+        494.05
       ],
       "sd": [
         0,
@@ -475,26 +475,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Is The Market Ignoring Amazon And Peers' Cash Collapse?",
-          "source": "Trefis",
+          "title": "Anthropic Sinks 7% Below IPO Price as AI Stocks Slide: Cramer Blames \u201cEndless Hammering of Small Bids\u201d",
+          "source": "TIKR",
           "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+          "snippet": "Key TakeawaysAnthropic fell 7% premarket to below its $83 IPO price as AI stocks, including Arm, gave back Monday\u2019s rally. The underwriters used the full greenshoe, so no one is left to support the stock at $83."
         },
         {
-          "title": "What Changed In Apple Stock's Story?",
-          "source": "Trefis",
+          "title": "Brad Gerstner Says Anthropic Will Be Worth $3 Trillion by the End of Next Year. Is That Realistic?",
+          "source": "24/7 Wall St.",
           "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+          "snippet": "Brad Gerstner built his bold Anthropic call on a single multiple, and the math demands revenue that dwarfs anything in the company's filing today. Price cuts, compute costs, and a hard timeline test how far that number can stretch."
         }
       ]
     },
     "NVDA": {
-      "price": 165.18,
-      "change": 39.65,
-      "changePercent": 31.59,
-      "chg": 31.59,
+      "price": 152.93,
+      "change": -12.12,
+      "changePercent": -7.34,
+      "chg": -7.34,
       "history": [
-        149.43,
         148.82,
         147.17,
         146.0,
@@ -511,10 +510,10 @@
         165.13,
         165.16,
         166.4,
-        165.18
+        165.18,
+        152.93
       ],
       "sp": [
-        149.43,
         148.82,
         147.17,
         146.0,
@@ -531,7 +530,8 @@
         165.13,
         165.16,
         166.4,
-        165.18
+        165.18,
+        152.93
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Stocks move lower as Nvidia euphoria wears off",
+          "title": "Nvidia stock in focus: Why CEO comebacks are usually good for shares",
           "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
-          "snippet": "Barron's reporter Jacob Sonenshine sits down with \"The 8:30\" hosts Julie Hyman and Jake Conley to take a closer look at the market action the day after Jensen Huang's return as Nvidia (NVDA) CEO."
+          "snippet": "After Nvidia (NVDA) stock surged 31% following news of Jensen Huang's reinstatement as CEO, Yahoo Finance Executive Editor Brian Sozzi takes a closer look at what CEO comebacks have historically done for their respective stocks."
         },
         {
-          "title": "Jensen Huang is back at Nvidia. Should AMD be worried?",
-          "source": "Yahoo Finance",
+          "title": "More shoes to drop: Nvidia's turmoil isn't over with Huang back",
+          "source": "Yahoo Finance Video",
           "date": "Nov 24, 2026",
-          "snippet": "AMD is in focus as it sees its biggest rival take a huge step to going back to business as usual."
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi runs down reporting from the Financial Times that says Nvidia's (NVDA) CFO and interim CEO, Collette Kress, was left out of talks to bring Jensen Huang back, and from The Wall Street Journal reporting that Huang had more affairs that he told the board about. "
         }
       ]
     },
     "UAL": {
-      "price": 108.76,
-      "change": 7.73,
-      "changePercent": 7.65,
-      "chg": 7.65,
+      "price": 106.73,
+      "change": -1.98,
+      "changePercent": -1.82,
+      "chg": -1.82,
       "history": [
-        106.55,
         106.64,
         106.32,
         105.55,
@@ -592,10 +591,10 @@
         108.45,
         108.93,
         109.64,
-        108.76
+        108.76,
+        106.73
       ],
       "sp": [
-        106.55,
         106.64,
         106.32,
         105.55,
@@ -612,7 +611,8 @@
         108.45,
         108.93,
         109.64,
-        108.76
+        108.76,
+        106.73
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 282.31,
-      "change": 17.02,
-      "changePercent": 6.42,
-      "chg": 6.42,
+      "price": 279.65,
+      "change": -2.45,
+      "changePercent": -0.87,
+      "chg": -0.87,
       "history": [
-        280.64,
         279.05,
         273.72,
         272.5,
@@ -673,10 +672,10 @@
         284.18,
         283.51,
         283.58,
-        282.31
+        282.31,
+        279.65
       ],
       "sp": [
-        280.64,
         279.05,
         273.72,
         272.5,
@@ -693,7 +692,8 @@
         284.18,
         283.51,
         283.58,
-        282.31
+        282.31,
+        279.65
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Google's Gemini 4 Neon gains momentum ahead of OpenAI, data shows",
-          "source": "Yahoo Finance Video",
+          "title": "Have robotaxis hit a tipping point? Wall Street and experts are split.",
+          "source": "Yahoo Finance",
           "date": "Nov 24, 2026",
-          "snippet": "Logan Kilpatrick, Google (GOOG) AI Studio and Gemini API Product Lead, joins Yahoo Finance's Deirdre Bosa\u2013as data shows Google's Gemini 4 Neon gaining momentum with developers\u2013to discuss how the company will focus on competing against Chinese open-source models."
+          "snippet": "Robotaxis are seemingly everywhere, especially if you live in a major city, but the robotaxi tipping point may be upon us."
         },
         {
-          "title": "Is The Market Ignoring Amazon And Peers' Cash Collapse?",
-          "source": "Trefis",
+          "title": "Amazon Is Reportedly Paying $7.5 Billion for Decart\u2019s AI Chip Software",
+          "source": "24/7 Wall St.",
           "date": "Nov 24, 2026",
-          "snippet": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire."
+          "snippet": "Nvidia's grip on AI rests on software, and Amazon just bought a team that built tools for Nvidia's own hardware. The price barely dents Amazon's budget, but one December event could prove whether the bet was smart or just expensive."
         }
       ]
     },
     "CCL": {
-      "price": 27.92,
-      "change": 1.33,
-      "changePercent": 5.0,
-      "chg": 5.0,
+      "price": 27.6,
+      "change": -0.31,
+      "changePercent": -1.11,
+      "chg": -1.11,
       "history": [
-        27.9,
         27.84,
         27.7,
         27.58,
@@ -754,10 +753,10 @@
         27.96,
         28.02,
         28.02,
-        27.92
+        27.92,
+        27.6
       ],
       "sp": [
-        27.9,
         27.84,
         27.7,
         27.58,
@@ -774,7 +773,8 @@
         27.96,
         28.02,
         28.02,
-        27.92
+        27.92,
+        27.6
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.61,
-      "change": 0.04,
-      "changePercent": 7.07,
-      "chg": 7.07,
+      "price": 0.58,
+      "change": -0.03,
+      "changePercent": -4.96,
+      "chg": -4.96,
       "history": [
-        0.63,
         0.63,
         0.63,
         0.64,
@@ -835,12 +834,12 @@
         0.63,
         0.6,
         0.61,
-        0.61
+        0.61,
+        0.58
       ],
       "sp": [
         0.63,
         0.63,
-        0.63,
         0.64,
         0.55,
         0.53,
@@ -855,7 +854,8 @@
         0.63,
         0.6,
         0.61,
-        0.61
+        0.61,
+        0.58
       ],
       "sd": [
         0,
