@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-25T14:16:28.726704+00:00",
-  "updated": "2026-11-25T14:16:28.726712+00:00",
+  "updatedAt": "2026-11-25T15:27:09.765745+00:00",
+  "updated": "2026-11-25T15:27:09.765753+00:00",
   "quotes": {
     "AAPL": {
-      "price": 354.19,
-      "change": 5.11,
-      "changePercent": 1.46,
-      "chg": 1.46,
+      "price": 346.05,
+      "change": -8.02,
+      "changePercent": -2.27,
+      "chg": -2.27,
       "history": [
-        344.96,
         343.0,
         343.34,
         342.68,
@@ -18,17 +17,17 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
         353.22,
         352.65,
         351.88,
-        354.19
+        354.19,
+        346.05
       ],
       "sp": [
-        344.96,
         343.0,
         343.34,
         342.68,
@@ -38,14 +37,15 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
         353.22,
         352.65,
         351.88,
-        354.19
+        354.19,
+        346.05
       ],
       "sd": [
         0,
@@ -70,26 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nasdaq Futures Tumble as AI Selloff Returns",
-          "source": "The Wall Street Journal",
+          "title": "Warren Buffett and Greg Abel Collect Billions From These Untouchable Berkshire Hathaway Dividend Stocks",
+          "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors\u2019 focus after Monday\u2019s Jensen Huang-powered market recovery faded."
+          "snippet": "Five Berkshire holdings never budged in the latest 13F, yet their yields range from a sliver to a hefty payout. Which ones actually deliver income for retirees, and which carry risks that could trim the checks?"
         },
         {
-          "title": "Market Chatter: Trump to Preside Over Taiwan Semiconductor Plant Expansion Ceremony in Arizona",
-          "source": "MT Newswires",
+          "title": "USA Rare Earth Drops 6% as China Extends Mineral Export Pause and New U.S. Tariffs Loom; Critical Metals Declines 5%, MP Materials Falls 3%",
+          "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "President Donald Trump will lead a groundbreaking ceremony on Dec. 4 for the expansion of a Taiwan S"
+          "snippet": "Beijing eases its grip on critical minerals while Washington readies a tariff probe, and rare earth investors cannot tell which move matters more. Three very different companies face the same squeeze, and only one has real cash to ride it out."
         }
       ]
     },
     "CSCO": {
-      "price": 94.01,
-      "change": -2.79,
-      "changePercent": -2.88,
-      "chg": -2.88,
+      "price": 91.48,
+      "change": -2.51,
+      "changePercent": -2.67,
+      "chg": -2.67,
       "history": [
-        91.89,
         91.1,
         90.75,
         90.68,
@@ -106,10 +105,10 @@
         94.18,
         94.29,
         93.83,
-        94.01
+        94.01,
+        91.48
       ],
       "sp": [
-        91.89,
         91.1,
         90.75,
         90.68,
@@ -126,7 +125,8 @@
         94.18,
         94.29,
         93.83,
-        94.01
+        94.01,
+        91.48
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Cisco Systems (CSCO) Unveils Shirudo for Real Time AI Cyber Defense",
-          "source": "Simply Wall St.",
+          "title": "Invest in the Laptops, Mainframes and Network Switches for Passive Income: $90,000 Across These 3 Tech Hardware Stocks Pays More Than $2,600 a Year",
+          "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "Cisco Systems (NasdaqGS: CSCO) and OpenAI announced Shirudo, a self-defending AI cybersecurity system for enterprises. Shirudo uses eBPF based agents to observe low level infrastructure activity and trigger real time automated threat responses. The platform is released as open source software, inviting enterprise security teams and developers to contribute and extend its capabilities. The Shirudo launch with OpenAI sits alongside broader shifts in Cisco's AI security positioning that recent..."
+          "snippet": "One stock in this trio yields more than double another, yet the highest payer faces a shrinking PC market and a CEO handoff. Which office hardware name earns your $30,000 the most, and which one is the riskiest?"
         },
         {
-          "title": "Cisco (CSCO) Stock May Be 29% Undervalued As AI Security News Builds",
-          "source": "Simply Wall St.",
+          "title": "$300,000 in IBM, Merck and Cisco Could Pay More Than $7,000 a Year in Dividends",
+          "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "Cisco Systems has delivered strong multi year share gains. With a recent pullback on the chart, the key question is whether the current price still aligns with the cash the business is expected to generate. Over the past 3 years, Cisco Systems has returned about 112%. This places significant focus on whether that share price climb is supported by the durability and level of its future cash flows. Fresh partnerships around AI driven networking and security, including projects like Shirudo and..."
+          "snippet": "One Dow giant just handed shareholders a raise, while another faces a patent cliff and a third leans on AI spending that could vanish fast. Which dividend check is safest, and which one hides the biggest risk?"
         }
       ]
     },
     "COF": {
-      "price": 181.43,
-      "change": 1.42,
-      "changePercent": 0.79,
-      "chg": 0.79,
+      "price": 177.16,
+      "change": -4.2,
+      "changePercent": -2.32,
+      "chg": -2.32,
       "history": [
-        180.6,
         180.13,
         179.72,
         178.68,
@@ -187,10 +186,10 @@
         182.77,
         181.9,
         181.14,
-        181.43
+        181.43,
+        177.16
       ],
       "sp": [
-        180.6,
         180.13,
         179.72,
         178.68,
@@ -207,7 +206,8 @@
         182.77,
         181.9,
         181.14,
-        181.43
+        181.43,
+        177.16
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.88,
-      "change": 0.49,
-      "changePercent": 1.42,
-      "chg": 1.42,
+      "price": 34.82,
+      "change": -0.07,
+      "changePercent": -0.2,
+      "chg": -0.2,
       "history": [
-        34.31,
         34.15,
         34.12,
         33.96,
@@ -268,10 +267,10 @@
         34.95,
         34.96,
         34.87,
-        34.88
+        34.88,
+        34.82
       ],
       "sp": [
-        34.31,
         34.15,
         34.12,
         33.96,
@@ -288,7 +287,8 @@
         34.95,
         34.96,
         34.87,
-        34.88
+        34.88,
+        34.82
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.73,
-      "change": 1.85,
-      "changePercent": 1.93,
-      "chg": 1.93,
+      "price": 97.77,
+      "change": 0.15,
+      "changePercent": 0.15,
+      "chg": 0.15,
       "history": [
-        97.61,
         97.32,
         97.43,
         97.0,
@@ -349,10 +348,10 @@
         97.93,
         97.81,
         97.72,
-        97.73
+        97.73,
+        97.77
       ],
       "sp": [
-        97.61,
         97.32,
         97.43,
         97.0,
@@ -369,7 +368,8 @@
         97.93,
         97.81,
         97.72,
-        97.73
+        97.73,
+        97.77
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Prediction: Coca-Cola Stock Will Close 2026 Over $100 per Share. Here\u2019s Why It\u2019s a No-Brainer Buy for 2027.",
-          "source": "Motley Fool",
+          "title": "Stock Market Today: Dow Dives 700 Points As Nvidia Sells Off, Inflation Rises; Anthropic Sinks (Live Coverage)",
+          "source": "Investor's Business Daily",
           "date": "Nov 25, 2026",
-          "snippet": "The beverage giant is ready to pop, in more ways than one."
+          "snippet": "The Dow Jones index dives 700 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge."
         },
         {
-          "title": "These 5 Dividend Stocks Are Brands You Use Every Day",
+          "title": "Warren Buffett and Greg Abel Collect Billions From These Untouchable Berkshire Hathaway Dividend Stocks",
           "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "Burgers, wireless plans, soda and snacks already drain your wallet every week. Five of those brands pay you back through dividends, but each one hides a risk that could shrink your next raise."
+          "snippet": "Five Berkshire holdings never budged in the latest 13F, yet their yields range from a sliver to a hefty payout. Which ones actually deliver income for retirees, and which carry risks that could trim the checks?"
         }
       ]
     },
     "MSFT": {
-      "price": 496.47,
-      "change": 3.97,
-      "changePercent": 0.81,
-      "chg": 0.81,
+      "price": 479.57,
+      "change": -16.56,
+      "changePercent": -3.34,
+      "chg": -3.34,
       "history": [
-        489.26,
         487.34,
         483.84,
         485.01,
@@ -430,10 +429,10 @@
         496.7,
         494.62,
         493.9,
-        496.47
+        496.47,
+        479.57
       ],
       "sp": [
-        489.26,
         487.34,
         483.84,
         485.01,
@@ -450,7 +449,8 @@
         496.7,
         494.62,
         493.9,
-        496.47
+        496.47,
+        479.57
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "After a 24-hour outage, Microsoft is racing to speed up fixes that took nearly a week to reach customers."
         },
         {
-          "title": "Did Take-Two Stock Beat A Falling Market?",
-          "source": "Trefis",
+          "title": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
+          "source": "Yahoo Finance",
           "date": "Nov 25, 2026",
-          "snippet": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back."
+          "snippet": "Stocks declined on Tuesday as the semiconductor sector retreated."
         }
       ]
     },
     "NVDA": {
-      "price": 155.48,
-      "change": -9.57,
-      "changePercent": -5.8,
-      "chg": -5.8,
+      "price": 143.28,
+      "change": -12.1,
+      "changePercent": -7.79,
+      "chg": -7.79,
       "history": [
-        135.79,
         130.54,
         128.29,
         125.79,
@@ -511,10 +510,10 @@
         153.48,
         153.23,
         152.79,
-        155.48
+        155.47,
+        143.28
       ],
       "sp": [
-        135.79,
         130.54,
         128.29,
         125.79,
@@ -531,7 +530,8 @@
         153.48,
         153.23,
         152.79,
-        155.48
+        155.47,
+        143.28
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall on hot inflation, new Trump tariffs",
-          "source": "Yahoo Finance",
+          "title": "Dan Ives: Nvidia sell-off a 'growth scare,' not a demand problem",
+          "source": "Yahoo Finance Video",
           "date": "Nov 25, 2026",
-          "snippet": "US stock futures fell on Wednesday as investors braced for Personal Consumption Expenditures (PCE) data and monitored tech volatility ahead of the Thanksgiving holiday."
+          "snippet": "Dan Ives, Yorkville Ives &amp; Co. Partner and Senior Managing Director, joins Yahoo Finance Executive Editor Brian Sozzi to break down the recent Nvidia (NVDA) sell-off and why it was a growth scare rather than a sign of weakening AI demand. "
         },
         {
-          "title": "Nvidia stock stumbles again after Jensen Huang's spectacular comeback rally",
-          "source": "Yahoo Finance",
+          "title": "5 reasons Nvidia stock is stumbling",
+          "source": "Yahoo Finance Video",
           "date": "Nov 25, 2026",
-          "snippet": "Nvidia continues to give back"
+          "snippet": "Nvidia (NVDA) stock is back under pressure as euphoria from Jensen Huang's return fades. Yahoo Finance Executive Editor Brian Sozzi takes a closer look at what exactly is driving the stock's movement."
         }
       ]
     },
     "UAL": {
-      "price": 107.8,
-      "change": -0.91,
-      "changePercent": -0.84,
-      "chg": -0.84,
+      "price": 101.9,
+      "change": -5.9,
+      "changePercent": -5.47,
+      "chg": -5.47,
       "history": [
-        101.98,
         101.44,
         100.91,
         101.11,
@@ -592,10 +591,10 @@
         107.49,
         107.54,
         107.07,
-        107.8
+        107.8,
+        101.9
       ],
       "sp": [
-        101.98,
         101.44,
         100.91,
         101.11,
@@ -612,7 +611,8 @@
         107.49,
         107.54,
         107.07,
-        107.8
+        107.8,
+        101.9
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 279.03,
-      "change": -3.07,
-      "changePercent": -1.09,
-      "chg": -1.09,
+      "price": 265.39,
+      "change": -13.66,
+      "changePercent": -4.9,
+      "chg": -4.9,
       "history": [
-        272.77,
         270.11,
         267.22,
         265.68,
@@ -673,10 +672,10 @@
         278.96,
         278.68,
         277.37,
-        279.03
+        279.03,
+        265.39
       ],
       "sp": [
-        272.77,
         270.11,
         267.22,
         265.68,
@@ -693,7 +692,8 @@
         278.96,
         278.68,
         277.37,
-        279.03
+        279.03,
+        265.39
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Not SpaceX, Not Anthropic: These Are the 2 AI Stocks I Bought During the Sell-Off",
-          "source": "Motley Fool",
+          "title": "Google Ends $75 Million News Deal Amid Regulatory Fight",
+          "source": "GuruFocus.com",
           "date": "Nov 25, 2026",
-          "snippet": "The recent sell-off created opportunities across the AI sector. Instead of buying SpaceX or Anthropic, I invested in two highly profitable technology giants with powerful long-term growth opportunities."
+          "snippet": "The decision could reshape how technology companies fund journalism."
         },
         {
-          "title": "Can NIQ Global Intelligence (NIQ) Hold Its Value After A 16% Slide?",
-          "source": "Simply Wall St.",
+          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "source": "Yahoo Finance",
           "date": "Nov 25, 2026",
-          "snippet": "NIQ Global Intelligence has pulled back sharply in recent weeks, even as the business leans harder into AI partnerships and data driven products. With the stock around US$16.83, the live question for investors is whether that price still lines up with the cash flows the company is expected to generate. The share price has fallen 15.9% over the past month, which puts fresh focus on whether recent weakness reflects a reassessment of NIQ Global Intelligence's underlying cash flow outlook or..."
+          "snippet": "Two days after Nvidia's record rebound, chip stocks are back where they started."
         }
       ]
     },
     "CCL": {
-      "price": 28.4,
-      "change": 0.49,
-      "changePercent": 1.76,
-      "chg": 1.76,
+      "price": 27.26,
+      "change": -1.14,
+      "changePercent": -4.01,
+      "chg": -4.01,
       "history": [
-        27.06,
         26.85,
         26.69,
         26.59,
@@ -754,10 +753,10 @@
         28.17,
         28.26,
         28.16,
-        28.4
+        28.4,
+        27.26
       ],
       "sp": [
-        27.06,
         26.85,
         26.69,
         26.59,
@@ -774,7 +773,8 @@
         28.17,
         28.26,
         28.16,
-        28.4
+        28.4,
+        27.26
       ],
       "sd": [
         0,
@@ -798,27 +798,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Carnival vs. Norwegian Cruise: Which Stock Has the Edge for 2027?",
+          "source": "Zacks",
+          "date": "Nov 25, 2026",
+          "snippet": "CCL enters 2027 with record bookings, improving yields and rising estimates, while NCLH targets a second-half recovery."
+        },
         {
           "title": "Should You Buy Carnival Stock For Its Cash?",
           "source": "Trefis",
           "date": "Nov 25, 2026",
           "snippet": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back."
-        },
-        {
-          "title": "Carnival (CCL) Gains As Market Dips: What You Should Know",
-          "source": "Zacks",
-          "date": "Nov 25, 2026",
-          "snippet": "Carnival (CCL) closed the most recent trading day at $28.4, moving +1.76% from the previous trading session."
         }
       ]
     },
     "SCLX": {
-      "price": 0.6,
-      "change": -0.01,
-      "changePercent": -1.65,
-      "chg": -1.65,
+      "price": 0.58,
+      "change": -0.02,
+      "changePercent": -3.34,
+      "chg": -3.34,
       "history": [
-        0.5,
         0.5,
         0.5,
         0.53,
@@ -835,12 +834,12 @@
         0.6,
         0.61,
         0.6,
-        0.6
+        0.6,
+        0.58
       ],
       "sp": [
         0.5,
         0.5,
-        0.5,
         0.53,
         0.53,
         0.59,
@@ -855,7 +854,8 @@
         0.6,
         0.61,
         0.6,
-        0.6
+        0.6,
+        0.58
       ],
       "sd": [
         0,
