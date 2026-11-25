@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-25T15:27:09.765745+00:00",
-  "updated": "2026-11-25T15:27:09.765753+00:00",
+  "updatedAt": "2026-11-25T16:41:43.444006+00:00",
+  "updated": "2026-11-25T16:41:43.444017+00:00",
   "quotes": {
     "AAPL": {
-      "price": 346.05,
-      "change": -8.02,
-      "changePercent": -2.27,
-      "chg": -2.27,
+      "price": 348.13,
+      "change": -5.94,
+      "changePercent": -1.68,
+      "chg": -1.68,
       "history": [
-        343.0,
-        343.34,
         342.68,
         351.18,
         348.38,
@@ -25,11 +23,11 @@
         352.65,
         351.88,
         354.19,
-        346.05
+        346.37,
+        348.08,
+        348.13
       ],
       "sp": [
-        343.0,
-        343.34,
         342.68,
         351.18,
         348.38,
@@ -45,7 +43,9 @@
         352.65,
         351.88,
         354.19,
-        346.05
+        346.37,
+        348.08,
+        348.13
       ],
       "sd": [
         0,
@@ -70,27 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Warren Buffett and Greg Abel Collect Billions From These Untouchable Berkshire Hathaway Dividend Stocks",
-          "source": "24/7 Wall St.",
+          "title": "Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal",
+          "source": "GuruFocus.com",
           "date": "Nov 25, 2026",
-          "snippet": "Five Berkshire holdings never budged in the latest 13F, yet their yields range from a sliver to a hefty payout. Which ones actually deliver income for retirees, and which carry risks that could trim the checks?"
+          "snippet": "Wedbush sees another sign that the AI spending boom remains intact."
         },
         {
-          "title": "USA Rare Earth Drops 6% as China Extends Mineral Export Pause and New U.S. Tariffs Loom; Critical Metals Declines 5%, MP Materials Falls 3%",
-          "source": "24/7 Wall St.",
+          "title": "How Warren Buffett Makes Billions from Dividends: Top 10 Stocks",
+          "source": "Insider Monkey",
           "date": "Nov 25, 2026",
-          "snippet": "Beijing eases its grip on critical minerals while Washington readies a tariff probe, and rare earth investors cannot tell which move matters more. Three very different companies face the same squeeze, and only one has real cash to ride it out."
+          "snippet": "Warren Buffett and dividends are an old love story that continues to this day, as Berkshire\u2019s latest 13F filing shows. The filing also reveals portfolio changes as CEO Greg Abel reshapes Berkshire\u2019s stock holdings after succeeding Buffett in January as the Omaha, Nebraska-based conglomerate\u2019s leader. Berkshire bought $2.37 billion worth of stocks in the third [\u2026]"
         }
       ]
     },
     "CSCO": {
-      "price": 91.48,
-      "change": -2.51,
-      "changePercent": -2.67,
-      "chg": -2.67,
+      "price": 91.58,
+      "change": -2.41,
+      "changePercent": -2.56,
+      "chg": -2.56,
       "history": [
-        91.1,
-        90.75,
         90.68,
         96.39,
         96.19,
@@ -106,11 +104,11 @@
         94.29,
         93.83,
         94.01,
-        91.48
+        91.6,
+        91.5,
+        91.58
       ],
       "sp": [
-        91.1,
-        90.75,
         90.68,
         96.39,
         96.19,
@@ -126,7 +124,9 @@
         94.29,
         93.83,
         94.01,
-        91.48
+        91.6,
+        91.5,
+        91.58
       ],
       "sd": [
         0,
@@ -151,27 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Invest in the Laptops, Mainframes and Network Switches for Passive Income: $90,000 Across These 3 Tech Hardware Stocks Pays More Than $2,600 a Year",
-          "source": "24/7 Wall St.",
+          "title": "Ten reasons the market is selling off again before Thanksgiving",
+          "source": "Yahoo Finance Video",
           "date": "Nov 25, 2026",
-          "snippet": "One stock in this trio yields more than double another, yet the highest payer faces a shrinking PC market and a CEO handoff. Which office hardware name earns your $30,000 the most, and which one is the riskiest?"
+          "snippet": "Sozzi Unleashed host Brian Sozzi runs through his list of 10 reasons stocks are selling off again two days after the Jensen Huang relief rally, from a hot PCE report and a possible December Fed hike to new tariffs of up to 20% on China and the EU, and five reasons Nvidia is back under pressure. He questions why Wall Street is shrugging off blowout quarters from Dell and HPE, with HPE CEO Antonio Neri weighing in on server pricing and why the company won't finance neoclouds. Yorkville Ives partner Dan Ives joins to argue the selloff is a growth scare, not a bubble, puts fair value on Anthropic as it trades below its IPO price, and previews Huang's testimony in Washington. Brian closes with Walmart's CFO on turkey sales, a look at retail stocks as gas prices fall for 31 straight days, and a Thanksgiving message to investors."
         },
         {
-          "title": "$300,000 in IBM, Merck and Cisco Could Pay More Than $7,000 a Year in Dividends",
+          "title": "Hewlett Packard Enterprise Lost 25% of Its Value Over 3 Months: One of The Biggest U.S. Banks Predicts 120% Gains Within 1 Year",
           "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "One Dow giant just handed shareholders a raise, while another faces a patent cliff and a third leans on AI spending that could vanish fast. Which dividend check is safest, and which one hides the biggest risk?"
+          "snippet": "HPE beat earnings and revenue estimates, yet investors dumped the stock in a single session. The culprit hides in the margin guidance, and one big bank thinks the market has misread what it means for the next year."
         }
       ]
     },
     "COF": {
-      "price": 177.16,
-      "change": -4.2,
-      "changePercent": -2.32,
-      "chg": -2.32,
+      "price": 178.19,
+      "change": -3.17,
+      "changePercent": -1.75,
+      "chg": -1.75,
       "history": [
-        180.13,
-        179.72,
         178.68,
         180.17,
         180.23,
@@ -187,11 +185,11 @@
         181.9,
         181.14,
         181.43,
-        177.16
+        177.08,
+        178.73,
+        178.19
       ],
       "sp": [
-        180.13,
-        179.72,
         178.68,
         180.17,
         180.23,
@@ -207,7 +205,9 @@
         181.9,
         181.14,
         181.43,
-        177.16
+        177.08,
+        178.73,
+        178.19
       ],
       "sd": [
         0,
@@ -246,13 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.82,
-      "change": -0.07,
-      "changePercent": -0.2,
-      "chg": -0.2,
+      "price": 34.89,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "chg": 0.0,
       "history": [
-        34.15,
-        34.12,
         33.96,
         34.35,
         34.42,
@@ -268,11 +266,11 @@
         34.96,
         34.87,
         34.88,
-        34.82
+        34.85,
+        34.92,
+        34.89
       ],
       "sp": [
-        34.15,
-        34.12,
         33.96,
         34.35,
         34.42,
@@ -288,7 +286,9 @@
         34.96,
         34.87,
         34.88,
-        34.82
+        34.85,
+        34.92,
+        34.89
       ],
       "sd": [
         0,
@@ -327,13 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.77,
-      "change": 0.15,
-      "changePercent": 0.15,
-      "chg": 0.15,
+      "price": 98.15,
+      "change": 0.53,
+      "changePercent": 0.54,
+      "chg": 0.54,
       "history": [
-        97.32,
-        97.43,
         97.0,
         95.79,
         96.17,
@@ -349,11 +347,11 @@
         97.81,
         97.72,
         97.73,
-        97.77
+        97.84,
+        98.11,
+        98.15
       ],
       "sp": [
-        97.32,
-        97.43,
         97.0,
         95.79,
         96.17,
@@ -369,7 +367,9 @@
         97.81,
         97.72,
         97.73,
-        97.77
+        97.84,
+        98.11,
+        98.15
       ],
       "sd": [
         0,
@@ -394,27 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Stock Market Today: Dow Dives 700 Points As Nvidia Sells Off, Inflation Rises; Anthropic Sinks (Live Coverage)",
-          "source": "Investor's Business Daily",
+          "title": "Coca-Cola Consolidated (COKE) Stock Is Up 5.9% Today Without Company News",
+          "source": "GuruFocus.com",
           "date": "Nov 25, 2026",
-          "snippet": "The Dow Jones index dives 700 points Wednesday on surprise inflation data. Nvidia and Anthropic plunge."
+          "snippet": "Coca-Cola Consolidated shares rose 5.9% on Wednesday, Nov. 25, without company-specific news, as the S&P 500 fell 2.9% in a tech-led selloff."
         },
         {
-          "title": "Warren Buffett and Greg Abel Collect Billions From These Untouchable Berkshire Hathaway Dividend Stocks",
-          "source": "24/7 Wall St.",
+          "title": "How Warren Buffett Makes Billions from Dividends: Top 5 Stocks",
+          "source": "Insider Monkey",
           "date": "Nov 25, 2026",
-          "snippet": "Five Berkshire holdings never budged in the latest 13F, yet their yields range from a sliver to a hefty payout. Which ones actually deliver income for retirees, and which carry risks that could trim the checks?"
+          "snippet": "Warren Buffett and dividends are an old love story that continues to this day, as Berkshire\u2019s latest 13F filing shows. The filing also reveals portfolio changes as CEO Greg Abel reshapes Berkshire\u2019s stock holdings after succeeding Buffett in January as the Omaha, Nebraska-based conglomerate\u2019s leader. Berkshire bought $2.37 billion worth of stocks in the third [\u2026]"
         }
       ]
     },
     "MSFT": {
-      "price": 479.57,
-      "change": -16.56,
-      "changePercent": -3.34,
-      "chg": -3.34,
+      "price": 479.86,
+      "change": -16.27,
+      "changePercent": -3.28,
+      "chg": -3.28,
       "history": [
-        487.34,
-        483.84,
         485.01,
         503.85,
         499.03,
@@ -430,11 +428,11 @@
         494.62,
         493.9,
         496.47,
-        479.57
+        479.16,
+        480.69,
+        479.86
       ],
       "sp": [
-        487.34,
-        483.84,
         485.01,
         503.85,
         499.03,
@@ -450,7 +448,9 @@
         494.62,
         493.9,
         496.47,
-        479.57
+        479.16,
+        480.69,
+        479.86
       ],
       "sd": [
         0,
@@ -481,21 +481,19 @@
           "snippet": "After a 24-hour outage, Microsoft is racing to speed up fixes that took nearly a week to reach customers."
         },
         {
-          "title": "Nasdaq 100 on pace to enter bear market as AI trade melts down: AlphaCheck",
-          "source": "Yahoo Finance",
+          "title": "Prediction: IREN\u2019s Microsoft Deal Could Be Just the Beginning of Its Next Growth Phase",
+          "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
-          "snippet": "Stocks declined on Tuesday as the semiconductor sector retreated."
+          "snippet": "IREN has dropped its Bitcoin mining roots and now owns the land, power, and data centers beneath its AI chips, yet the stock keeps sinking. What would it take for the market to finally notice, and could the price double?"
         }
       ]
     },
     "NVDA": {
-      "price": 143.28,
-      "change": -12.1,
-      "changePercent": -7.79,
-      "chg": -7.79,
+      "price": 141.87,
+      "change": -13.51,
+      "changePercent": -8.69,
+      "chg": -8.69,
       "history": [
-        130.54,
-        128.29,
         125.79,
         169.99,
         166.72,
@@ -511,11 +509,11 @@
         153.23,
         152.79,
         155.47,
-        143.28
+        143.28,
+        142.11,
+        141.87
       ],
       "sp": [
-        130.54,
-        128.29,
         125.79,
         169.99,
         166.72,
@@ -531,7 +529,9 @@
         153.23,
         152.79,
         155.47,
-        143.28
+        143.28,
+        142.11,
+        141.87
       ],
       "sd": [
         0,
@@ -556,27 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Dan Ives: Nvidia sell-off a 'growth scare,' not a demand problem",
+          "title": "Investing rules for those checking stocks during the Thanksgiving holiday",
           "source": "Yahoo Finance Video",
           "date": "Nov 25, 2026",
-          "snippet": "Dan Ives, Yorkville Ives &amp; Co. Partner and Senior Managing Director, joins Yahoo Finance Executive Editor Brian Sozzi to break down the recent Nvidia (NVDA) sell-off and why it was a growth scare rather than a sign of weakening AI demand. "
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi tells investors not to mistake a bad week for a bad strategy after a market sell-off, wild Nvidia (NVDA) swings, and Jensen Huang's return to the CEO chair, and urges discipline during the Thanksgiving holiday."
         },
         {
-          "title": "5 reasons Nvidia stock is stumbling",
-          "source": "Yahoo Finance Video",
+          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
+          "source": "Yahoo Finance",
           "date": "Nov 25, 2026",
-          "snippet": "Nvidia (NVDA) stock is back under pressure as euphoria from Jensen Huang's return fades. Yahoo Finance Executive Editor Brian Sozzi takes a closer look at what exactly is driving the stock's movement."
+          "snippet": "Two days after Nvidia's record rebound, chip stocks are back where they started."
         }
       ]
     },
     "UAL": {
-      "price": 101.9,
-      "change": -5.9,
-      "changePercent": -5.47,
-      "chg": -5.47,
+      "price": 101.82,
+      "change": -5.98,
+      "changePercent": -5.55,
+      "chg": -5.55,
       "history": [
-        101.44,
-        100.91,
         101.11,
         107.51,
         107.79,
@@ -592,11 +590,11 @@
         107.54,
         107.07,
         107.8,
-        101.9
+        102.16,
+        102.22,
+        101.82
       ],
       "sp": [
-        101.44,
-        100.91,
         101.11,
         107.51,
         107.79,
@@ -612,7 +610,9 @@
         107.54,
         107.07,
         107.8,
-        101.9
+        102.16,
+        102.22,
+        101.82
       ],
       "sd": [
         0,
@@ -651,13 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 265.39,
-      "change": -13.66,
-      "changePercent": -4.9,
-      "chg": -4.9,
+      "price": 265.0,
+      "change": -14.05,
+      "changePercent": -5.03,
+      "chg": -5.03,
       "history": [
-        270.11,
-        267.22,
         265.68,
         282.42,
         282.52,
@@ -673,11 +671,11 @@
         278.68,
         277.37,
         279.03,
-        265.39
+        265.8,
+        265.23,
+        265.0
       ],
       "sp": [
-        270.11,
-        267.22,
         265.68,
         282.42,
         282.52,
@@ -693,7 +691,9 @@
         278.68,
         277.37,
         279.03,
-        265.39
+        265.8,
+        265.23,
+        265.0
       ],
       "sd": [
         0,
@@ -718,27 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Google Ends $75 Million News Deal Amid Regulatory Fight",
+          "title": "Oracle, CoreWeave Face Stark Warning From Credit Markets",
           "source": "GuruFocus.com",
           "date": "Nov 25, 2026",
-          "snippet": "The decision could reshape how technology companies fund journalism."
+          "snippet": "A troubling financial signal is emerging beneath the AI boom."
         },
         {
-          "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
-          "source": "Yahoo Finance",
+          "title": "How Warren Buffett Makes Billions from Dividends: Top 10 Stocks",
+          "source": "Insider Monkey",
           "date": "Nov 25, 2026",
-          "snippet": "Two days after Nvidia's record rebound, chip stocks are back where they started."
+          "snippet": "Warren Buffett and dividends are an old love story that continues to this day, as Berkshire\u2019s latest 13F filing shows. The filing also reveals portfolio changes as CEO Greg Abel reshapes Berkshire\u2019s stock holdings after succeeding Buffett in January as the Omaha, Nebraska-based conglomerate\u2019s leader. Berkshire bought $2.37 billion worth of stocks in the third [\u2026]"
         }
       ]
     },
     "CCL": {
-      "price": 27.26,
-      "change": -1.14,
-      "changePercent": -4.01,
-      "chg": -4.01,
+      "price": 27.34,
+      "change": -1.06,
+      "changePercent": -3.73,
+      "chg": -3.73,
       "history": [
-        26.85,
-        26.69,
         26.59,
         28.2,
         28.12,
@@ -754,11 +752,11 @@
         28.26,
         28.16,
         28.4,
-        27.26
+        27.27,
+        27.37,
+        27.34
       ],
       "sp": [
-        26.85,
-        26.69,
         26.59,
         28.2,
         28.12,
@@ -774,7 +772,9 @@
         28.26,
         28.16,
         28.4,
-        27.26
+        27.27,
+        27.37,
+        27.34
       ],
       "sd": [
         0,
@@ -813,12 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.58,
-      "change": -0.02,
-      "changePercent": -3.34,
-      "chg": -3.34,
+      "price": 0.57,
+      "change": -0.03,
+      "changePercent": -5.01,
+      "chg": -5.01,
       "history": [
-        0.5,
         0.5,
         0.53,
         0.53,
@@ -835,11 +834,11 @@
         0.61,
         0.6,
         0.6,
-        0.58
+        0.58,
+        0.57
       ],
       "sp": [
         0.5,
-        0.5,
         0.53,
         0.53,
         0.59,
@@ -855,7 +854,8 @@
         0.61,
         0.6,
         0.6,
-        0.58
+        0.58,
+        0.57
       ],
       "sd": [
         0,
