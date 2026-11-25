@@ -1,14 +1,13 @@
 {
-  "updatedAt": "2026-11-25T16:41:43.444006+00:00",
-  "updated": "2026-11-25T16:41:43.444017+00:00",
+  "updatedAt": "2026-11-25T17:44:23.167406+00:00",
+  "updated": "2026-11-25T17:44:23.167414+00:00",
   "quotes": {
     "AAPL": {
-      "price": 348.13,
-      "change": -5.94,
-      "changePercent": -1.68,
-      "chg": -1.68,
+      "price": 352.79,
+      "change": -1.28,
+      "changePercent": -0.36,
+      "chg": -0.36,
       "history": [
-        342.68,
         351.18,
         348.38,
         348.58,
@@ -25,10 +24,10 @@
         354.19,
         346.37,
         348.08,
-        348.13
+        351.35,
+        352.79
       ],
       "sp": [
-        342.68,
         351.18,
         348.38,
         348.58,
@@ -45,7 +44,8 @@
         354.19,
         346.37,
         348.08,
-        348.13
+        351.35,
+        352.79
       ],
       "sd": [
         0,
@@ -70,26 +70,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027?",
+          "source": "Motley Fool",
+          "date": "Nov 25, 2026",
+          "snippet": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story."
+        },
+        {
           "title": "Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal",
           "source": "GuruFocus.com",
           "date": "Nov 25, 2026",
           "snippet": "Wedbush sees another sign that the AI spending boom remains intact."
-        },
-        {
-          "title": "How Warren Buffett Makes Billions from Dividends: Top 10 Stocks",
-          "source": "Insider Monkey",
-          "date": "Nov 25, 2026",
-          "snippet": "Warren Buffett and dividends are an old love story that continues to this day, as Berkshire\u2019s latest 13F filing shows. The filing also reveals portfolio changes as CEO Greg Abel reshapes Berkshire\u2019s stock holdings after succeeding Buffett in January as the Omaha, Nebraska-based conglomerate\u2019s leader. Berkshire bought $2.37 billion worth of stocks in the third [\u2026]"
         }
       ]
     },
     "CSCO": {
-      "price": 91.58,
-      "change": -2.41,
-      "changePercent": -2.56,
-      "chg": -2.56,
+      "price": 93.1,
+      "change": -0.89,
+      "changePercent": -0.95,
+      "chg": -0.95,
       "history": [
-        90.68,
         96.39,
         96.19,
         96.43,
@@ -106,10 +105,10 @@
         94.01,
         91.6,
         91.5,
-        91.58
+        92.62,
+        93.1
       ],
       "sp": [
-        90.68,
         96.39,
         96.19,
         96.43,
@@ -126,7 +125,8 @@
         94.01,
         91.6,
         91.5,
-        91.58
+        92.62,
+        93.1
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 178.19,
-      "change": -3.17,
-      "changePercent": -1.75,
-      "chg": -1.75,
+      "price": 181.32,
+      "change": -0.04,
+      "changePercent": -0.02,
+      "chg": -0.02,
       "history": [
-        178.68,
         180.17,
         180.23,
         179.39,
@@ -186,11 +185,11 @@
         181.14,
         181.43,
         177.08,
-        178.73,
-        178.19
+        178.72,
+        180.46,
+        181.32
       ],
       "sp": [
-        178.68,
         180.17,
         180.23,
         179.39,
@@ -206,8 +205,9 @@
         181.14,
         181.43,
         177.08,
-        178.73,
-        178.19
+        178.72,
+        180.46,
+        181.32
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 34.89,
-      "change": 0.0,
-      "changePercent": 0.0,
-      "chg": 0.0,
+      "price": 35.31,
+      "change": 0.42,
+      "changePercent": 1.2,
+      "chg": 1.2,
       "history": [
-        33.96,
         34.35,
         34.42,
         34.31,
@@ -268,10 +267,10 @@
         34.88,
         34.85,
         34.92,
-        34.89
+        35.17,
+        35.31
       ],
       "sp": [
-        33.96,
         34.35,
         34.42,
         34.31,
@@ -288,7 +287,8 @@
         34.88,
         34.85,
         34.92,
-        34.89
+        35.17,
+        35.31
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 98.15,
-      "change": 0.53,
-      "changePercent": 0.54,
-      "chg": 0.54,
+      "price": 98.62,
+      "change": 1.0,
+      "changePercent": 1.02,
+      "chg": 1.02,
       "history": [
-        97.0,
         95.79,
         96.17,
         95.62,
@@ -349,10 +348,10 @@
         97.73,
         97.84,
         98.11,
-        98.15
+        98.32,
+        98.62
       ],
       "sp": [
-        97.0,
         95.79,
         96.17,
         95.62,
@@ -369,7 +368,8 @@
         97.73,
         97.84,
         98.11,
-        98.15
+        98.32,
+        98.62
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 479.86,
-      "change": -16.27,
-      "changePercent": -3.28,
-      "chg": -3.28,
+      "price": 488.19,
+      "change": -7.94,
+      "changePercent": -1.6,
+      "chg": -1.6,
       "history": [
-        485.01,
         503.85,
         499.03,
         498.1,
@@ -430,10 +429,10 @@
         496.47,
         479.16,
         480.69,
-        479.86
+        485.1,
+        488.19
       ],
       "sp": [
-        485.01,
         503.85,
         499.03,
         498.1,
@@ -450,7 +449,8 @@
         496.47,
         479.16,
         480.69,
-        479.86
+        485.1,
+        488.19
       ],
       "sd": [
         0,
@@ -474,27 +474,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Japan's biggest banks pick Solana as Fidelity adds DeFi tokens",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 25, 2026",
+          "snippet": "Scott Melker covers a Neuberger Berman high-yield bond fund going live as collateral on Aave Horizon, Kraken's planned credit cards paying up to 4% back in Bitcoin, Gemini enabling shielded Zcash deposits, Coinkite's postmortem on the Coldcard hardware wallet bug, and a \"How Not to Invest\" segment on a Florida man who used an AI voice clone of a streamer to pull off a $260,000 crypto scam."
+        },
         {
           "title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
           "source": "Yahoo Finance",
           "date": "Nov 25, 2026",
           "snippet": "After a 24-hour outage, Microsoft is racing to speed up fixes that took nearly a week to reach customers."
-        },
-        {
-          "title": "Prediction: IREN\u2019s Microsoft Deal Could Be Just the Beginning of Its Next Growth Phase",
-          "source": "24/7 Wall St.",
-          "date": "Nov 25, 2026",
-          "snippet": "IREN has dropped its Bitcoin mining roots and now owns the land, power, and data centers beneath its AI chips, yet the stock keeps sinking. What would it take for the market to finally notice, and could the price double?"
         }
       ]
     },
     "NVDA": {
-      "price": 141.87,
-      "change": -13.51,
-      "changePercent": -8.69,
-      "chg": -8.69,
+      "price": 144.69,
+      "change": -10.69,
+      "changePercent": -6.88,
+      "chg": -6.88,
       "history": [
-        125.79,
         169.99,
         166.72,
         166.08,
@@ -511,10 +510,10 @@
         155.47,
         143.28,
         142.11,
-        141.87
+        143.77,
+        144.69
       ],
       "sp": [
-        125.79,
         169.99,
         166.72,
         166.08,
@@ -531,7 +530,8 @@
         155.47,
         143.28,
         142.11,
-        141.87
+        143.77,
+        144.69
       ],
       "sd": [
         0,
@@ -555,27 +555,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
-        {
-          "title": "Investing rules for those checking stocks during the Thanksgiving holiday",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 25, 2026",
-          "snippet": "Yahoo Finance Executive Editor Brian Sozzi tells investors not to mistake a bad week for a bad strategy after a market sell-off, wild Nvidia (NVDA) swings, and Jensen Huang's return to the CEO chair, and urges discipline during the Thanksgiving holiday."
-        },
         {
           "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next",
           "source": "Yahoo Finance",
           "date": "Nov 25, 2026",
           "snippet": "Two days after Nvidia's record rebound, chip stocks are back where they started."
+        },
+        {
+          "title": "Ten reasons the market is selling off again before Thanksgiving",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 25, 2026",
+          "snippet": "Sozzi Unleashed host Brian Sozzi runs through his list of 10 reasons stocks are selling off again two days after the Jensen Huang relief rally, from a hot PCE report and a possible December Fed hike to new tariffs of up to 20% on China and the EU, and five reasons Nvidia is back under pressure. He questions why Wall Street is shrugging off blowout quarters from Dell and HPE, with HPE CEO Antonio Neri weighing in on server pricing and why the company won't finance neoclouds. Yorkville Ives partner Dan Ives joins to argue the selloff is a growth scare, not a bubble, puts fair value on Anthropic as it trades below its IPO price, and previews Huang's testimony in Washington. Brian closes with Walmart's CFO on turkey sales, a look at retail stocks as gas prices fall for 31 straight days, and a Thanksgiving message to investors."
         }
       ]
     },
     "UAL": {
-      "price": 101.82,
-      "change": -5.98,
-      "changePercent": -5.55,
-      "chg": -5.55,
+      "price": 103.85,
+      "change": -3.95,
+      "changePercent": -3.66,
+      "chg": -3.66,
       "history": [
-        101.11,
         107.51,
         107.79,
         108.3,
@@ -592,10 +591,10 @@
         107.8,
         102.16,
         102.22,
-        101.82
+        103.65,
+        103.85
       ],
       "sp": [
-        101.11,
         107.51,
         107.79,
         108.3,
@@ -612,7 +611,8 @@
         107.8,
         102.16,
         102.22,
-        101.82
+        103.65,
+        103.85
       ],
       "sd": [
         0,
@@ -636,27 +636,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "JetBlue (JBLU) Up 33% Since Last Earnings Report: Can It Continue?",
+          "source": "Zacks",
+          "date": "Nov 25, 2026",
+          "snippet": "JetBlue (JBLU) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
+        },
         {
           "title": "Microsoft initiates \u2018Code Red\u2019 after most disruptive outage in company\u2019s history: report",
           "source": "NY Post",
           "date": "Nov 25, 2026",
           "snippet": "From Nov. 12 - 13, Teams, Outlook, Copilot and other Microsoft products went down due to an undetected Windows defect introduced in July, according to Microsoft CEO Satya Nadella."
-        },
-        {
-          "title": "Stanley Druckenmiller Sold Every Airline Stock He Owned Last Quarter, Including $108 Million of United Airlines",
-          "source": "TIKR",
-          "date": "Nov 25, 2026",
-          "snippet": "Key TakeawaysStanley Druckenmiller\u2019s Duquesne Family Office held no airline stocks at Sept. 30, after holding $108 million of United Airlines and $56 million of Delta Air Lines at the end of June."
         }
       ]
     },
     "GOOGL": {
-      "price": 265.0,
-      "change": -14.05,
-      "changePercent": -5.03,
-      "chg": -5.03,
+      "price": 270.52,
+      "change": -8.53,
+      "changePercent": -3.06,
+      "chg": -3.06,
       "history": [
-        265.68,
         282.42,
         282.52,
         283.23,
@@ -673,10 +672,10 @@
         279.03,
         265.8,
         265.23,
-        265.0
+        269.3,
+        270.52
       ],
       "sp": [
-        265.68,
         282.42,
         282.52,
         283.23,
@@ -693,7 +692,8 @@
         279.03,
         265.8,
         265.23,
-        265.0
+        269.3,
+        270.52
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Oracle, CoreWeave Face Stark Warning From Credit Markets",
-          "source": "GuruFocus.com",
+          "title": "DoubleLine\u2019s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg",
+          "source": "Investing.com",
           "date": "Nov 25, 2026",
-          "snippet": "A troubling financial signal is emerging beneath the AI boom."
+          "snippet": "Investing.com -- DoubleLine Capital has reversed its cautious stance on artificial intelligence debt, pivoting to become an active buyer following a steep selloff that widened corporate bond spreads to multi-year highs. Robert Cohen, director of corporate credit at the $90 billion-plus asset manager, noted in a Nov. 20 Bloomberg Intelligence Credit Edge podcast that prevailing prices and yields now adequately compensate investors for underlying sector risks."
         },
         {
-          "title": "How Warren Buffett Makes Billions from Dividends: Top 10 Stocks",
-          "source": "Insider Monkey",
+          "title": "Flash Heard: Credit Markets Are Back to Peak Worry About Some AI giants",
+          "source": "The Wall Street Journal",
           "date": "Nov 25, 2026",
-          "snippet": "Warren Buffett and dividends are an old love story that continues to this day, as Berkshire\u2019s latest 13F filing shows. The filing also reveals portfolio changes as CEO Greg Abel reshapes Berkshire\u2019s stock holdings after succeeding Buffett in January as the Omaha, Nebraska-based conglomerate\u2019s leader. Berkshire bought $2.37 billion worth of stocks in the third [\u2026]"
+          "snippet": "Traders appear to be seeking safety in bond markets."
         }
       ]
     },
     "CCL": {
-      "price": 27.34,
-      "change": -1.06,
-      "changePercent": -3.73,
-      "chg": -3.73,
+      "price": 27.97,
+      "change": -0.43,
+      "changePercent": -1.51,
+      "chg": -1.51,
       "history": [
-        26.59,
         28.2,
         28.12,
         27.95,
@@ -754,10 +753,10 @@
         28.4,
         27.27,
         27.37,
-        27.34
+        27.76,
+        27.97
       ],
       "sp": [
-        26.59,
         28.2,
         28.12,
         27.95,
@@ -774,7 +773,8 @@
         28.4,
         27.27,
         27.37,
-        27.34
+        27.76,
+        27.97
       ],
       "sd": [
         0,
@@ -813,13 +813,11 @@
       ]
     },
     "SCLX": {
-      "price": 0.57,
-      "change": -0.03,
-      "changePercent": -5.01,
-      "chg": -5.01,
+      "price": 0.59,
+      "change": -0.01,
+      "changePercent": -1.67,
+      "chg": -1.67,
       "history": [
-        0.5,
-        0.53,
         0.53,
         0.59,
         0.62,
@@ -835,11 +833,11 @@
         0.6,
         0.6,
         0.58,
-        0.57
+        0.57,
+        0.58,
+        0.59
       ],
       "sp": [
-        0.5,
-        0.53,
         0.53,
         0.59,
         0.62,
@@ -855,7 +853,9 @@
         0.6,
         0.6,
         0.58,
-        0.57
+        0.57,
+        0.58,
+        0.59
       ],
       "sd": [
         0,
