@@ -1,20 +1,19 @@
 {
-  "updatedAt": "2026-11-25T17:44:23.167406+00:00",
-  "updated": "2026-11-25T17:44:23.167414+00:00",
+  "updatedAt": "2026-11-25T18:43:54.545284+00:00",
+  "updated": "2026-11-25T18:43:54.545292+00:00",
   "quotes": {
     "AAPL": {
-      "price": 352.79,
-      "change": -1.28,
-      "changePercent": -0.36,
-      "chg": -0.36,
+      "price": 354.61,
+      "change": 0.54,
+      "changePercent": 0.15,
+      "chg": 0.15,
       "history": [
-        351.18,
         348.38,
         348.58,
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
@@ -25,16 +24,16 @@
         346.37,
         348.08,
         351.35,
-        352.79
+        354.81,
+        354.61
       ],
       "sp": [
-        351.18,
         348.38,
         348.58,
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
@@ -45,7 +44,8 @@
         346.37,
         348.08,
         351.35,
-        352.79
+        354.81,
+        354.61
       ],
       "sd": [
         0,
@@ -76,20 +76,19 @@
           "snippet": "Broadcom's AI and software push and Qualcomm's mobile dominance pull in very different directions, and their valuations tell a surprisingly close story."
         },
         {
-          "title": "Nvidia Chipmaker TSMC Sends $22.6 Billion AI Signal",
-          "source": "GuruFocus.com",
+          "title": "How 2 Quick Calls Sealed Berkshire Hathaway\u2019s $930M Bending Spoons Investment",
+          "source": "Barrons.com",
           "date": "Nov 25, 2026",
-          "snippet": "Wedbush sees another sign that the AI spending boom remains intact."
+          "snippet": "Berkshire Hathaway owns a 4% stake in Bending Spoons, having purchased $930 million in equity across July and October."
         }
       ]
     },
     "CSCO": {
-      "price": 93.1,
-      "change": -0.89,
-      "changePercent": -0.95,
-      "chg": -0.95,
+      "price": 93.83,
+      "change": -0.16,
+      "changePercent": -0.17,
+      "chg": -0.17,
       "history": [
-        96.39,
         96.19,
         96.43,
         96.16,
@@ -106,10 +105,10 @@
         91.6,
         91.5,
         92.62,
-        93.1
+        93.46,
+        93.83
       ],
       "sp": [
-        96.39,
         96.19,
         96.43,
         96.16,
@@ -126,7 +125,8 @@
         91.6,
         91.5,
         92.62,
-        93.1
+        93.46,
+        93.83
       ],
       "sd": [
         0,
@@ -165,12 +165,11 @@
       ]
     },
     "COF": {
-      "price": 181.32,
-      "change": -0.04,
-      "changePercent": -0.02,
-      "chg": -0.02,
+      "price": 182.69,
+      "change": 1.33,
+      "changePercent": 0.73,
+      "chg": 0.73,
       "history": [
-        180.17,
         180.23,
         179.39,
         180.31,
@@ -187,10 +186,10 @@
         177.08,
         178.72,
         180.46,
-        181.32
+        182.64,
+        182.69
       ],
       "sp": [
-        180.17,
         180.23,
         179.39,
         180.31,
@@ -207,7 +206,8 @@
         177.08,
         178.72,
         180.46,
-        181.32
+        182.64,
+        182.69
       ],
       "sd": [
         0,
@@ -246,12 +246,11 @@
       ]
     },
     "SCHD": {
-      "price": 35.31,
-      "change": 0.42,
-      "changePercent": 1.2,
-      "chg": 1.2,
+      "price": 35.38,
+      "change": 0.49,
+      "changePercent": 1.4,
+      "chg": 1.4,
       "history": [
-        34.35,
         34.42,
         34.31,
         34.4,
@@ -268,10 +267,10 @@
         34.85,
         34.92,
         35.17,
-        35.31
+        35.38,
+        35.38
       ],
       "sp": [
-        34.35,
         34.42,
         34.31,
         34.4,
@@ -288,7 +287,8 @@
         34.85,
         34.92,
         35.17,
-        35.31
+        35.38,
+        35.38
       ],
       "sd": [
         0,
@@ -313,26 +313,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "SPYD and SCHD Hold No Nvidia. Here\u2019s What You Give Up and What You Get",
+          "source": "24/7 Wall St.",
+          "date": "Nov 25, 2026",
+          "snippet": "Two dividend ETFs skipped the AI trade entirely and still left the S&P 500 behind this year. The reason has less to do with luck than with where the market quietly shifted, and the trade-offs may surprise income investors."
+        },
+        {
           "title": "This Dividend ETF Has Paid 77 Monthly Checks in a Row. 2 More to Pair With It for Retirement",
           "source": "24/7 Wall St.",
           "date": "Nov 25, 2026",
           "snippet": "JEPI pays like clockwork, yet its biggest strength hides a retirement risk that could quietly erode your income over 25 years. Two other funds fill the gap, and one holds a surprising growth stock inside a dividend portfolio."
-        },
-        {
-          "title": "$1 Million In VYM Matched VOO With Smaller Falls",
-          "source": "Trefis",
-          "date": "Nov 25, 2026",
-          "snippet": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back."
         }
       ]
     },
     "KO": {
-      "price": 98.62,
-      "change": 1.0,
-      "changePercent": 1.02,
-      "chg": 1.02,
+      "price": 98.36,
+      "change": 0.74,
+      "changePercent": 0.76,
+      "chg": 0.76,
       "history": [
-        95.79,
         96.17,
         95.62,
         95.96,
@@ -349,10 +348,10 @@
         97.84,
         98.11,
         98.32,
-        98.62
+        98.48,
+        98.36
       ],
       "sp": [
-        95.79,
         96.17,
         95.62,
         95.96,
@@ -369,7 +368,8 @@
         97.84,
         98.11,
         98.32,
-        98.62
+        98.48,
+        98.36
       ],
       "sd": [
         0,
@@ -408,12 +408,11 @@
       ]
     },
     "MSFT": {
-      "price": 488.19,
-      "change": -7.94,
-      "changePercent": -1.6,
-      "chg": -1.6,
+      "price": 490.57,
+      "change": -5.56,
+      "changePercent": -1.12,
+      "chg": -1.12,
       "history": [
-        503.85,
         499.03,
         498.1,
         497.9,
@@ -430,10 +429,10 @@
         479.16,
         480.69,
         485.1,
-        488.19
+        489.93,
+        490.57
       ],
       "sp": [
-        503.85,
         499.03,
         498.1,
         497.9,
@@ -450,7 +449,8 @@
         479.16,
         480.69,
         485.1,
-        488.19
+        489.93,
+        490.57
       ],
       "sd": [
         0,
@@ -481,20 +481,19 @@
           "snippet": "Scott Melker covers a Neuberger Berman high-yield bond fund going live as collateral on Aave Horizon, Kraken's planned credit cards paying up to 4% back in Bitcoin, Gemini enabling shielded Zcash deposits, Coinkite's postmortem on the Coldcard hardware wallet bug, and a \"How Not to Invest\" segment on a Florida man who used an AI voice clone of a streamer to pull off a $260,000 crypto scam."
         },
         {
-          "title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
-          "source": "Yahoo Finance",
+          "title": "Tariffs are back as Anthropic sinks further below its IPO price",
+          "source": "Yahoo Finance Video",
           "date": "Nov 25, 2026",
-          "snippet": "After a 24-hour outage, Microsoft is racing to speed up fixes that took nearly a week to reach customers."
+          "snippet": "The 8:30 hosts Julie Hyman and Jake Conley, joined on the couch by BD8 Capital Partners CEO and CIO Barbara Doran, tackle the top stories of the day. Including the Trump administration's sweeping new Section 301 tariffs of 20% on China and dozens of other economies, in-line PCE inflation and a third-quarter GDP revision up to 4.3% that keep a December Fed hike in play, Anthropic sliding toward $78 and well below its $83 IPO price, and whether Jensen Huang is the right leader for Nvidia in a new regulatory era."
         }
       ]
     },
     "NVDA": {
-      "price": 144.69,
-      "change": -10.69,
-      "changePercent": -6.88,
-      "chg": -6.88,
+      "price": 147.54,
+      "change": -7.84,
+      "changePercent": -5.05,
+      "chg": -5.05,
       "history": [
-        169.99,
         166.72,
         166.08,
         165.13,
@@ -507,14 +506,14 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
-        144.69
+        147.46,
+        147.54
       ],
       "sp": [
-        169.99,
         166.72,
         166.08,
         165.13,
@@ -527,11 +526,12 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
-        144.69
+        147.46,
+        147.54
       ],
       "sd": [
         0,
@@ -562,20 +562,19 @@
           "snippet": "Two days after Nvidia's record rebound, chip stocks are back where they started."
         },
         {
-          "title": "Ten reasons the market is selling off again before Thanksgiving",
-          "source": "Yahoo Finance Video",
+          "title": "China added nearly 10 times more power capacity than the US in 2025 as the AI race heats up",
+          "source": "Yahoo Finance",
           "date": "Nov 25, 2026",
-          "snippet": "Sozzi Unleashed host Brian Sozzi runs through his list of 10 reasons stocks are selling off again two days after the Jensen Huang relief rally, from a hot PCE report and a possible December Fed hike to new tariffs of up to 20% on China and the EU, and five reasons Nvidia is back under pressure. He questions why Wall Street is shrugging off blowout quarters from Dell and HPE, with HPE CEO Antonio Neri weighing in on server pricing and why the company won't finance neoclouds. Yorkville Ives partner Dan Ives joins to argue the selloff is a growth scare, not a bubble, puts fair value on Anthropic as it trades below its IPO price, and previews Huang's testimony in Washington. Brian closes with Walmart's CFO on turkey sales, a look at retail stocks as gas prices fall for 31 straight days, and a Thanksgiving message to investors."
+          "snippet": "While the US fights to maintain an edge in computing advancement, China has pulled far ahead in power capacity generation."
         }
       ]
     },
     "UAL": {
-      "price": 103.85,
-      "change": -3.95,
-      "changePercent": -3.66,
-      "chg": -3.66,
+      "price": 104.22,
+      "change": -3.58,
+      "changePercent": -3.32,
+      "chg": -3.32,
       "history": [
-        107.51,
         107.79,
         108.3,
         108.45,
@@ -592,10 +591,10 @@
         102.16,
         102.22,
         103.65,
-        103.85
+        104.61,
+        104.22
       ],
       "sp": [
-        107.51,
         107.79,
         108.3,
         108.45,
@@ -612,7 +611,8 @@
         102.16,
         102.22,
         103.65,
-        103.85
+        104.61,
+        104.22
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 270.52,
-      "change": -8.53,
-      "changePercent": -3.06,
-      "chg": -3.06,
+      "price": 270.93,
+      "change": -8.12,
+      "changePercent": -2.91,
+      "chg": -2.91,
       "history": [
-        282.42,
         282.52,
         283.23,
         284.18,
@@ -673,10 +672,10 @@
         265.8,
         265.23,
         269.3,
-        270.52
+        271.23,
+        270.93
       ],
       "sp": [
-        282.42,
         282.52,
         283.23,
         284.18,
@@ -693,7 +692,8 @@
         265.8,
         265.23,
         269.3,
-        270.52
+        271.23,
+        270.93
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
+          "source": "GuruFocus.com",
+          "date": "Nov 25, 2026",
+          "snippet": "SoftBank's market value now barely exceeds the $99.6 billion fair value of its OpenAI stake."
+        },
+        {
           "title": "DoubleLine\u2019s Cohen turns bullish on hyperscaler bonds after selloff - Bloomberg",
           "source": "Investing.com",
           "date": "Nov 25, 2026",
           "snippet": "Investing.com -- DoubleLine Capital has reversed its cautious stance on artificial intelligence debt, pivoting to become an active buyer following a steep selloff that widened corporate bond spreads to multi-year highs. Robert Cohen, director of corporate credit at the $90 billion-plus asset manager, noted in a Nov. 20 Bloomberg Intelligence Credit Edge podcast that prevailing prices and yields now adequately compensate investors for underlying sector risks."
-        },
-        {
-          "title": "Flash Heard: Credit Markets Are Back to Peak Worry About Some AI giants",
-          "source": "The Wall Street Journal",
-          "date": "Nov 25, 2026",
-          "snippet": "Traders appear to be seeking safety in bond markets."
         }
       ]
     },
     "CCL": {
-      "price": 27.97,
-      "change": -0.43,
-      "changePercent": -1.51,
-      "chg": -1.51,
+      "price": 28.2,
+      "change": -0.2,
+      "changePercent": -0.7,
+      "chg": -0.7,
       "history": [
-        28.2,
         28.12,
         27.95,
         27.96,
@@ -754,10 +753,10 @@
         27.27,
         27.37,
         27.76,
-        27.97
+        28.14,
+        28.2
       ],
       "sp": [
-        28.2,
         28.12,
         27.95,
         27.96,
@@ -774,7 +773,8 @@
         27.27,
         27.37,
         27.76,
-        27.97
+        28.14,
+        28.2
       ],
       "sd": [
         0,
@@ -813,10 +813,10 @@
       ]
     },
     "SCLX": {
-      "price": 0.59,
-      "change": -0.01,
-      "changePercent": -1.67,
-      "chg": -1.67,
+      "price": 0.64,
+      "change": 0.04,
+      "changePercent": 6.68,
+      "chg": 6.68,
       "history": [
         0.53,
         0.59,
@@ -835,7 +835,7 @@
         0.58,
         0.57,
         0.58,
-        0.59
+        0.64
       ],
       "sp": [
         0.53,
@@ -855,7 +855,7 @@
         0.58,
         0.57,
         0.58,
-        0.59
+        0.64
       ],
       "sd": [
         0,
