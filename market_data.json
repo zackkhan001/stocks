@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T18:50:22.645792+00:00",
-  "updated": "2026-11-26T18:50:22.645800+00:00",
+  "updatedAt": "2026-11-26T19:57:11.199830+00:00",
+  "updated": "2026-11-26T19:57:11.199838+00:00",
   "quotes": {
     "AAPL": {
       "price": 355.45,
@@ -11,7 +11,7 @@
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
@@ -31,7 +31,7 @@
         349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
@@ -70,16 +70,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
+          "source": "GuruFocus.com",
+          "date": "Nov 26, 2026",
+          "snippet": "Apple gained while the Nasdaq briefly fell 4.6%, as investors favored device-based AI over cloud spending despite rising memory costs."
+        },
+        {
           "title": "Apple Removes Talkie From App Store After Reports of Inappropriate AI Messages",
           "source": "GuruFocus.com",
           "date": "Nov 26, 2026",
           "snippet": "AI Chatbots Face New Child Safety Test. Apple Makes a Major Move Against MiniMax"
-        },
-        {
-          "title": "Apple, Exxon and Lowe\u2019s Are Rewarding Shareholders Beyond Their Regular Dividends",
-          "source": "24/7 Wall St.",
-          "date": "Nov 26, 2026",
-          "snippet": "One of these three dividend payers yields just 0.30%, another has stopped buying back shares entirely, and the third just promised never to cut its payout. Each handles the cash differently, and the differences matter if you live on portfolio income."
         }
       ]
     },
@@ -475,24 +475,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
+          "source": "GuruFocus.com",
+          "date": "Nov 26, 2026",
+          "snippet": "Microsoft's CEO said trailing frontier labs by three to six months is fine if Microsoft spends a fraction of their compute."
+        },
+        {
           "title": "Can NICE (TASE:NICE) Support A Reasonable Price On Earnings?",
           "source": "Simply Wall St.",
           "date": "Nov 26, 2026",
           "snippet": "NICE has seen its share price fall sharply over recent years, yet fresh product launches and partnerships keep attention on what investors are really paying for. The live question is whether the current US$303.00 price tag is properly grounded in the company\u2019s earnings power. Over the past 5 years the stock has fallen 67.4%, which puts the spotlight squarely on whether today\u2019s earnings can support even a partial rebuild in investor confidence. Recent launches around NICE Cognigy and deeper..."
-        },
-        {
-          "title": "Stanley Druckenmiller, Bill Ackman and 7 Other Famous Investors Own Amazon. Here\u2019s Who Bought and Sold Recently",
-          "source": "TIKR",
-          "date": "Nov 26, 2026",
-          "snippet": "Key TakeawaysNine famous investors held Amazon at Sept. 30, per their latest 13Fs, and Stanley Druckenmiller\u2019s family office added 43% to its stake in the quarter."
         }
       ]
     },
     "NVDA": {
-      "price": 149.29,
-      "change": -6.09,
-      "changePercent": -3.92,
-      "chg": -3.92,
+      "price": 149.27,
+      "change": -6.11,
+      "changePercent": -3.93,
+      "chg": -3.93,
       "history": [
         165.13,
         165.16,
@@ -504,14 +504,14 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.29
+        149.27
       ],
       "sp": [
         165.13,
@@ -524,14 +524,14 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.29
+        149.27
       ],
       "sd": [
         0,
@@ -651,10 +651,10 @@
       ]
     },
     "GOOGL": {
-      "price": 272.95,
-      "change": -6.1,
-      "changePercent": -2.19,
-      "chg": -2.19,
+      "price": 272.98,
+      "change": -6.07,
+      "changePercent": -2.18,
+      "chg": -2.18,
       "history": [
         284.18,
         283.51,
@@ -673,7 +673,7 @@
         271.23,
         273.04,
         272.1,
-        272.95
+        272.98
       ],
       "sp": [
         284.18,
@@ -693,7 +693,7 @@
         271.23,
         273.04,
         272.1,
-        272.95
+        272.98
       ],
       "sd": [
         0,
