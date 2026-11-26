@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T15:22:45.315246+00:00",
-  "updated": "2026-11-26T15:22:45.315253+00:00",
+  "updatedAt": "2026-11-26T16:41:17.822210+00:00",
+  "updated": "2026-11-26T16:41:17.822215+00:00",
   "quotes": {
     "AAPL": {
       "price": 355.45,
@@ -11,7 +11,7 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
@@ -31,7 +31,7 @@
         349.25,
         350.16,
         351.4,
-        349.62,
+        349.69,
         351.43,
         351.58,
         352.9,
@@ -70,16 +70,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+          "source": "24/7 Wall St.",
+          "date": "Nov 26, 2026",
+          "snippet": "A blockbuster growth revision sounds like a green light for stocks, yet the market barely cheered. Behind the headline sits a boom that is narrower than it looks, plus an inflation reading that complicates the rate-cut story."
+        },
+        {
           "title": "If You Invest $1,000 in Apple Today, Here\u2019s What It Could Be Worth by 2029",
           "source": "24/7 Wall St.",
           "date": "Nov 26, 2026",
           "snippet": "Apple just posted its best fiscal year ever, yet Wall Street's consensus target sits below today's price. A five-year model maps three very different paths for your money, and one of them barely moves the needle."
-        },
-        {
-          "title": "Michael Burry Makes Surprising Pivot on Stock Market",
-          "source": "GuruFocus.com",
-          "date": "Nov 26, 2026",
-          "snippet": "Wall Street's famous skeptic is quietly changing his playbook."
         }
       ]
     },
@@ -394,16 +394,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Coca-Cola (KO) Up 6.4% Since Last Earnings Report: Can It Continue?",
+          "source": "Zacks",
+          "date": "Nov 26, 2026",
+          "snippet": "Coca-Cola (KO) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues."
+        },
+        {
           "title": "Investing $500 a Month in Coca-Cola, Realty Income, and Altria Could Generate Over $1,000 in Monthly Dividend Income by 2046",
           "source": "Motley Fool",
           "date": "Nov 26, 2026",
           "snippet": "As the old adage goes, slow and steady wins the race. And as another adage reminds us, quality pays for itself."
-        },
-        {
-          "title": "Coca-Cola vs. Keurig Dr Pepper: Which Beverage Stock Looks Stronger?",
-          "source": "Zacks",
-          "date": "Nov 26, 2026",
-          "snippet": "KO and KDP battle for beverage supremacy, with stronger stock returns, market share gains and valuation shaping the investment comparison."
         }
       ]
     },
@@ -475,24 +475,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Michael Burry Makes Surprising Pivot on Stock Market",
-          "source": "GuruFocus.com",
+          "title": "Oracle Stock Dipped Under $100 as Banks Try to Unload Its Data-Center Loans",
+          "source": "24/7 Wall St.",
           "date": "Nov 26, 2026",
-          "snippet": "Wall Street's famous skeptic is quietly changing his playbook."
+          "snippet": "Oracle's backlog is huge and the demand is real, yet lenders are quietly accepting steep discounts on the debt behind its data centers. What does the bond market see that the analysts' bullish targets don't?"
         },
         {
-          "title": "Alphabet Drops 15% in a Year: Buy, Sell or Hold the Stock?",
-          "source": "Zacks",
+          "title": "Which Funds With Software Exposure Fit Rising US AI Spending?",
+          "source": "Simply Wall St.",
           "date": "Nov 26, 2026",
-          "snippet": "GOOGL shares have plunged 15% in a year as soaring AI spending and weakening cash flow overshadow robust Cloud growth. Is it time to buy, sell or hold?"
+          "snippet": "Software themed funds can look interchangeable from the ticker list, yet what sits inside can pull your money toward very different risks. Pick one without checking and you might think you are leaning into paid software demand, only to find most of your dollars riding on hardware or security instead. That gap matters more after the latest data on the US economy showed 4.3% annualised growth, with business software spending linked to AI a big contributor. When companies pay more for tools..."
         }
       ]
     },
     "NVDA": {
-      "price": 149.27,
-      "change": -6.11,
-      "changePercent": -3.93,
-      "chg": -3.93,
+      "price": 149.29,
+      "change": -6.09,
+      "changePercent": -3.92,
+      "chg": -3.92,
       "history": [
         165.13,
         165.16,
@@ -504,14 +504,14 @@
         153.48,
         153.23,
         152.79,
-        155.48,
+        155.47,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.27
+        149.29
       ],
       "sp": [
         165.13,
@@ -524,14 +524,14 @@
         153.48,
         153.23,
         152.79,
-        155.48,
+        155.47,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.27
+        149.29
       ],
       "sd": [
         0,
@@ -637,24 +637,24 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "An Airline CEO Sees an AI Signal Wall Street May Be Missing",
+          "source": "GuruFocus.com",
+          "date": "Nov 26, 2026",
+          "snippet": "A largely overlooked business could become increasingly lucrative."
+        },
+        {
           "title": "United Airlines (UAL) Suffers a Larger Drop Than the General Market: Key Insights",
           "source": "Zacks",
           "date": "Nov 26, 2026",
           "snippet": "United Airlines (UAL) concluded the recent trading session at $104.54, signifying a -3.03% move from its prior day's close."
-        },
-        {
-          "title": "Stanley Druckenmiller, David Tepper and 5 Other Famous Investors Own SpaceX. Here\u2019s Who Bought and Sold Recently",
-          "source": "TIKR",
-          "date": "Nov 26, 2026",
-          "snippet": "Key TakeawaysSeven famous investors held SpaceX at Sept. 30, and five of them bought more in the third quarter, led by David Tepper\u2019s Appaloosa and Cathie Wood\u2019s ARK Invest."
         }
       ]
     },
     "GOOGL": {
-      "price": 272.98,
-      "change": -6.07,
-      "changePercent": -2.18,
-      "chg": -2.18,
+      "price": 272.95,
+      "change": -6.1,
+      "changePercent": -2.19,
+      "chg": -2.19,
       "history": [
         284.18,
         283.51,
@@ -673,7 +673,7 @@
         271.23,
         273.04,
         272.1,
-        272.98
+        272.95
       ],
       "sp": [
         284.18,
@@ -693,7 +693,7 @@
         271.23,
         273.04,
         272.1,
-        272.98
+        272.95
       ],
       "sd": [
         0,
@@ -718,16 +718,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "A 26-year-old Google worker earns $323K but spends under $20K a year \u2014 his plan for financial freedom",
+          "source": "Moneywise",
+          "date": "Nov 26, 2026",
+          "snippet": "A Google AI analyst saves most of his $323K income, spending just $1,477 a month while chasing independence."
+        },
+        {
           "title": "AI's self-improvement era is nearly here. It will be felt everywhere",
           "source": "Yahoo Finance Video",
           "date": "Nov 26, 2026",
           "snippet": "In the Loop host Ejaaz Ahamadeen\u00a0talks about how Anthropic's (ANT) revenue has blown past CEO Dario Amodei's early-year forecast because AI models are nearing recursive self-improvement and the broader economy will feel the effects in 2027. "
-        },
-        {
-          "title": "3 AI Infrastructure Stocks That Pay You While You Wait",
-          "source": "24/7 Wall St.",
-          "date": "Nov 26, 2026",
-          "snippet": "The AI selloff has hammered chip and power stocks, yet three companies powering the buildout keep raising payouts that earnings and cash flow cover many times over. The yields look tiny, so what makes these dividends worth the wait?"
         }
       ]
     },
