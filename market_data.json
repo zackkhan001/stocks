@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T19:38:46.079040+00:00",
-  "updated": "2026-11-27T19:38:46.079048+00:00",
+  "updatedAt": "2026-11-27T20:35:07.012219+00:00",
+  "updated": "2026-11-27T20:35:07.012229+00:00",
   "quotes": {
     "AAPL": {
       "price": 358.7,
@@ -76,10 +76,10 @@
           "snippet": "Apple's share of US smartphone shipments jumped to 57% in the third quarter from 50% a year earlier as rising memory costs squeezed makers of budget Android phones, according to Counterpoint Research."
         },
         {
-          "title": "New $799 smart glasses challenge Apple, but with a major catch",
-          "source": "TheStreet",
+          "title": "Amazon, Target and Walmart Chase Holiday Toy Spending",
+          "source": "GuruFocus.com",
           "date": "Nov 27, 2026",
-          "snippet": "A startup promises Vision Pro-style controls in ordinary-looking glasses."
+          "snippet": "Popular toys, gaming consoles and electronic devices are driving competition among retailers during the holiday shopping season."
         }
       ]
     },
@@ -475,16 +475,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Should You Pick Palantir Over Its Big Tech Rivals?",
+          "source": "Trefis",
+          "date": "Nov 27, 2026",
+          "snippet": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next."
+        },
+        {
           "title": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
           "source": "Simply Wall St.",
           "date": "Nov 27, 2026",
           "snippet": "The analyst fair value estimate for IREN has shifted from US$56.69 to US$52.74, pointing to a modest reset in the price target used in current valuation work. This updated view comes against a backdrop of sharp share price swings following IREN\u2019s Q1 update, moves in Microsoft\u2019s capex guidance, and sentiment shifts around AI cloud infrastructure tied to Nvidia\u2019s GPU ecosystem. As you read on, you will see how these valuation changes fit into the broader IREN story and what to watch as the..."
-        },
-        {
-          "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
-          "source": "GuruFocus.com",
-          "date": "Nov 27, 2026",
-          "snippet": "Internal memos show Microsoft overhauling Microsoft 365 reliability after a near 24-hour outage hit Outlook, Teams and Copilot worldwide."
         }
       ]
     },
