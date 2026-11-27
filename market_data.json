@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T18:26:30.568237+00:00",
-  "updated": "2026-11-27T18:26:30.568244+00:00",
+  "updatedAt": "2026-11-27T19:38:46.079040+00:00",
+  "updated": "2026-11-27T19:38:46.079048+00:00",
   "quotes": {
     "AAPL": {
       "price": 358.7,
@@ -165,10 +165,10 @@
       ]
     },
     "COF": {
-      "price": 185.16,
-      "change": 2.64,
-      "changePercent": 1.45,
-      "chg": 1.45,
+      "price": 184.9,
+      "change": 2.38,
+      "changePercent": 1.3,
+      "chg": 1.3,
       "history": [
         181.24,
         181.88,
@@ -187,7 +187,7 @@
         185.47,
         186.08,
         185.55,
-        185.16
+        184.9
       ],
       "sp": [
         181.24,
@@ -207,7 +207,7 @@
         185.47,
         186.08,
         185.55,
-        185.16
+        184.9
       ],
       "sd": [
         0,
@@ -475,16 +475,16 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
+          "title": "IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings",
           "source": "Simply Wall St.",
           "date": "Nov 27, 2026",
-          "snippet": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's..."
+          "snippet": "The analyst fair value estimate for IREN has shifted from US$56.69 to US$52.74, pointing to a modest reset in the price target used in current valuation work. This updated view comes against a backdrop of sharp share price swings following IREN\u2019s Q1 update, moves in Microsoft\u2019s capex guidance, and sentiment shifts around AI cloud infrastructure tied to Nvidia\u2019s GPU ecosystem. As you read on, you will see how these valuation changes fit into the broader IREN story and what to watch as the..."
         },
         {
-          "title": "Franklin Templeton Flags Hidden Risk in S&P 500 Investing",
+          "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
           "source": "GuruFocus.com",
           "date": "Nov 27, 2026",
-          "snippet": "Wall Street's biggest growth story comes with a catch."
+          "snippet": "Internal memos show Microsoft overhauling Microsoft 365 reliability after a near 24-hour outage hit Outlook, Teams and Copilot worldwide."
         }
       ]
     },
@@ -556,16 +556,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+          "source": "Yahoo Finance",
+          "date": "Nov 27, 2026",
+          "snippet": "Wall Street is no longer running for the exits as chipmakers pull stocks off Wednesday's lows."
+        },
+        {
           "title": "Why this portfolio manager says investors should 'avoid the neoclouds'",
           "source": "Yahoo Finance Video",
           "date": "Nov 27, 2026",
           "snippet": "Washington Crossing Advisors senior portfolio manager Chad Morganlander chats with Yahoo Finance Executive Editor Brian Sozzi about how investors should be approaching dip buying, the AI trade, and more."
-        },
-        {
-          "title": "PacSun CEO talks brand resurgence, holiday shopping season boom",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 27, 2026",
-          "snippet": "Yahoo Finance Executive Editor Brian Sozzi is joined on Sozzi Unleashed by PacSun CEO Brianne Olsen to discuss the brand's resurgence and what to expect from the holiday shopping season."
         }
       ]
     },
@@ -718,16 +718,16 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "AppLovin vs. Magnite: Which Technology Stock Is a Better Buy for 2027?",
-          "source": "Motley Fool",
+          "title": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
+          "source": "GuruFocus.com",
           "date": "Nov 27, 2026",
-          "snippet": "Two ad-tech stocks, one with explosive growth and sky-high margins, the other a conservative bet on connected TV, with very different balance sheets."
+          "snippet": "Shares lag a tech rebound near a 52-week low, after $51.4 billion of quarterly capex pushed free cash flow negative."
         },
         {
-          "title": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
-          "source": "Simply Wall St.",
+          "title": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
+          "source": "Insider Monkey",
           "date": "Nov 27, 2026",
-          "snippet": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's..."
+          "snippet": "The Nasdaq-100 briefly fell 20% below its October 6 record closing high on November 25 before recovering much of the day\u2019s loss. The sell-off had picked up weeks earlier. On November 5, the Nasdaq Composite fell 5.5% as investors reconsidered how quickly the U.S. could build out AI infrastructure after the midterm elections. By late [\u2026]"
         }
       ]
     },
