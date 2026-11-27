@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-27T17:33:14.255368+00:00",
-  "updated": "2026-11-27T17:33:14.255375+00:00",
+  "updatedAt": "2026-11-27T18:26:30.568237+00:00",
+  "updated": "2026-11-27T18:26:30.568244+00:00",
   "quotes": {
     "AAPL": {
-      "price": 358.2,
-      "change": 2.62,
-      "changePercent": 0.74,
-      "chg": 0.74,
+      "price": 358.7,
+      "change": 3.12,
+      "changePercent": 0.88,
+      "chg": 0.88,
       "history": [
         351.43,
         351.58,
@@ -25,7 +25,7 @@
         358.42,
         356.93,
         357.99,
-        358.2
+        358.7
       ],
       "sp": [
         351.43,
@@ -45,7 +45,7 @@
         358.42,
         356.93,
         357.99,
-        358.2
+        358.7
       ],
       "sd": [
         0,
@@ -84,10 +84,10 @@
       ]
     },
     "CSCO": {
-      "price": 96.51,
-      "change": 2.31,
-      "changePercent": 2.45,
-      "chg": 2.45,
+      "price": 97.09,
+      "change": 2.89,
+      "changePercent": 3.07,
+      "chg": 3.07,
       "history": [
         93.72,
         93.04,
@@ -106,7 +106,7 @@
         95.84,
         96.29,
         96.46,
-        96.51
+        97.09
       ],
       "sp": [
         93.72,
@@ -126,7 +126,7 @@
         95.84,
         96.29,
         96.46,
-        96.51
+        97.09
       ],
       "sd": [
         0,
@@ -165,10 +165,10 @@
       ]
     },
     "COF": {
-      "price": 185.32,
-      "change": 2.8,
-      "changePercent": 1.53,
-      "chg": 1.53,
+      "price": 185.16,
+      "change": 2.64,
+      "changePercent": 1.45,
+      "chg": 1.45,
       "history": [
         181.24,
         181.88,
@@ -186,8 +186,8 @@
         182.62,
         185.47,
         186.08,
-        185.59,
-        185.32
+        185.55,
+        185.16
       ],
       "sp": [
         181.24,
@@ -206,8 +206,8 @@
         182.62,
         185.47,
         186.08,
-        185.59,
-        185.32
+        185.55,
+        185.16
       ],
       "sd": [
         0,
@@ -246,10 +246,10 @@
       ]
     },
     "SCHD": {
-      "price": 35.67,
-      "change": 0.38,
-      "changePercent": 1.08,
-      "chg": 1.08,
+      "price": 35.6,
+      "change": 0.31,
+      "changePercent": 0.88,
+      "chg": 0.88,
       "history": [
         34.66,
         34.81,
@@ -268,7 +268,7 @@
         35.58,
         35.6,
         35.65,
-        35.67
+        35.6
       ],
       "sp": [
         34.66,
@@ -288,7 +288,7 @@
         35.58,
         35.6,
         35.65,
-        35.67
+        35.6
       ],
       "sd": [
         0,
@@ -327,10 +327,10 @@
       ]
     },
     "KO": {
-      "price": 97.69,
-      "change": 0.1,
-      "changePercent": 0.1,
-      "chg": 0.1,
+      "price": 97.67,
+      "change": 0.08,
+      "changePercent": 0.08,
+      "chg": 0.08,
       "history": [
         97.4,
         98.14,
@@ -349,7 +349,7 @@
         97.25,
         97.37,
         97.6,
-        97.69
+        97.67
       ],
       "sp": [
         97.4,
@@ -369,7 +369,7 @@
         97.25,
         97.37,
         97.6,
-        97.69
+        97.67
       ],
       "sd": [
         0,
@@ -408,10 +408,10 @@
       ]
     },
     "MSFT": {
-      "price": 491.38,
-      "change": 1.45,
-      "changePercent": 0.3,
-      "chg": 0.3,
+      "price": 493.38,
+      "change": 3.45,
+      "changePercent": 0.7,
+      "chg": 0.7,
       "history": [
         494.48,
         496.14,
@@ -430,7 +430,7 @@
         490.36,
         490.46,
         491.66,
-        491.38
+        493.38
       ],
       "sp": [
         494.48,
@@ -450,7 +450,7 @@
         490.36,
         490.46,
         491.66,
-        491.38
+        493.38
       ],
       "sd": [
         0,
@@ -475,24 +475,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Sector Update: Tech Stocks Gain Friday Afternoon",
-          "source": "MT Newswires",
+          "title": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
+          "source": "Simply Wall St.",
           "date": "Nov 27, 2026",
-          "snippet": "Tech stocks were higher Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X"
+          "snippet": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's..."
         },
         {
-          "title": "Did Billionaire Bill Ackman Lose Confidence in Microsoft? The Answer Might Surprise You",
-          "source": "Motley Fool",
+          "title": "Franklin Templeton Flags Hidden Risk in S&P 500 Investing",
+          "source": "GuruFocus.com",
           "date": "Nov 27, 2026",
-          "snippet": "Form 13Fs don\u2019t always tell the whole story."
+          "snippet": "Wall Street's biggest growth story comes with a catch."
         }
       ]
     },
     "NVDA": {
-      "price": 149.21,
-      "change": -0.09,
-      "changePercent": -0.06,
-      "chg": -0.06,
+      "price": 150.62,
+      "change": 1.32,
+      "changePercent": 0.88,
+      "chg": 0.88,
       "history": [
         152.46,
         151.47,
@@ -500,18 +500,18 @@
         153.48,
         153.23,
         152.79,
-        155.48,
+        155.47,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.27,
+        149.29,
         146.97,
         148.77,
         149.35,
-        149.21
+        150.62
       ],
       "sp": [
         152.46,
@@ -520,18 +520,18 @@
         153.48,
         153.23,
         152.79,
-        155.48,
+        155.47,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.27,
+        149.29,
         146.97,
         148.77,
         149.35,
-        149.21
+        150.62
       ],
       "sd": [
         0,
@@ -570,10 +570,10 @@
       ]
     },
     "UAL": {
-      "price": 107.57,
-      "change": 3.05,
-      "changePercent": 2.92,
-      "chg": 2.92,
+      "price": 108.13,
+      "change": 3.61,
+      "changePercent": 3.45,
+      "chg": 3.45,
       "history": [
         106.39,
         106.22,
@@ -592,7 +592,7 @@
         106.46,
         107.36,
         107.97,
-        107.57
+        108.13
       ],
       "sp": [
         106.39,
@@ -612,7 +612,7 @@
         106.46,
         107.36,
         107.97,
-        107.57
+        108.13
       ],
       "sd": [
         0,
@@ -636,25 +636,25 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Viking, IBD Stock Of The Day, Is Cruising Toward Buy Points After Scraping Bottom",
+          "source": "Investor's Business Daily",
+          "date": "Nov 27, 2026",
+          "snippet": "Stock Of The Day: Low river levels hit Viking over the summer, but travel stocks are rebounding with easing oil prices."
+        },
         {
           "title": "Can American Airlines Stock Jump 40%?",
           "source": "Trefis",
           "date": "Nov 27, 2026",
           "snippet": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next."
-        },
-        {
-          "title": "Could United Airlines Holdings (UAL) Be 30% Undervalued After The Freight Demand Story?",
-          "source": "Simply Wall St.",
-          "date": "Nov 27, 2026",
-          "snippet": "United Airlines Holdings (UAL) is back in focus after a reported surge in air freight demand for servers and semiconductors, highlighting how cargo linked to high-value technology hardware intersects with the airline\u2019s passenger network. The latest freight story comes in a mixed year for United Airlines Holdings. The share price is down 7.5% year to date and slipped 5.5% over the past 90 days, yet total shareholder return over five years is up about 157%. This suggests long-term holders have..."
         }
       ]
     },
     "GOOGL": {
-      "price": 273.89,
-      "change": 0.79,
-      "changePercent": 0.29,
-      "chg": 0.29,
+      "price": 274.78,
+      "change": 1.68,
+      "changePercent": 0.62,
+      "chg": 0.62,
       "history": [
         278.22,
         277.02,
@@ -669,11 +669,11 @@
         271.23,
         273.04,
         272.1,
-        272.98,
+        272.95,
         270.84,
         273.23,
         273.71,
-        273.89
+        274.78
       ],
       "sp": [
         278.22,
@@ -689,11 +689,11 @@
         271.23,
         273.04,
         272.1,
-        272.98,
+        272.95,
         270.84,
         273.23,
         273.71,
-        273.89
+        274.78
       ],
       "sd": [
         0,
@@ -718,24 +718,24 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Sector Update: Tech Stocks Gain Friday Afternoon",
-          "source": "MT Newswires",
+          "title": "AppLovin vs. Magnite: Which Technology Stock Is a Better Buy for 2027?",
+          "source": "Motley Fool",
           "date": "Nov 27, 2026",
-          "snippet": "Tech stocks were higher Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X"
+          "snippet": "Two ad-tech stocks, one with explosive growth and sky-high margins, the other a conservative bet on connected TV, with very different balance sheets."
         },
         {
-          "title": "3 Ways To Own Alphabet In ETFs When Each Fund Holds It Differently",
+          "title": "What Does Alphabet (GOOGL) Need To Prove After The Air Force Cloud Breach?",
           "source": "Simply Wall St.",
           "date": "Nov 27, 2026",
-          "snippet": "Owning Alphabet directly means you carry its specific problems on your own. Simply Wall St flags the risk that further fines or forced changes to how it runs ads and artificial intelligence tools could hit advertising reach and earnings power. A fund that holds Alphabet alongside many other businesses dilutes how much those company issues move your overall portfolio, and also tones down any upside Alphabet delivers. Right now that trade off is in focus because hackers breached the US Air..."
+          "snippet": "Alphabet (NasdaqGS:GOOGL) is a key provider to the US Air Force's Cloud One platform that has been breached by hackers. The cyber intrusion disrupted parts of Cloud One operations and potentially exposed sensitive military and logistics information, according to initial Air Force briefings. Cloud One also relies on infrastructure from Microsoft, Amazon and Oracle, raising wider questions about security coordination across major contractors. The Cloud One breach involving Alphabet's..."
         }
       ]
     },
     "CCL": {
-      "price": 28.01,
-      "change": 0.01,
-      "changePercent": 0.04,
-      "chg": 0.04,
+      "price": 28.07,
+      "change": 0.07,
+      "changePercent": 0.25,
+      "chg": 0.25,
       "history": [
         27.53,
         27.61,
@@ -754,7 +754,7 @@
         27.92,
         28.08,
         28.01,
-        28.01
+        28.07
       ],
       "sp": [
         27.53,
@@ -774,7 +774,7 @@
         27.92,
         28.08,
         28.01,
-        28.01
+        28.07
       ],
       "sd": [
         0,
@@ -798,25 +798,25 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "Viking, IBD Stock Of The Day, Is Cruising Toward Buy Points After Scraping Bottom",
+          "source": "Investor's Business Daily",
+          "date": "Nov 27, 2026",
+          "snippet": "Stock Of The Day: Low river levels hit Viking over the summer, but travel stocks are rebounding with easing oil prices."
+        },
         {
           "title": "Can Carnival's $1.2B in Buybacks Support EPS as Debt Declines?",
           "source": "Zacks",
           "date": "Nov 27, 2026",
           "snippet": "CCL's $1.2B buyback and falling debt support EPS growth as stronger cash flow and high-cost debt repayment improve financial flexibility."
-        },
-        {
-          "title": "Carnival vs. Norwegian Cruise: Which Stock Has the Edge for 2027?",
-          "source": "Zacks",
-          "date": "Nov 27, 2026",
-          "snippet": "CCL enters 2027 with record bookings, improving yields and rising estimates, while NCLH targets a second-half recovery."
         }
       ]
     },
     "SCLX": {
-      "price": 0.88,
-      "change": 0.24,
-      "changePercent": 37.21,
-      "chg": 37.21,
+      "price": 0.91,
+      "change": 0.27,
+      "changePercent": 41.86,
+      "chg": 41.86,
       "history": [
         0.61,
         0.58,
@@ -835,7 +835,7 @@
         0.71,
         0.75,
         0.85,
-        0.88
+        0.91
       ],
       "sp": [
         0.61,
@@ -855,7 +855,7 @@
         0.71,
         0.75,
         0.85,
-        0.88
+        0.91
       ],
       "sd": [
         0,
