@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T21:33:27.520430+00:00",
-  "updated": "2026-11-27T21:33:27.520438+00:00",
+  "updatedAt": "2026-11-27T22:34:11.762714+00:00",
+  "updated": "2026-11-27T22:34:11.762726+00:00",
   "quotes": {
     "AAPL": {
       "price": 358.7,
@@ -475,16 +475,16 @@
       "anchorReturn": null,
       "headlines": [
         {
+          "title": "Billionaire Chase Coleman\u2019s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
+          "source": "24/7 Wall St.",
+          "date": "Nov 27, 2026",
+          "snippet": "A famed hedge fund keeps buying a newly public AI chipmaker even as the stock sinks far below its debut high. Before retirement investors copy the move, one detail about how Tiger sized the bet matters more than the purchase itself."
+        },
+        {
           "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
           "source": "Insider Monkey",
           "date": "Nov 27, 2026",
           "snippet": "Tech stocks aren\u2019t lacking in growth stories for 2027. The problem is that smart money is increasingly selective about which companies it\u2019s willing to pay a premium for. AI is still the big story, but skepticism is growing about whether the money invested will deliver the promised returns. You could see that shift very clearly [\u2026]"
-        },
-        {
-          "title": "Should You Pick Palantir Over Its Big Tech Rivals?",
-          "source": "Trefis",
-          "date": "Nov 27, 2026",
-          "snippet": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next."
         }
       ]
     },
@@ -500,14 +500,14 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.29,
+        149.27,
         146.97,
         148.77,
         149.35,
@@ -520,14 +520,14 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.29,
+        149.27,
         146.97,
         148.77,
         149.35,
@@ -669,7 +669,7 @@
         271.23,
         273.04,
         272.1,
-        272.95,
+        272.98,
         270.84,
         273.23,
         273.71,
@@ -689,7 +689,7 @@
         271.23,
         273.04,
         272.1,
-        272.95,
+        272.98,
         270.84,
         273.23,
         273.71,
