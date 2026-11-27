@@ -1,17 +1,16 @@
 {
-  "updatedAt": "2026-11-27T14:16:18.071237+00:00",
-  "updated": "2026-11-27T14:16:18.071246+00:00",
+  "updatedAt": "2026-11-27T15:19:31.908722+00:00",
+  "updated": "2026-11-27T15:19:31.908730+00:00",
   "quotes": {
     "AAPL": {
-      "price": 355.45,
-      "change": 1.38,
-      "changePercent": 0.39,
-      "chg": 0.39,
+      "price": 357.74,
+      "change": 2.16,
+      "changePercent": 0.61,
+      "chg": 0.61,
       "history": [
-        349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
@@ -25,13 +24,13 @@
         354.81,
         355.44,
         354.35,
-        355.45
+        355.45,
+        357.74
       ],
       "sp": [
-        349.25,
         350.16,
         351.4,
-        349.69,
+        349.62,
         351.43,
         351.58,
         352.9,
@@ -45,7 +44,8 @@
         354.81,
         355.44,
         354.35,
-        355.45
+        355.45,
+        357.74
       ],
       "sd": [
         0,
@@ -76,20 +76,19 @@
           "snippet": "Apple's share of US smartphone shipments jumped to 57% in the third quarter from 50% a year earlier as rising memory costs squeezed makers of budget Android phones, according to Counterpoint Research."
         },
         {
-          "title": "Apple Now Ships 57% of U.S. Smartphones as Memory Costs Crush Cheap Android Phones",
+          "title": "The Nasdaq Needs Two Huge Days to Dodge Its Worst November Since 2008",
           "source": "24/7 Wall St.",
           "date": "Nov 27, 2026",
-          "snippet": "Apple gained ground while the U.S. phone market shrank, but the same memory shortage squeezing its rivals is raising Apple's costs too. Can a bigger slice of a smaller pie justify a stock near its 52-week high?"
+          "snippet": "With only two trading sessions left and a holiday rally brewing in futures, the Nasdaq faces a month it hasn't seen in nearly two decades. The real danger may lie in what's driving the selloff, and which popular ETF is most exposed."
         }
       ]
     },
     "CSCO": {
-      "price": 94.18,
-      "change": 0.19,
-      "changePercent": 0.2,
-      "chg": 0.2,
+      "price": 95.69,
+      "change": 1.49,
+      "changePercent": 1.58,
+      "chg": 1.58,
       "history": [
-        96.16,
         96.56,
         96.85,
         96.85,
@@ -106,10 +105,10 @@
         93.46,
         94.12,
         94.09,
-        94.18
+        94.18,
+        95.69
       ],
       "sp": [
-        96.16,
         96.56,
         96.85,
         96.85,
@@ -126,7 +125,8 @@
         93.46,
         94.12,
         94.09,
-        94.18
+        94.18,
+        95.69
       ],
       "sd": [
         0,
@@ -151,26 +151,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Investors Heavily Search Cisco Systems, Inc. (CSCO): Here is What You Need to Know",
-          "source": "Zacks",
+          "title": "Exploits Arrive in \u201c10 to 15 Minutes,\u201d Patches in 45 Days, per Cisco\u2019s Jeetu Patel. Cue CrowdStrike",
+          "source": "TIKR",
           "date": "Nov 27, 2026",
-          "snippet": "Recently, Zacks.com users have been paying close attention to Cisco (CSCO). This makes it worthwhile to examine what the stock has in store."
+          "snippet": "Key TakeawaysCisco\u2019s Jeetu Patel says attackers can exploit a newly announced software flaw within 10 to 15 minutes, while patching takes about 45 days. Patching faster brings its own risk, as recent outages at JPMorgan Chase and Microsoft show."
         },
         {
-          "title": "Okta Drops 10% in a Month: Should Investors Buy the Stock on the Dip?",
+          "title": "Wall Street Analysts Think Cisco (CSCO) Is a Good Investment: Is It?",
           "source": "Zacks",
           "date": "Nov 27, 2026",
-          "snippet": "OKTA's 10.4% stock decline offers a buying opportunity as rising AI agent security demand, product adoption and enterprise expansion fuel long-term growth."
+          "snippet": "According to the average brokerage recommendation (ABR), one should invest in Cisco (CSCO). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?"
         }
       ]
     },
     "COF": {
-      "price": 182.62,
-      "change": 1.26,
-      "changePercent": 0.69,
-      "chg": 0.69,
+      "price": 185.0,
+      "change": 2.48,
+      "changePercent": 1.36,
+      "chg": 1.36,
       "history": [
-        180.31,
         180.27,
         181.04,
         180.09,
@@ -187,10 +186,10 @@
         182.64,
         183.0,
         182.6,
-        182.62
+        182.62,
+        185.0
       ],
       "sp": [
-        180.31,
         180.27,
         181.04,
         180.09,
@@ -207,7 +206,8 @@
         182.64,
         183.0,
         182.6,
-        182.62
+        182.62,
+        185.0
       ],
       "sd": [
         0,
@@ -231,27 +231,26 @@
       ],
       "anchorReturn": null,
       "headlines": [
+        {
+          "title": "3 US Consumer Credit Stocks Facing The Next Rate Test",
+          "source": "Simply Wall St.",
+          "date": "Nov 27, 2026",
+          "snippet": "Markets are heading into the November jobs report and the December Fed meeting with nerves already frayed, volatility elevated and questions mounting over how much more pressure higher rates could put on US domestic-oriented cyclical stocks. That mix can punish crowded trades yet open the door for investors willing to reassess what the recent swings might be mispricing. This article walks through three stocks from the screener that appear especially exposed to the latest news catalysts and..."
+        },
         {
           "title": "Capital One Financial (COF), What Is Behind The Latest Attention?",
           "source": "Simply Wall St.",
           "date": "Nov 27, 2026",
           "snippet": "Capital One Financial\u2019s payments and AI push comes into focus Capital One Financial (COF) is rolling out real-time payment capabilities built on public cloud infrastructure, using rails like FedNow and RTP to support faster transactions for corporate clients and business customers. The bank is also deploying artificial intelligence to tighten fraud detection while reducing false declines, a combination that could matter for investors watching how traditional lenders adapt their payments and..."
-        },
-        {
-          "title": "Cap One pursues payments modernization",
-          "source": "Payments Dive",
-          "date": "Nov 27, 2026",
-          "snippet": "The bank\u2019s investments in real-time and cloud-based rails are letting it keep pace with technology advances, a top payments executive said."
         }
       ]
     },
     "SCHD": {
-      "price": 35.27,
-      "change": 0.38,
-      "changePercent": 1.09,
-      "chg": 1.09,
+      "price": 35.56,
+      "change": 0.27,
+      "changePercent": 0.77,
+      "chg": 0.77,
       "history": [
-        34.4,
         34.42,
         34.39,
         34.37,
@@ -268,10 +267,10 @@
         35.38,
         35.4,
         35.27,
-        35.27
+        35.27,
+        35.56
       ],
       "sp": [
-        34.4,
         34.42,
         34.39,
         34.37,
@@ -288,7 +287,8 @@
         35.38,
         35.4,
         35.27,
-        35.27
+        35.27,
+        35.56
       ],
       "sd": [
         0,
@@ -327,12 +327,11 @@
       ]
     },
     "KO": {
-      "price": 97.65,
-      "change": 0.03,
-      "changePercent": 0.03,
-      "chg": 0.03,
+      "price": 97.15,
+      "change": -0.44,
+      "changePercent": -0.45,
+      "chg": -0.45,
       "history": [
-        95.96,
         96.19,
         96.08,
         95.98,
@@ -349,10 +348,10 @@
         98.49,
         98.36,
         98.1,
-        97.65
+        97.65,
+        97.15
       ],
       "sp": [
-        95.96,
         96.19,
         96.08,
         95.98,
@@ -369,7 +368,8 @@
         98.49,
         98.36,
         98.1,
-        97.65
+        97.65,
+        97.15
       ],
       "sd": [
         0,
@@ -394,26 +394,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "McDonald\u2019s Joined the Dividend Kings in September, but These 4 Have Been Kings for Decades",
-          "source": "24/7 Wall St.",
+          "title": "Stock Market Today: Dow Jumps 500 Points While Nvidia Wavers; Anthropic, Tesla, SpaceX Rally (Live Coverage)",
+          "source": "Investor's Business Daily",
           "date": "Nov 27, 2026",
-          "snippet": "A 50-year dividend streak proves a company has paid, not that it can keep paying. Five consumer giants now wear the Kings crown, yet each one faces a different threat to its next raise, and one carries a risk the market has already priced in."
+          "snippet": "The Dow Jones index jumps 500 points Friday as Nvidia stock wavers. Anthropic, SpaceX and Tesla rally."
         },
         {
-          "title": "Warren Buffett's Successor, Greg Abel, Has 47% of Berkshire Hathaway's $346 Billion Portfolio Invested in 3 Proven Winners",
-          "source": "Motley Fool",
+          "title": "The Dividend Portfolio It Takes to Pay $85,000 a Year",
+          "source": "24/7 Wall St.",
           "date": "Nov 27, 2026",
-          "snippet": "Nearly $163 billion of Berkshire\u2019s invested assets are concentrated in the Oracle of Omaha\u2019s and Abel\u2019s best ideas."
+          "snippet": "Chasing a bigger yield shrinks the nest egg you need, but it also hands your paycheck to the companies with the least room to keep paying. Which trade-off can a retiring couple live with?"
         }
       ]
     },
     "MSFT": {
-      "price": 489.75,
-      "change": -6.38,
-      "changePercent": -1.29,
-      "chg": -1.29,
+      "price": 491.64,
+      "change": 1.71,
+      "changePercent": 0.35,
+      "chg": 0.35,
       "history": [
-        497.9,
         496.24,
         497.45,
         492.97,
@@ -430,10 +429,10 @@
         489.93,
         492.99,
         489.54,
-        489.75
+        489.75,
+        491.64
       ],
       "sp": [
-        497.9,
         496.24,
         497.45,
         492.97,
@@ -450,7 +449,8 @@
         489.93,
         492.99,
         489.54,
-        489.75
+        489.75,
+        491.64
       ],
       "sd": [
         0,
@@ -475,26 +475,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Near-Equal ~$664B\u2013$678B Backlogs: Why Oracle\u2019s AI Concentration Risk Differs From Microsoft\u2019s",
-          "source": "24/7 Wall St.",
+          "title": "What you should expect from the November jobs report",
+          "source": "Yahoo Finance Video",
           "date": "Nov 27, 2026",
-          "snippet": "Oracle and Microsoft report almost identical backlogs, yet one rests on a handful of AI labs that must keep raising money while the other spreads across thousands of customers. Which promise would you trust when the cash runs thin?"
+          "snippet": "Washington Crossing Advisors senior portfolio manager Chad Morganlander sits down with \"The 8:30\" hosts Julie Hyman and Jake Conley to discuss what economists are expecting from next week's jobs report."
         },
         {
-          "title": "Advanced Micro Devices (AMD) After AI Data Center Wins Looks Cheap Or Already Priced In",
-          "source": "Simply Wall St.",
+          "title": "Anthropic, Meta and Microsoft Join AI Data Center Talks in Japan",
+          "source": "GuruFocus.com",
           "date": "Nov 27, 2026",
-          "snippet": "Advanced Micro Devices (AMD) stock is back in the spotlight after fresh data center milestones and heavy AI demand, with Helios rack systems and Instinct GPUs drawing large orders from Anthropic, Meta, Microsoft, OpenAI, and Oracle. Recent trading tells a mixed story for Advanced Micro Devices. The share price has pulled back sharply with a 30-day share price return of down 29.81% and a 90-day move of down 12.79%; yet momentum over a longer stretch remains strong, with an 81.69% year-to-date..."
+          "snippet": "Meta and Anthropic Could Get a New AI Hub in Japan. A $15 Billion Project Is Taking Shape"
         }
       ]
     },
     "NVDA": {
-      "price": 149.29,
-      "change": -6.09,
-      "changePercent": -3.92,
-      "chg": -3.92,
+      "price": 147.17,
+      "change": -2.13,
+      "changePercent": -1.43,
+      "chg": -1.43,
       "history": [
-        165.13,
         165.16,
         166.4,
         165.18,
@@ -504,17 +503,17 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.29
+        149.27,
+        147.17
       ],
       "sp": [
-        165.13,
         165.16,
         166.4,
         165.18,
@@ -524,14 +523,15 @@
         153.48,
         153.23,
         152.79,
-        155.47,
+        155.48,
         143.28,
         142.11,
         143.77,
         147.46,
         148.08,
         148.18,
-        149.29
+        149.27,
+        147.17
       ],
       "sd": [
         0,
@@ -556,26 +556,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Nvidia freezing chip orders to four Southeast Asian countries",
-          "source": "Yahoo Finance Video",
-          "date": "Nov 27, 2026",
-          "snippet": "Nvidia (NVDA) has reportedly halted chip orders to Southeast Asia, according to the Financial Times, as US regulators aim to tighten export controls to China.\n\nThe 8:30 Hosts Julie Hyman and Jake Conley are joined by Washington Crossing Advisors senior portfolio manager Chad Morganlander to discuss this headline following the chipmaking company's recent scandals."
-        },
-        {
-          "title": "Nvidia stock is still paying the price for the Jensen Huang CEO drama",
+          "title": "Stocks snap from a $6 trillion washout to a $3 trillion surge as Nvidia, Micron, and SpaceX bounce back",
           "source": "Yahoo Finance",
           "date": "Nov 27, 2026",
-          "snippet": "Nvidia's stock will need some time to find solid footing."
+          "snippet": "Wall Street is no longer running for the exits as chipmakers pull stocks off Wednesday's lows."
+        },
+        {
+          "title": "SpaceX, Tesla have had a bumpy 2026 thus far: What to know",
+          "source": "Yahoo Finance Video",
+          "date": "Nov 27, 2026",
+          "snippet": "Yahoo Finance Executive Editor Brian Sozzi focuses on Elon Musk's two public companies \u2014 SpaceX (SPCX) and Tesla (TSLA) \u2014 and their respective stock performances in 2026. While getting a slight boost at the time of this video's posting, SpaceX is still trading below its IPO price of $135 per share."
         }
       ]
     },
     "UAL": {
-      "price": 104.5,
-      "change": -3.3,
-      "changePercent": -3.06,
-      "chg": -3.06,
+      "price": 105.96,
+      "change": 1.44,
+      "changePercent": 1.38,
+      "chg": 1.38,
       "history": [
-        108.45,
         108.93,
         109.64,
         108.76,
@@ -592,10 +591,10 @@
         104.61,
         105.12,
         104.7,
-        104.5
+        104.5,
+        105.96
       ],
       "sp": [
-        108.45,
         108.93,
         109.64,
         108.76,
@@ -612,7 +611,8 @@
         104.61,
         105.12,
         104.7,
-        104.5
+        104.5,
+        105.96
       ],
       "sd": [
         0,
@@ -651,12 +651,11 @@
       ]
     },
     "GOOGL": {
-      "price": 272.95,
-      "change": -6.1,
-      "changePercent": -2.19,
-      "chg": -2.19,
+      "price": 271.99,
+      "change": -1.11,
+      "changePercent": -0.41,
+      "chg": -0.41,
       "history": [
-        284.18,
         283.51,
         283.58,
         282.31,
@@ -673,10 +672,10 @@
         271.23,
         273.04,
         272.1,
-        272.95
+        272.98,
+        271.99
       ],
       "sp": [
-        284.18,
         283.51,
         283.58,
         282.31,
@@ -693,7 +692,8 @@
         271.23,
         273.04,
         272.1,
-        272.95
+        272.98,
+        271.99
       ],
       "sd": [
         0,
@@ -718,26 +718,25 @@
       "anchorReturn": null,
       "headlines": [
         {
-          "title": "Man accused of \u2018trapping\u2019 Waymos and pelting them with eggs",
-          "source": "The Independent",
+          "title": "Anthropic Stock Jumps to Reveal Its True Place in the AI Trade",
+          "source": "Barrons.com",
           "date": "Nov 27, 2026",
-          "snippet": "Suspect allegedly targeted more than 30 robotaxis operating in Denver"
+          "snippet": "By now, we\u2019re all familiar with how an artificial-intelligence rally works. Less so, when it comes to Anthropic's role in it all."
         },
         {
-          "title": "Latest News In Cloud AI - Cloudera Advances Data Control With Digital Sovereignty Solution",
-          "source": "Simply Wall St.",
+          "title": "Stock Market Today: Dow Jumps 500 Points While Nvidia Wavers; Anthropic, Tesla, SpaceX Rally (Live Coverage)",
+          "source": "Investor's Business Daily",
           "date": "Nov 27, 2026",
-          "snippet": "Cloudera has unveiled a Digital Sovereignty solution designed to provide organizations with comprehensive control over their data and AI deployments across various environments, such as sovereign clouds, private data centers, and air-gapped settings. This solution integrates Cloudera Anywhere Cloud\u2122, Open Data Lakehouse, Unified Data Fabric, and Mistral open-weight models, ensuring consistent governance and security regardless of changing regulatory or operational requirements. By addressing..."
+          "snippet": "The Dow Jones index jumps 500 points Friday as Nvidia stock wavers. Anthropic, SpaceX and Tesla rally."
         }
       ]
     },
     "CCL": {
-      "price": 27.99,
-      "change": -0.41,
-      "changePercent": -1.44,
-      "chg": -1.44,
+      "price": 27.88,
+      "change": -0.12,
+      "changePercent": -0.43,
+      "chg": -0.43,
       "history": [
-        27.96,
         28.02,
         28.02,
         27.92,
@@ -754,10 +753,10 @@
         28.14,
         28.22,
         28.05,
-        27.99
+        27.99,
+        27.88
       ],
       "sp": [
-        27.96,
         28.02,
         28.02,
         27.92,
@@ -774,7 +773,8 @@
         28.14,
         28.22,
         28.05,
-        27.99
+        27.99,
+        27.88
       ],
       "sd": [
         0,
@@ -814,11 +814,10 @@
     },
     "SCLX": {
       "price": 0.65,
-      "change": 0.05,
-      "changePercent": 8.35,
-      "chg": 8.35,
+      "change": 0.01,
+      "changePercent": 1.55,
+      "chg": 1.55,
       "history": [
-        0.6,
         0.63,
         0.6,
         0.61,
@@ -835,10 +834,10 @@
         0.64,
         0.62,
         0.65,
+        0.65,
         0.65
       ],
       "sp": [
-        0.6,
         0.63,
         0.6,
         0.61,
@@ -854,6 +853,7 @@
         0.58,
         0.64,
         0.62,
+        0.65,
         0.65,
         0.65
       ],
